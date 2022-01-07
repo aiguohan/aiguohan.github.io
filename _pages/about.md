@@ -25,7 +25,7 @@ Most of my research projects focus on (1) developing principled data-driven appr
 
 ## My Schedule
 
-You can find my schedule [here](https://calendar.google.com/calendar/embed?mode=week&src=5k0ift9l47qhd7l06ugfegc4f0%40group.calendar.google.com&ctz=America%2FLos_Angeles). The "Week" view will present you the details of slots.
+You can find my schedule [here](https://outlook.office365.com/owa/calendar/8352237e97834ff4b59933c85ffdda0b@illinois.edu/e1223afd8dfa4d558c6197efe951e24413206911830300535651/calendar.html). The "Week" view will present you the details of slots.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&amp;wkst=1&amp;bgcolor=%23ffffff&amp;ctz=America%2FLos_Angeles&amp;src=NWswaWZ0OWw0N3FoZDdsMDZ1Z2ZlZ2M0ZjBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ&amp;color=%23D50000&amp;mode=week&amp;showTitle=0&amp;showNav=1&amp;showCalendars=0" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
