@@ -10,13 +10,15 @@ author_profile: true
 [[Google Scholar](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] 
 
 ### Peer-Reviewed Journal Papers
-* M. Byra, **A. Han**, A. S. Boehringer, Y. N. Zhang, W. D. O’Brien, Jr., J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and M. P. Andre, “Liver fat assessment in multiview sonography using transfer learning with convolutional neural networks,” J. Ultrasound Med. vol. 41, pp. 175–184, 2022. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.15693) <br/> 
-* **A. Han**, M. Byra, E. Heba, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “Noninvasive diagnosis of nonalcoholic fatty liver disease and quantification of liver fat with radiofrequency ultrasound data using one-dimensional convolutional neural networks,” Radiology, vol. 295, no. 2, pp. 342–350, 2020.  [[link]](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191160) [[code]](https://github.com/han51/nafld-1d-cnn) (Featured in an [editorial](https://pubs.rsna.org/doi/10.1148/radiol.2020200058)) <br/> 
+* J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba, “Quantitative ultrasound versus controlled attenuation parameter for liver fat assessment in patients suspected of NAFLD,” accepted by _Radiology_ (in press).<br/> 
+* M. Byra, **A. Han**, A. S. Boehringer, Y. N. Zhang, W. D. O’Brien, Jr., J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and M. P. Andre, “Liver fat assessment in multiview sonography using transfer learning with convolutional neural networks,” _J. Ultrasound Med._, vol. 41, pp. 175–184, 2022. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.15693) <br/> 
+* **A. Han**, M. Byra, E. Heba, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “Noninvasive diagnosis of nonalcoholic fatty liver disease and quantification of liver fat with radiofrequency ultrasound data using one-dimensional convolutional neural networks,” _Radiology_, vol. 295, no. 2, pp. 342–350, 2020.  [[link]](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191160) [[code]](https://github.com/han51/nafld-1d-cnn) [**(This paper was featured in an editorial.)**](https://pubs.rsna.org/doi/10.1148/radiol.2020200058) <br/> 
+* **A. Han**, Y. N. Zhang, A. S. Boehringer, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, M. A. Valasek, C. B. Sirlin, and W. D. O’Brien, Jr., “Assessment of hepatic steatosis in nonalcoholic fatty liver disease using quantitative ultrasound,” _Radiology_, vol. 295, no. 1, pp. 106–113, 2020. [[link]](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191152) <br/> 
+* S. Chen, B. L. McFarlin, B. T. Meagher, T. A. Peters, D. G. Simpson, W. D. O’Brien, Jr., and **A. Han**, “A phantom-based assessment of repeatability and reproducibility of transvaginal quantitative ultrasound,” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 66, pp. 1413–1420, 2019. [[link]](https://ieeexplore.ieee.org/document/8736856/) <br/> 
+* **A. Han**, Y. N. Zhang, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “Inter-platform reproducibility of ultrasonic attenuation and backscatter coefficients in assessing NAFLD,” _Eur. Radiol._, vol. 29, no. 9, pp. 4699–4708, 2019. [[link]](https://link.springer.com/article/10.1007%2Fs00330-019-06035-9)<br/> 
+* J. L. Rowles, **A. Han**, R. J. Miller, J. R. Kelly, C. C. Applegate, M. A. Wallig, W. D. O’Brien, Jr., and J. W. Erdman, Jr., “Low fat but not soy protein isolate was an effective intervention to reduce nonalcoholic fatty liver disease progression in C57BL/6J mice: monitored by a novel quantitative ultrasound (QUS) method,” _Nutr. Res._, vol. 63, pp. 95–105, 2019. [[link]](https://www.sciencedirect.com/science/article/pii/S0271531718308716?via%3Dihub)<br/> 
+* 
 
-### 2022
-
-* Unsupervised Deep Keyphrase Generation <br/>
-Xianjie Shen, Yinghan Wang, Rui Meng and Jingbo Shang. **AAAI 2022**. [[arXiv:2104.08729](https://arxiv.org/abs/2104.08729)] [[code](https://github.com/Jayshen0/Unsupervised-Deep-Keyphrase-Generation)]
 
 
 * ESC-GAN: Extending Spatial Coverage of Physical Sensors <br/>
