@@ -14,7 +14,7 @@ description              : &description "Resesarch Assistant Professor"
 url                      : https://aiguohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : ""
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shangjingbo1226/shangjingbo1226.github.io"
+repository               : "aiguohan/aiguohan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jingbo Shang"
+  name             : "First Last"
   avatar           : "/img/avatar.jpg"
-  bio              : "Assistant Professor"
+  bio              : "Research Assistant Professor"
   location         : "CSE 4104 / SDSC 211E"
-  employer         : "University of California, San Diego"
-  # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en"
-  email            : "jshang@ucsd.edu"
+  employer         : "University of Illinois at Urbana-Champaign"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public"
+  googlescholar    : "https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en"
+  email            : "han51@illinois.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   # uri              :
   # bitbucket        :
@@ -97,7 +97,7 @@ author:
   # flickr           :
   # facebook         :
   # foursquare       :
-  github           : "shangjingbo1226"
+  # github           : "aiguohan"
   # google_plus      :
   # keybase          :
   # instagram        :
