@@ -7,11 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=0SkFI4MAAAAJ&hl=en) \| [DBLP](http://dblp.uni-trier.de/pers/hd/s/Shang:Jingbo)] (\* Equal Contribution)
+[[Google Scholar](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] 
 
-### Book
-* [Phrase Mining from Massive Text and Its Applications](http://www.morganclaypool.com/doi/abs/10.2200/S00759ED1V01Y201702DMK013) <br/>
-Jialu Liu, Jingbo Shang and Jiawei Han. Morgan & Claypool Publishers, 2017.
+### Peer-Reviewed Journal Papers
+* M. Byra, **A. Han**, A. S. Boehringer, Y. N. Zhang, W. D. O’Brien, Jr., J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and M. P. Andre, “Liver fat assessment in multiview sonography using transfer learning with convolutional neural networks,” J. Ultrasound Med. vol. 41, pp. 175–184, 2022. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.15693) <br/> 
+* **A. Han**, M. Byra, E. Heba, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “Noninvasive diagnosis of nonalcoholic fatty liver disease and quantification of liver fat with radiofrequency ultrasound data using one-dimensional convolutional neural networks,” Radiology, vol. 295, no. 2, pp. 342–350, 2020.  [[link]](https://pubs.rsna.org/doi/full/10.1148/radiol.2020191160) [[code]](https://github.com/han51/nafld-1d-cnn) (Featured in an [editorial](https://pubs.rsna.org/doi/10.1148/radiol.2020200058)) <br/> 
 
 ### 2022
 
