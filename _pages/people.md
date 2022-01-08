@@ -13,6 +13,16 @@ Current Members
 ## Graduate Students
 
 <div class="row">
+     <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Karthik Nagabhushana">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zihastegki.github.io/">First Last</a></p>
+      </div>
+      </center>
+    </div>
     <div class="column">
       <center>
       <div class="author__avatar">
@@ -33,6 +43,7 @@ Current Members
       </div>
       </center>
     </div>
+    
 </div>
 
 
