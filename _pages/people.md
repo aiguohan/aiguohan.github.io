@@ -24,7 +24,9 @@ Current Members
             <p>Karthik Nagabhushana</p>
             <p>MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>     
       </div>
+     </div>
 </div>
+          
 <div class="row">
    <div class="column">
     </center>
@@ -37,7 +39,8 @@ Current Members
       <div class="author__content">
            <p>Zixuan Tian</p>
       </div>
-</div>           
+     </div>
+</div>        
 <div class="row">
    <div class="column">
     </center>
@@ -51,7 +54,8 @@ Current Members
             <p><a href = "https://zihastegki.github.io/">First Last</a></p>
       </div>
       </center>
-    </div>  
+      </div>
+     </div>
 </div>
 
 
