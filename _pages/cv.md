@@ -15,7 +15,7 @@ Education
 * M.S. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2011
 * B.S. in Acoustics, Nanjing University, 2008
 
-Work Experience
+Academic Appointments
 ======
 - **Current Appointments**
   * Research Assistant Professor, Department of Electrical and Computer Engineering, UIUC, 2019 - Present
