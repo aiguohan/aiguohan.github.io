@@ -46,7 +46,6 @@ Professional Activities and Services
 ======
 - **Member of Editorial Board** for journals:
   * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – present
-  *
 
 - **Session Chair** for conferences:
   * IEEE International Ultrasonics Symposium, 2017
@@ -59,7 +58,7 @@ Professional Activities and Services
   * Ad Hoc Member, NIH CTIS Study Section, October 2021
 
 - **Professional Committees**
-  * Co-chair, AIUM PEQUS Backscatter Working Group, 2020 – present
+  * Co-chair, AIUM/ PEQUS Backscatter Working Group, 2020 – present
   * Member, AIUM PEQUS Biomarker Committee, 2020 – present
   * Member, RSNA QIBA Committee, 2020 – present
   * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2015 – 2020
