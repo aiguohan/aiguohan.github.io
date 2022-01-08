@@ -17,8 +17,8 @@ Current Members
   </div>
   <div class="author__content">
     <p><b>Karthik Nagabhushana</b></p>
-      </center>
     </div>
+  </center>
   <left>
     <p>MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>     
   </left>
