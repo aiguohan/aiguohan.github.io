@@ -17,9 +17,15 @@ Education
 
 Work Experience
 ======
-- **University of Illinois at Urbana-Champaign**, Urbana, IL,  Mar 2019 - Present
-  * Research Assistant Professor, ECE
+- **Current Appointments**
+  * Research Assistant Professor, Department of Electrical and Computer Engineering, UIUC, 2019 - Present
+  * Faculty Fellow, National Center for Supercomputing Applications, UIUC, 2021 - Present
+  * Faculty Affiliate, Personalized Nutrition Initiative, UIUC, 2021 - Present
 
-  
-Service and Leadership
+- **Past Appointments**
+  * Postdoctoral Research Associate, Department of Electrical and Computer Engineering, UIUC, 2017 - 2019
+  * Visiting Scholar, Department of Electrical and Computer Engineering, UIUC, 2015 - 2016
+
+
+To be completed. Busy with a deadline now...
 ======
