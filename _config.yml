@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "First Last"
+title                    : "Aiguo Han"
 title_separator          : "-"
-name                     : &name "First Last"
+name                     : &name "Aiguo Han"
 description              : &description "Resesarch Assistant Professor"
 url                      : https://aiguohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : ""
@@ -81,11 +81,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "First Last"
-  avatar           : "/img/avatsar.jpg"
+  name             : "Aiguo Han"
+  avatar           : "/img/han51.jpg"
   bio              : "Research Assistant Professor"
-  location         : "CSE 4104 / SDSC 211E"
-  employer         : "University of Illinois at Urbana-Champaign"
+  location         : "2058 ECEB"
+  employer         : "University of Illinois"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public"
   googlescholar    : "https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en"
   email            : "han51@illinois.edu"
