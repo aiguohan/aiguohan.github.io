@@ -63,6 +63,16 @@ Current Members
         </div>
       </center>  
     </div>
+    <div class="column">
+      <center>
+        <div class="author__avatar">
+              <img src="/images/img/students/Yu Li.jpg" class="author__avatar" alt="Yu Li">  
+        </div>
+        <div class="author__content">
+          <p><b>Yu Li</b></p>
+        </div>
+      </center>  
+    </div>
     <div class="column">  
       <center>
         <div class="author__avatar">
