@@ -15,7 +15,7 @@ Current Members
   <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
 </div>
 <div class="author__content">
-  <b>Karthik Nagabhushana</b> <br/>
+   <p><b>Karthik Nagabhushana</b></p>
 </div>
 MS Theis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
 
@@ -23,7 +23,7 @@ MS Theis: <a href = "pdf link">Simulating acoustic wave reflection, transmission
       <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
 </div>
 <div class="author__content">
-   <b>Zixuan Tian</b>
+  <p><b>Zixuan Tian</b></p>
 </div>
 
 <div class="author__avatar">
