@@ -20,7 +20,8 @@ Current Members
             <img src="/images/img/students/Karthik.jpg" class="author__avatar" alt="Karthik Nagabhushana">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihastegki.github.io/">First Last</a></p>
+            <p>Karthik Nagabhushana</p>
+            <p>MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>         
       </div>
       </center>
     </div>
