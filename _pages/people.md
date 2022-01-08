@@ -37,7 +37,7 @@ Current Members
         <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">
   </div>
   <div class="author__content">
-        <p>**Yuxuan Liu**</p>
+    <p><b>Yuxuan Liu</b></p>
   </div>
 </center>  
 
