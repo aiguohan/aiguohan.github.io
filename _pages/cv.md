@@ -65,8 +65,9 @@ Professional Activities and Services
   * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2015 – 2020
   * Member, Computational Acoustics Technical Specialty Group, Acoustical Society of America, 2021 – 2024
 
-- **Professional Memberships**
- * Fellow, American Institute of Ultrasound in Medicine (AIUM) 
- * Member, Institute of Electrical and Electronics Engineers (IEEE) 
- * Member, IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society (UFFC) 
- * Member, Acoustical Society of America (ASA) 
+Professional Memberships
+======
+* Fellow, American Institute of Ultrasound in Medicine (AIUM) 
+* Member, Institute of Electrical and Electronics Engineers (IEEE) 
+* Member, IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society (UFFC) 
+* Member, Acoustical Society of America (ASA) 
