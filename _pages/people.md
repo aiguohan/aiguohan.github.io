@@ -20,6 +20,7 @@ Current Members
     <p>MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>     
   </div>
   </left>
+  
 <left>
   <div class="author__avatar">
         <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
@@ -28,6 +29,8 @@ Current Members
      <p><b>Zixuan Tian</b></p>
   </div>
   </left>
+  
+  <left>
   <div class="author__avatar">
         <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
   </div>
