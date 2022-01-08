@@ -16,10 +16,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/zihan wang.png" class="author__avatar" alt="Zihan Wang">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Zihan Wang">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihanwangki.github.io/">First Last</a></p>
+            <p><a href = "https://zihastegki.github.io/">First Last</a></p>
       </div>
       </center>
     </div>
@@ -32,10 +32,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/zihan wang.png" class="author__avatar" alt="Zihan Wang">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Zihan Wang">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihanwangki.github.io/">First Last</a></p>
+            <p><a href = "https://testgithub.io/">First Last</a></p>
       </div>
       </center>
     </div>
