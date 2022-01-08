@@ -76,14 +76,13 @@ Current Members
 Alumni
 ======
 ## Graduate Students
-- ABC
-- ABC
+- Yashuo Wu
+- Shashi Roshan
+- Zidong Ma
 
 ## Undergraduate Students
-- ABC
-- ABC
-
-- ABC (2021 --> CMU for Master study)
+- Churan He
+- Shi "Mike" Chen (2019 --> Standard for Master Study)
 
 <br/>
 
