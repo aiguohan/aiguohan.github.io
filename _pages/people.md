@@ -16,7 +16,17 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/test.png" class="author__avatar" alt="Zihan Wang">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Zixuan Tian">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://zihastegki.github.io/">First Last</a></p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Yuxuan Liu">
       </div>
       <div class="author__content">
             <p><a href = "https://zihastegki.github.io/">First Last</a></p>
@@ -32,7 +42,17 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/test.png" class="author__avatar" alt="Zihan Wang">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Calvin Lee">
+      </div>
+      <div class="author__content">
+            <p><a href = "https://testgithub.io/">First Last</a></p>
+      </div>
+      </center>
+    </div>
+    <div class="column">
+      <center>
+      <div class="author__avatar">
+            <img src="/images/img/students/test.png" class="author__avatar" alt="Yu Li">
       </div>
       <div class="author__content">
             <p><a href = "https://testgithub.io/">First Last</a></p>
