@@ -12,10 +12,10 @@ main:
   - title: "Awards"
     url: /awards/
 
-  - title: "Lab"
-    url: /lab/
+  - title: "People"
+    url: /people/
             
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "News"
+    url: /news/
     
   
