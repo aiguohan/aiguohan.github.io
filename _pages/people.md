@@ -42,6 +42,16 @@ Current Members
 </center>  
 
 ## Undergraduate Students
+
+<center>
+  <div class="author__avatar">
+        <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">
+  </div>
+  <div class="author__content">
+    <p><b>Qi Chen</b></p>
+  </div>
+</center>  
+
 <center>
   <div class="author__avatar">
         <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">
@@ -83,13 +93,13 @@ Current Members
 Alumni
 ======
 ## Graduate Students
-- Yashuo Wu
-- Shashi Roshan
-- Zidong Ma
+- Yashuo Wu (2021 --> PhD Student at UC Irvine)
+- Shashi Roshan (2021 --> Software Engineer II at Intuit)
+- Zidong Ma 
 
 ## Undergraduate Students
-- Churan He
-- Shi "Mike" Chen (2019 --> Stanford for Master Study)
+- Churan He (2022 --> Software Engineer at NVIDIA)
+- Shi "Mike" Chen (2019 --> MS Student at Stanford)
 
 <br/>
 
