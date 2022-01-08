@@ -14,7 +14,7 @@ Current Members
 
 <center>
   <div class="author__avatar">
-    <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana"> <br/>
+    <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
   </div>
   <div class="author__content">
     <p><b>Karthik Nagabhushana</b></p>
@@ -24,7 +24,7 @@ Current Members
 
 <center>
   <div class="author__avatar">
-        <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  <br/>
+        <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
   </div>
   <div class="author__content">
     <p><b>Zixuan Tian</b></p>
@@ -33,7 +33,7 @@ Current Members
 
 <center>
   <div class="author__avatar">
-        <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  <br/>
+        <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
   </div>
   <div class="author__content">
     <p><b>Yuxuan Liu</b></p>
@@ -46,7 +46,7 @@ Current Members
     <div class="column">
       <center>
         <div class="author__avatar">
-              <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  <br/>
+              <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  
         </div>
         <div class="author__content">
           <p><b>Qi Chen</b></p>
@@ -56,7 +56,7 @@ Current Members
     <div class="column">
       <center>
         <div class="author__avatar">
-              <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  <br/>
+              <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
         </div>
         <div class="author__content">
           <p><b>Calvin Lee</b></p>
@@ -66,7 +66,7 @@ Current Members
     <div class="column">  
       <center>
         <div class="author__avatar">
-              <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  <br/>
+              <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  
         </div>
         <div class="author__content">
           <p><b>Rohan Mohta</b></p>
@@ -76,7 +76,7 @@ Current Members
      <div class="column">
       <center>
         <div class="author__avatar">
-              <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  <br/>
+              <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  
         </div>
         <div class="author__content">
           <p><b>Adam Morgan</b></p>
@@ -86,7 +86,7 @@ Current Members
     <div class="column">
       <center>
         <div class="author__avatar">
-              <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  <br/>
+              <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  
         </div>
         <div class="author__content">
           <p><b>Pablo Sanchez</b></p>
