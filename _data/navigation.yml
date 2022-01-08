@@ -1,20 +1,23 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Research"
+    url: /research/
 
   - title: "Teaching"
     url: /teaching/    
 
   - title: "Experience"
     url: /cv/
-
-  - title: "Research"
-    url: /research/
-
-  - title: "People"
+ 
+  - title: "Team"
     url: /people/
             
+  - title: "Collaborators"
+    url: /collaborators/
+  
+  - title: "Publications"
+    url: /publications/
+
   - title: "News"
     url: /news/
     
