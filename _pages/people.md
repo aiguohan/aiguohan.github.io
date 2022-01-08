@@ -92,8 +92,8 @@ Current Members
 Alumni
 ======
 ## Graduate Students
-- **Yashuo Wu** (2021 --> PhD Student at UC Irvine)
-  MS Thesis: Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis
+- **Yashuo Wu** (2021 --> PhD Student at UC Irvine) </br>
+  MS Thesis: Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis 
 - **Shashi Roshan** (2021 --> Software Engineer II at Intuit)
 - **Zidong Ma** 
 
