@@ -28,10 +28,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/test.png" class="author__avatar" alt="Zixuan Tian">
+            <img src="/images/img/students/Zixuan.jpg" class="author__avatar" alt="Zixuan Tian">
       </div>
       <div class="author__content">
-            <p><a href = "https://zihastegki.github.io/">First Last</a></p>
+            <p><a href = "link">Zixuan Tian</a></p>
       </div>
       </center>
     </div>
