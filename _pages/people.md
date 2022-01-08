@@ -28,7 +28,7 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/Zixuan.jpg" class="author__avatar" alt="Zixuan Tian">
+            <img src="/images/img/students/Zixuan.jpeg" class="author__avatar" alt="Zixuan Tian">
       </div>
       <div class="author__content">
            <p>Zixuan Tian</p>
