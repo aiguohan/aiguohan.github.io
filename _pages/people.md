@@ -53,6 +53,15 @@ Current Members
 
 <center>
   <div class="author__avatar">
+        <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">
+  </div>
+  <div class="author__content">
+    <p><b>Rohan Mohta</b></p>
+  </div>
+</center>  
+
+<center>
+  <div class="author__avatar">
         <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">
   </div>
   <div class="author__content">
