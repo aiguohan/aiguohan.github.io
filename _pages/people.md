@@ -109,14 +109,13 @@ Alumni
 ======
 ## Graduate Students
 - **Yashuo Wu** (M.S. Program in Electrical and Computer Engineering, 2019-2021) --> PhD Student at UC Irvine  <br/>
-  MS Thesis: Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis 
+  MS Thesis: <a href = "pdf link">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
 - **Shashi Roshan** (M.S. Program in Statistics, 2020-2021) --> Software Engineer II at Intuit
 
 ## Undergraduate Students
 - **Churan He** (Undergrad in Electrical and Computer Engineering, 2018-2021) --> Software Engineer at NVIDIA  <br/>
-  Senior Theis: Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms
+  Senior Theis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Shi "Mike" Chen** (Undergrad in Electrical and Computer Engineering, 2016-2019) --> MS Student at Stanford  <br/>
-  Senior Theis: Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease
-
+  Senior Theis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 <br/>
 
