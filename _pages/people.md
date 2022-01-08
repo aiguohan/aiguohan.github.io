@@ -25,7 +25,7 @@ Current Members
 
 <center>
   <div class="author__avatar">
-        <img src="/images/img/students/Zixuan.jpeg" class="author__avatar" alt="Zixuan Tian">
+        <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">
   </div>
   <div class="author__content">
        <p>**Zixuan Tian**</p>
@@ -34,10 +34,10 @@ Current Members
 
 <center>
   <div class="author__avatar">
-        <img src="/images/img/students/test.png" class="author__avatar" alt="Yuxuan Liu">
+        <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">
   </div>
   <div class="author__content">
-        <p><a href = "https://zihastegki.github.io/">First Last</a></p>
+        <p>**Yuxuan Liu**</p>
   </div>
 </center>  
 
