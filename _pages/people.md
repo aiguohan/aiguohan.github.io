@@ -17,28 +17,28 @@ Current Members
     <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
   </div>
   <div class="author__content">
-    <p><b>Karthik Nagabhushana</b></p>
+-    <p><b>Karthik Nagabhushana</b></p>
     <p>MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>     
   </div>
 </left>
 
-<center>
+<left>
   <div class="author__avatar">
         <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
   </div>
   <div class="author__content">
-    <p><b>Zixuan Tian</b></p>
+-     <p><b>Zixuan Tian</b></p>
   </div>
-</center>
+</left>
 
-<center>
+<left>
   <div class="author__avatar">
         <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
   </div>
   <div class="author__content">
-    <p><b>Yuxuan Liu</b></p>
+-     <p><b>Yuxuan Liu</b></p>
   </div>
-</center>  
+</left>  
 
 ## Undergraduate Students
 
