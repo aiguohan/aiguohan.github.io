@@ -84,7 +84,7 @@ Alumni
 ======
 ## Graduate Students
 - **Yashuo Wu** (M.S. Program in Electrical and Computer Engineering, 2019-2021) --> PhD Student at UC Irvine  <br/>
-  MS Thesis: <a href = "pdf link">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
+  MS Thesis: <a href = "pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
 - **Shashi Roshan** (M.S. Program in Statistics, 2019-2021) --> Software Engineer II at Intuit
 
 ## Undergraduate Students
