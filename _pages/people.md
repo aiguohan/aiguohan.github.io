@@ -42,29 +42,33 @@ Current Members
 </center>  
 
 ## Undergraduate Students
+<center>
+  <div class="author__avatar">
+        <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">
+  </div>
+  <div class="author__content">
+    <p><b>Calvin Lee</b></p>
+  </div>
+</center>  
 
-<div class="row">
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">
-      </div>
-      <div class="author__content">
-            <p>Calvin Lee</p>
-      </div>
-      </center>
-    </div>
-    <div class="column">
-      <center>
-      <div class="author__avatar">
-            <img src="/images/img/students/test.png" class="author__avatar" alt="Yu Li">
-      </div>
-      <div class="author__content">
-            <p><a href = "https://testgithub.io/">First Last</a></p>
-      </div>
-      </center>
-    </div>
-</div>
+<center>
+  <div class="author__avatar">
+        <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">
+  </div>
+  <div class="author__content">
+    <p><b>Adam Morgan</b></p>
+  </div>
+</center>  
+
+<center>
+  <div class="author__avatar">
+        <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">
+  </div>
+  <div class="author__content">
+    <p><b>Pablo Sanchez</b></p>
+  </div>
+</center>  
+
 
 
 Alumni
