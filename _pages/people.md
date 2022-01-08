@@ -55,10 +55,10 @@ Current Members
     <div class="column">
       <center>
       <div class="author__avatar">
-            <img src="/images/img/students/test.png" class="author__avatar" alt="Calvin Lee">
+            <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">
       </div>
       <div class="author__content">
-            <p><a href = "https://testgithub.io/">First Last</a></p>
+            <p>Calvin Lee</p>
       </div>
       </center>
     </div>
