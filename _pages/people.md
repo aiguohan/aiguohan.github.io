@@ -31,7 +31,7 @@ Current Members
             <img src="/images/img/students/Zixuan.jpg" class="author__avatar" alt="Zixuan Tian">
       </div>
       <div class="author__content">
-            <p><a href = "link">Zixuan Tian</a></p>
+           <p>Zixuan Tian</p>
       </div>
       </center>
     </div>
