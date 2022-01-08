@@ -97,9 +97,9 @@ Alumni
 - Zidong Ma 
 
 ## Undergraduate Students
-- Churan He (2022 --> Software Engineer at NVIDIA)
+- Churan He (2022 --> Software Engineer at NVIDIA) </br>
   Senior Theis: Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms
-- Shi "Mike" Chen (2019 --> MS Student at Stanford)
+- Shi "Mike" Chen (2019 --> MS Student at Stanford) </br>
   Senior Theis: Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease
 
 <br/>
