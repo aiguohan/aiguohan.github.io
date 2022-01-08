@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Under construction ...
 Current Members
 ======
 
@@ -99,7 +98,9 @@ Alumni
 
 ## Undergraduate Students
 - Churan He (2022 --> Software Engineer at NVIDIA)
+  Senior Theis: Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms
 - Shi "Mike" Chen (2019 --> MS Student at Stanford)
+  Senior Theis: Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease
 
 <br/>
 
