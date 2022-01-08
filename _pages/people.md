@@ -52,8 +52,7 @@ Current Members
           <p><b>Qi Chen</b></p>
         </div>
       </center> 
-    </div>
-  
+    </div> 
     <div class="column">
       <center>
         <div class="author__avatar">
@@ -64,7 +63,6 @@ Current Members
         </div>
       </center>  
     </div>
-  
     <div class="column">  
       <center>
         <div class="author__avatar">
@@ -75,7 +73,6 @@ Current Members
         </div>
       </center>      
     </div>
-  
      <div class="column">
       <center>
         <div class="author__avatar">
@@ -86,7 +83,6 @@ Current Members
         </div>
       </center>  
     </div>
-
     <div class="column">
       <center>
         <div class="author__avatar">
