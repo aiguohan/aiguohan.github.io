@@ -19,21 +19,19 @@ Current Members
 </div>
 MS Theis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
 
-<left>
-  <div class="author__avatar">
-        <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
-  </div>
-  <div class="author__content">
-     <p><b>Zixuan Tian</b></p>
-  </div>
-  
-  <div class="author__avatar">
-        <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
-  </div>
-  <div class="author__content">
-     <p><b>Yuxuan Liu</b></p>
-  </div>
-</left>  
+<div class="author__avatar">
+      <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
+</div>
+<div class="author__content">
+   <p><b>Zixuan Tian</b></p>
+</div>
+
+<div class="author__avatar">
+      <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
+</div>
+<div class="author__content">
+   <p><b>Yuxuan Liu</b></p>
+</div>
 
 ## Undergraduate Students
 
