@@ -14,11 +14,11 @@ Current Members
 
 <left>
   <div class="author__avatar">
-    <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
   </div>
   <div class="author__content">
-    <p><b>Karthik Nagabhushana</b></p>
-    <p>MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>     
+    <p><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Karthik Nagabhushana</b></p>
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a></p>     
   </div>
 </left>
 
@@ -42,8 +42,6 @@ Current Members
 
 ## Undergraduate Students
 
-<div class="row">
-    <div class="column">
       <center>
         <div class="author__avatar">
               <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  
@@ -52,8 +50,7 @@ Current Members
           <p><b>Qi Chen</b></p>
         </div>
       </center> 
-    </div> 
-    <div class="column">
+
       <center>
         <div class="author__avatar">
               <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
@@ -62,8 +59,7 @@ Current Members
           <p><b>Calvin Lee</b></p>
         </div>
       </center>  
-    </div>
-    <div class="column">
+
       <center>
         <div class="author__avatar">
               <img src="/images/img/students/Yu Li.jpg" class="author__avatar" alt="Yu Li">  
@@ -72,8 +68,7 @@ Current Members
           <p><b>Yu Li</b></p>
         </div>
       </center>  
-    </div>
-    <div class="column">  
+
       <center>
         <div class="author__avatar">
               <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  
@@ -82,8 +77,7 @@ Current Members
           <p><b>Rohan Mohta</b></p>
         </div>
       </center>      
-    </div>
-     <div class="column">
+
       <center>
         <div class="author__avatar">
               <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  
@@ -92,8 +86,7 @@ Current Members
           <p><b>Adam Morgan</b></p>
         </div>
       </center>  
-    </div>
-    <div class="column">
+
       <center>
         <div class="author__avatar">
               <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  
@@ -103,7 +96,6 @@ Current Members
         </div>
       </center>  
     </div>
-  </div>
 
 Alumni
 ======
