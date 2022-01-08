@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-* [ECE 398 AS - Programming Methods for Machine Learning]() <br/>
+* [ECE 398 - Programming Methods for Machine Learning]() <br/>
   Spring 2022
 
 * [ECE 313/MATH 362 - Probability with Engineering Applications](https://courses.engr.illinois.edu/ece313/fa2021) <br/>
