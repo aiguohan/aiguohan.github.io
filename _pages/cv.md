@@ -58,8 +58,8 @@ Professional Activities and Services
   * Ad Hoc Member, NIH CTIS Study Section, October 2021
 
 - **Professional Committees**
-  * Co-chair, AIUM/ PEQUS Backscatter Working Group, 2020 – present
-  * Member, AIUM PEQUS Biomarker Committee, 2020 – present
+  * Co-chair, AIUM/QIBAS PEQUS Backscatter Working Group, 2020 – present
+  * Member, AIUM/QIBA PEQUS Biomarker Committee, 2020 – present
   * Member, RSNA QIBA Committee, 2020 – present
   * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2015 – 2020
   * Member, Computational Acoustics Technical Specialty Group, Acoustical Society of America, 2021 – 2024
