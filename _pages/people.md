@@ -15,7 +15,7 @@ Current Members
   <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
 </div>
 **Karthik Nagabhushana**
-MS Thesis: [Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications](link)<br/>
+MS Thesis: [Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications]<a href = "pdf link" </a> <br/>
 
 <left>
   <div class="author__avatar">
