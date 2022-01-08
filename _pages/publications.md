@@ -88,3 +88,18 @@ author_profile: true
 *	J. Garcia-Duitama, **A. Han**, B. Chayer, D. Garcia, M. L. Oelze, and G. Cloutier, “Experimental validation of plane wave imaging using k-space beamforming for spectral characterization of isotropic media,” _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2414–2417. [[link]](https://ieeexplore.ieee.org/abstract/document/6932268) <br/>
 
 *	W. D. O’Brien, Jr., **A. Han**, and T. Auger, “Quantitative ultrasound from single cells to biophantoms to tumors,” in _Conf. Proc. IEEE Eng. Med. Biol. Soc. (EMBS)_, 2012, pp. 1118–1120. [[link]](https://ieeexplore.ieee.org/abstract/document/6346131) <br/> 
+
+
+### Invited Talks
+*	**A. Han**, A. S. Boehringer, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, M. A. Valasek, C. B. Sirlin, and W. D. O’Brien, Jr., “Deep learning approaches for quantitative analysis of ultrasound backscattered signals,” 178th Meeting of Acoustical Society of America, San Diego, CA, Dec. 2–6, 2019. 
+
+* **A. Han**, Y. N. Zhang, A. S. Boehringer, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, M. A. Valasek, C. B. Sirlin, and W. D. O’Brien, Jr., “Assessment of hepatic steatosis in humans using multivariable quantitative ultrasound,” 178th Meeting of Acoustical Society of America, San Diego, CA, Dec. 2–6, 2019. 
+
+*	M. Byra, J. Wong, S. Shah, **A. Han**, W. D. O’Brien, Jr., J. Du, E. Chang, and M. P. Andre, “High-frequency quantitative ultrasound and B-mode analysis for characterization of peripheral nerves including carpal tunnel syndrome,” 178th Meeting of Acoustical Society of America, San Diego, CA, Dec. 2–6, 2019. 
+
+*	**A. Han**, “Quantitative ultrasound: Recent advances in theory and tissue characterization applications,” Seminar, Institute of Acoustics, Chinese Academic of Science, Beijing, China, Jun. 14, 2017. 
+
+*	**A. Han** and W. D. O’Brien, Jr, “Selected quantitative ultrasound successes,” 5th Joint Meeting of the Acoustical Society of America (ASA) and the Acoustical Society of Japan, Honolulu, HI, Nov. 28–Dec. 2, 2016. 
+
+*	**A. Han**, “Quantitative ultrasound from biophantoms to tumors,” Seminar, Beckman Institute for Advanced Science and Technology, University of Illinois at Urbana-Champaign, Urbana, IL, Sept. 11, 2013.
+
