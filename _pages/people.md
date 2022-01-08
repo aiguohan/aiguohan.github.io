@@ -23,7 +23,7 @@ MS Theis: <a href = "pdf link">Simulating acoustic wave reflection, transmission
       <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
 </div>
 <div class="author__content">
-   <p><b>Zixuan Tian</b></p>
+   <b>Zixuan Tian</b>
 </div>
 
 <div class="author__avatar">
