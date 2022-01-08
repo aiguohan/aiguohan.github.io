@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aiguo Han"
+title                    : "About"
 title_separator          : "-"
 name                     : &name "Aiguo Han"
 description              : &description "Resesarch Assistant Professor"
