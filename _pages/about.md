@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I'm an Research Assistant Professor at UIUC.
+I'm a Research Assistant Professor at UIUC.
 
 ## Research Interests
 
