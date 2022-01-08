@@ -17,7 +17,7 @@ Current Members
 <div class="author__content">
    <p><b>Karthik Nagabhushana</b></p>
 </div>
-MS Theis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
+MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
 
 <div class="author__avatar">
       <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
@@ -89,8 +89,8 @@ Alumni
 
 ## Undergraduate Students
 - **Churan He** (Undergrad in Electrical and Computer Engineering, 2018-2021) --> Software Engineer at NVIDIA  <br/>
-  Senior Theis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
+  Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Shi "Mike" Chen** (Undergrad in Electrical and Computer Engineering, 2016-2019) --> MS Student at Stanford  <br/>
-  Senior Theis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
+  Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 <br/>
 
