@@ -83,7 +83,7 @@ Alumni
 
 ## Undergraduate Students
 - Churan He
-- Shi "Mike" Chen (2019 --> Standard for Master Study)
+- Shi "Mike" Chen (2019 --> Stanford for Master Study)
 
 <br/>
 
