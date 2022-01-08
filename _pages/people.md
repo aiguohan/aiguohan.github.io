@@ -42,60 +42,50 @@ Current Members
 
 ## Undergraduate Students
 
-      <center>
-        <div class="author__avatar">
-              <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  
-        </div>
-        <div class="author__content">
-          <p><b>Qi Chen</b></p>
-        </div>
-      </center> 
+<left>
+  <div class="author__avatar">
+        <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  
+  </div>
+  <div class="author__content">
+    <p><b>Qi Chen</b></p>
+  </div>
 
-      <center>
-        <div class="author__avatar">
-              <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
-        </div>
-        <div class="author__content">
-          <p><b>Calvin Lee</b></p>
-        </div>
-      </center>  
+  <div class="author__avatar">
+        <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
+  </div>
+  <div class="author__content">
+    <p><b>Calvin Lee</b></p>
+  </div>
 
-      <center>
-        <div class="author__avatar">
-              <img src="/images/img/students/Yu Li.jpg" class="author__avatar" alt="Yu Li">  
-        </div>
-        <div class="author__content">
-          <p><b>Yu Li</b></p>
-        </div>
-      </center>  
+  <div class="author__avatar">
+        <img src="/images/img/students/Yu Li.jpg" class="author__avatar" alt="Yu Li">  
+  </div>
+  <div class="author__content">
+    <p><b>Yu Li</b></p>
+  </div>
+  
+  <div class="author__avatar">
+        <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  
+  </div>
+  <div class="author__content">
+    <p><b>Rohan Mohta</b></p>
+  </div>
 
-      <center>
-        <div class="author__avatar">
-              <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  
-        </div>
-        <div class="author__content">
-          <p><b>Rohan Mohta</b></p>
-        </div>
-      </center>      
+  <div class="author__avatar">
+        <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  
+  </div>
+  <div class="author__content">
+    <p><b>Adam Morgan</b></p>
+  </div>
 
-      <center>
-        <div class="author__avatar">
-              <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  
-        </div>
-        <div class="author__content">
-          <p><b>Adam Morgan</b></p>
-        </div>
-      </center>  
+  <div class="author__avatar">
+        <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  
+  </div>
+  <div class="author__content">
+    <p><b>Pablo Sanchez</b></p>
+  </div>
+</left>  
 
-      <center>
-        <div class="author__avatar">
-              <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  
-        </div>
-        <div class="author__content">
-          <p><b>Pablo Sanchez</b></p>
-        </div>
-      </center>  
-    </div>
 
 Alumni
 ======
