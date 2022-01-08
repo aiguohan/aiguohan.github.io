@@ -12,18 +12,20 @@ Current Members
 
 ## Graduate Students
 <div class="row">
-<div class="column">
-  <div class="author__avatar">
-    <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
+  <div class="column">
+    <div class="author__avatar">
+      <img src="/images/img/students/Karthik Nagabhushana.jpg" class="author__avatar" alt="Karthik Nagabhushana">
+    </div>
   </div>
-</div>
 
-<div class="column">  
-  <div class="author__content">
-     <p><b>Karthik Nagabhushana</b></p>
+  <div class="column">   
+    <left>
+    <div class="author__content">
+       <b>Karthik Nagabhushana</b><br/>
+        MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
+    </div>
+    </left>
   </div>
-  MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
-</div>
 </div>
   
 <div class="author__avatar">
