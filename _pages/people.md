@@ -89,9 +89,10 @@ Current Members
   <div class="column right">
     <div class="member profile">
       <strong>Yuxuan Liu</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
-      B.Eng. in Electronic Information Science and Technology, ufa (2021)<br>
-      <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
-      <strong>Research:</strong> Preterm birth<br>
+      <a href="mailto:yuxuan15@illinois.edu">yuxuan15@illinois.edu</a><br>
+      B.S. in Statistics, School of the Gifted Young, University of Science and Technology of China (2019)<br>
+      P.D. Candidate in Statistics, College of Liberal Arts & Sciences, UIUC (2020-present)
+      <strong>Research:</strong> Statistics, quantitative ultrasound, preterm birth<br>
     </div>
   </div>
 </div>
