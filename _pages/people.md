@@ -18,11 +18,11 @@ Current Members
 }
 
 .left {
-  width: 25%;
+  width: 20%;
 }
 
 .right {
-  width: 75%;
+  width: 80%;
 }
 </style>
 
