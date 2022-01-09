@@ -13,26 +13,26 @@ Current Members
 ## Graduate Students
 
 <div class="author__avatar">
-  <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" class="author__avatar" alt="Karthik Nagabhushana">
+  <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" vertical-align="middle" class="author__avatar" alt="Karthik Nagabhushana">
 </div>
 
-<div class="author__content">
+<div class="member profile">
    <strong>Karthik Nagabhushana</strong><br/>
     MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
 </div>
 
-<div class="member profile">
-  <div class="author__avatar">
-    <img src="/images/img/students/Zixuan Tian.jpg" align="left" margin="0px 10px 0px 0px" class="author__avatar" alt="Zixuan Tian"> 
-  </div>
-  <strong>Zixuan Tian</strong><br>
-  B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)
+<div class="author__avatar">
+  <img src="/images/img/students/Zixuan Tian.jpg" align="left" margin="0px 50px 0px 0px" class="author__avatar" alt="Zixuan Tian"> 
 </div>
-<div class="member profile"><a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a></div>
-<div class="member profile"><strong>Research:</strong> Ultrasound brain imaging</div>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
+ 
+<div class="member profile">
+  <strong>Zixuan Tian</strong><br>
+  B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
+  <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
+  <strong>Research:</strong> Ultrasound brain imaging<br>
+  <p>&nbsp;</p>
+</div>
+  
 <div class="author__avatar">
     <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="author__avatar" alt="Yuxuan Liu">  
 </div>
