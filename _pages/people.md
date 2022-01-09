@@ -89,8 +89,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>QiChen</strong><br>
-      B.Eng. in Electronic Information Science and Technology, Fudan UndsChina (2021)<br>
+      <strong>Qi Chen</strong><br>
+      Undergrad, Department of Electrical and Computer Engineering, UIUC () <br>
    </div>
     <p>&nbsp;</p>
   </div>
