@@ -67,12 +67,12 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="member__avatar" alt="Yuxuan Liu"> 
+      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Yuxuan Liu</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
+      <strong>Zixuan Tian</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
       <a href="mailto:yuxuan15@illinois.edu">yuxuan15@illinois.edu</a><br>
       B.S. in Statistics, School of the Gifted Young, University of Science and Technology of China (2019)<br>
       P.D. Candidate in Statistics, College of Liberal Arts & Sciences, UIUC (2020-present)<br>
@@ -130,6 +130,23 @@ Current Members
       <strong>Calvin Lee</strong><br>
       <a href="mailto:lclee3@illinois.edu">lclee3@illinois.edu</a><br>
       Undergrad in Electronical and Computer Engineering, UIUC (2019-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    </div>
+  </div>
+</div>
+<br>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Pablo Sanchez.jpg" align="left" class="member__avatar" alt="Pablo Sanchez"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Pablo Sanchez</strong><br>
+      <a href="mailto:lclee3@illinois.edu">lclee3@illinois.edu</a><br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2018-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
