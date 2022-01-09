@@ -38,8 +38,8 @@ Current Members
 
 <div class="row">
   <div class="column left">
-    <div class="author__avatar">
-      <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" class="author__avatar" alt="Karthik Nagabhushana">
+    <div class="member__avatar">
+      <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" class="member__avatar" alt="Karthik Nagabhushana">
     </div>
   </div>
   <div class="column right">  
@@ -52,8 +52,8 @@ Current Members
 
 <div class="row">
   <div class="column left">
-    <div class="author__avatar">
-      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="author__avatar" alt="Zixuan Tian"> 
+    <div class="member__avatar">
+      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
     </div>
   </div>
   <div class="column right">
@@ -69,8 +69,8 @@ Current Members
     
 <div class="row">
   <div class="column left">
-    <div class="author__avatar">
-      <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="author__avatar" alt="Yuxuan Liu"> 
+    <div class="member__avatar">
+      <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="member__avatar" alt="Yuxuan Liu"> 
     </div>
   </div>
   <div class="column right">
@@ -87,8 +87,8 @@ Current Members
 
 <div class="row">
   <div class="column left">
-    <div class="author__avatar">
-      <img src="/images/img/students/Qi Chen.jpg" align="left" class="author__avatar" alt="Qi Chen"> 
+    <div class="member__avatar">
+      <img src="/images/img/students/Qi Chen.jpg" align="left" class="member__avatar" alt="Qi Chen"> 
     </div>
   </div>
   <div class="column right">
@@ -101,36 +101,36 @@ Current Members
 
 
 <left>
-  <div class="author__avatar">
-        <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
+  <div class="member__avatar">
+        <img src="/images/img/students/Calvin Lee.jpg" class="member__avatar" alt="Calvin Lee">  
   </div>
   <div class="author__content">
     <p><strong>Calvin Lee</strong></p>
   </div>
 
-  <div class="author__avatar">
-        <img src="/images/img/students/Yu Li.jpg" class="author__avatar" alt="Yu Li">  
+  <div class="member__avatar">
+        <img src="/images/img/students/Yu Li.jpg" class="member__avatar" alt="Yu Li">  
   </div>
   <div class="author__content">
     <p><strong>Yu Li</strong></p>
   </div>
   
-  <div class="author__avatar">
-        <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  
+  <div class="member__avatar">
+        <img src="/images/img/students/Rohan Mohta.jpg" class="member__avatar" alt="Rohan Mohta">  
   </div>
   <div class="author__content">
     <p><strong>Rohan Mohta</strong></p>
   </div>
 
-  <div class="author__avatar">
-        <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  
+  <div class="member__avatar">
+        <img src="/images/img/students/Adam Morgan.jpg" class="member__avatar" alt="Adam Morgan">  
   </div>
   <div class="author__content">
     <p><strong>Adam Morgan</strong></p>
   </div>
 
-  <div class="author__avatar">
-        <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  
+  <div class="member__avatar">
+        <img src="/images/img/students/Pablo Sanchez.jpg" class="member__avatar" alt="Pablo Sanchez">  
   </div>
   <div class="author__content">
     <p><strong>Pablo Sanchez</strong></p>
