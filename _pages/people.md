@@ -69,10 +69,10 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Yuxuan Liu</strong><br>
+      <strong>Yuxuan Liu</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan UndsChina (2021)<br>
       <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
-      <strong>Research:</strong> Ultrasound brain imaging<br>
+      <strong>Research:</strong> Preterm birth<br>
     </div>
   </div>
 </div>
