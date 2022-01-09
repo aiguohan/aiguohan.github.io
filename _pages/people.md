@@ -106,6 +106,25 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
+      <img src="/images/img/students/Adam Morgan.jpg" align="left" class="member__avatar" alt="Adam Morgan"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Adam Morgan</strong><br>
+      <a href="mailto:adamjm3@illinois.edu">adamjm3@illinois.edu</a><br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    </div>
+  </div>
+</div>
+<br>
+
+
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
       <img src="/images/img/students/Qi Chen.jpg" align="left" class="member__avatar" alt="Qi Chen"> 
     </div>
   </div>
