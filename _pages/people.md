@@ -76,7 +76,8 @@ Current Members
       <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
       Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
-      <strong>Research:</strong> Ultrasound brain imaging<br>
+      <strong>Research:</strong> Ultrasound brain imaging &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
 </div>
