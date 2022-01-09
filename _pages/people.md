@@ -58,7 +58,6 @@ Current Members
       Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
       <strong>Research:</strong> Ultrasound brain imaging<br>
     </div>
-    <p>&nbsp;</p>
   </div>
 </div>
     
@@ -75,7 +74,6 @@ Current Members
       <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
       <strong>Research:</strong> Ultrasound brain imaging<br>
     </div>
-    <p>&nbsp;</p>
   </div>
 </div>
 
@@ -92,7 +90,6 @@ Current Members
       <strong>Qi Chen</strong><br>
       Undergrad, Department of Electrical and Computer Engineering, UIUC () <br>
    </div>
-    <p>&nbsp;</p>
   </div>
 </div>
 
