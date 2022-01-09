@@ -54,7 +54,11 @@ Current Members
   <div class="column right">  
     <div class="member profile">
       <strong>Karthik Nagabhushana</strong><br/>
-      MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
+      <a href="mailto:kjn3@illinois.edu">kjn3@illinois.edu</a><br>
+      B.Tech. in National Institute of Technology Karnataka, India (2012)<br>
+      Applications Engineer, Ultrasound Receiver Analog Front End (AFE), Texas Instruments (2012-2019)<br>
+      M.S. Student, Department of Electrical and Computer Engineering, UIUC (2020-present)<br>
+      M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
     </div>
   </div>
 </div>
