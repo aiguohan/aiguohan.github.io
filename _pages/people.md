@@ -29,7 +29,9 @@ Current Members
 </div>
 
 <div class="member profile">
-  <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian"> 
+  <div class="author__avatar">
+    <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian"> 
+  </div>
   <strong>Zixuan Tian</strong><br>
   B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)
 </div>
