@@ -39,6 +39,9 @@ Current Members
   .column {
     width: 100%;
   }
+  .left {
+    width: 75%;
+  }
 }  
 </style>
 
