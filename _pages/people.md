@@ -31,7 +31,7 @@ Current Members
 
 .right {
   width: 80%;
-  display: table-cell;
+  display: block;
   vertical-align: middle;
 }
   
