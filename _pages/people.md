@@ -62,6 +62,7 @@ Current Members
     </div>
   </div>
 </div>
+<br>
 
 <div class="row">
   <div class="column left">
@@ -79,6 +80,7 @@ Current Members
     </div>
   </div>
 </div>
+<br>
     
 <div class="row">
   <div class="column left">
@@ -96,6 +98,7 @@ Current Members
     </div>
   </div>
 </div>
+
 
 ## Undergraduate Students
 
