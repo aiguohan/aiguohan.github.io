@@ -42,12 +42,8 @@ Current Members
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<div class="author__content">
-  <p><strong>Zixuan Tian</strong></p>
-</div>
-
 <div class="author__avatar">
-      <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
+    <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="author__avatar" alt="Yuxuan Liu">  
 </div>
 <div class="author__content">
    <p><strong>Yuxuan Liu</strong></p>
