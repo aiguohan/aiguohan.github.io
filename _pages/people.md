@@ -34,6 +34,12 @@ Current Members
   display: table-cell;
   vertical-align: middle;
 }
+  
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}  
 </style>
 
 <div class="row">
