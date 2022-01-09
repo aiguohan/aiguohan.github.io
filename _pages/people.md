@@ -67,17 +67,16 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
+      <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="member__avatar" alt="Yuxuan Liu"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Zixuan Tian</strong><br>
-      <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
-      B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
-      Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
-      <strong>Research:</strong> Ultrasound brain imaging &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      <strong>Yuxuan Liu</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
+      <a href="mailto:yuxuan15@illinois.edu">yuxuan15@illinois.edu</a><br>
+      B.S. in Statistics, School of the Gifted Young, University of Science and Technology of China (2019)<br>
+      P.D. Candidate in Statistics, College of Liberal Arts & Sciences, UIUC (2020-present)<br>
+      <strong>Research:</strong> Statistics, quantitative ultrasound, preterm birth<br>
     </div>
   </div>
 </div>
