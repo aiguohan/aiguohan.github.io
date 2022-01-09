@@ -11,6 +11,7 @@ Current Members
 ======
 
 ## Graduate Students
+<style>
 .column {
   float: left;
   padding: 10px;
@@ -23,6 +24,7 @@ Current Members
 .right {
   width: 75%;
 }
+</style>
 
 <div class="row">
   <div class="column left">
@@ -32,7 +34,7 @@ Current Members
   </div>
   <div class="column right">  
     <div class="member profile">
-      <strong>Karthik Nagabhushana</strong>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br/>
+      <strong>Karthik Nagabhushana</strong><br/>
       MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
       <p>&nbsp;</p>
     </div>
