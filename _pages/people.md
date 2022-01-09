@@ -42,7 +42,7 @@ Current Members
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<div class="member profile">
+<p>
   <div class="author__avatar">
       <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="author__avatar" alt="Yuxuan Liu">  
   </div>
@@ -54,7 +54,7 @@ Current Members
         <strong>Research:</strong> Ultrasound brain imaging
       </p>
   </div>
-</div>
+</p>
   
 ## Undergraduate Students
 
