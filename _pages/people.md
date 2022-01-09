@@ -19,26 +19,25 @@ Current Members
 
 .left {
   width: 20%;
+  vertical-align: middle;
 }
 
 .right {
   width: 80%;
+  vertical-align: middle;
 }
 </style>
 
 <div class="row">
   <div class="column left">
     <div class="author__avatar">
-      <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" vertical-align="middle" class="author__avatar" alt="Karthik Nagabhushana">
+      <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" class="author__avatar" alt="Karthik Nagabhushana">
     </div>
   </div>
   <div class="column right">  
     <div class="member profile">
-      <div class="container">
-      <div class="vertical-center">
-        <strong>Karthik Nagabhushana</strong><br/>
-        MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
-      </div> </div>
+      <strong>Karthik Nagabhushana</strong><br/>
+      MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
     </div>
   </div>
 </div>
@@ -46,14 +45,14 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="author__avatar">
-      <img src="/images/img/students/Zixuan Tian.jpg" align="left" margin="0px 50px 0px 0px" class="author__avatar" alt="Zixuan Tian"> 
+      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="author__avatar" alt="Zixuan Tian"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
       <div class="vertical-center">
         <strong>Zixuan Tian</strong><br>
-        B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
+        B.Eng. in Electronic Information Science and Technology, Fudan UndsChina (2021)<br>
         <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
         <strong>Research:</strong> Ultrasound brain imaging<br>
       </div>
