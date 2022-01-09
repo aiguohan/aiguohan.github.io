@@ -76,7 +76,7 @@ Current Members
       <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
       Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
-      <strong>Research:</strong> Ultrasound brain imaging<br>
+      <strong>Research:</strong> Ultrasound brain imaging &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
 </div>
@@ -112,7 +112,7 @@ Current Members
     <div class="member profile">
       <strong>Adam Morgan</strong><br>
       <a href="mailto:adamjm3@illinois.edu">adamjm3@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)<br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
 </div>
@@ -128,7 +128,7 @@ Current Members
     <div class="member profile">
       <strong>Calvin Lee</strong><br>
       <a href="mailto:lclee3@illinois.edu">lclee3@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) <br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
 </div>
@@ -144,7 +144,7 @@ Current Members
     <div class="member profile">
       <strong>Pablo Sanchez</strong><br>
       <a href="mailto:psanch22@illinois.edu">psanch22@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2018-present) <br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2018-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
 </div>
@@ -160,21 +160,13 @@ Current Members
     <div class="member profile">
       <strong>Qi Chen</strong><br>
       <a href="mailto:qic7@illinois.edu">qic7@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) <br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
     </div>
   </div>
 </div>
 <br>
 
 
-
-<left>
-  <div class="member__avatar">
-        <img src="/images/img/students/Calvin Lee.jpg" class="member__avatar" alt="Calvin Lee">  
-  </div>
-  <div class="author__content">
-    <p><strong>Calvin Lee</strong></p>
-  </div>
 
   <div class="member__avatar">
         <img src="/images/img/students/Yu Li.jpg" class="member__avatar" alt="Yu Li">  
