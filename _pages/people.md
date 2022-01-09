@@ -21,25 +21,34 @@ Current Members
   <div class="column">   
     <left>
     <div class="author__content">
-       <b>Karthik Nagabhushana</b><br/>
+       <strong>Karthik Nagabhushana</strong><br/>
         MS Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
     </div>
     </left>
   </div>
 </div>
-  
-<div class="author__avatar">
+
+<div class="member profile">
+  <div class="author__avatar">
       <img src="/images/img/students/Zixuan Tian.jpg" class="author__avatar" alt="Zixuan Tian">  
+  </div>
+  <strong>Zixuan Tian</strong><br>
+  B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)
 </div>
+<div class="member profile"><a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a></div>
+<div class="member profile"><strong>Research:</strong> Ultrasound brain imaging</div>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 <div class="author__content">
-  <p><b>Zixuan Tian</b></p>
+  <p><strong>Zixuan Tian</strong></p>
 </div>
 
 <div class="author__avatar">
       <img src="/images/img/students/Yuxuan Liu.jpg" class="author__avatar" alt="Yuxuan Liu">  
 </div>
 <div class="author__content">
-   <p><b>Yuxuan Liu</b></p>
+   <p><strong>Yuxuan Liu</strong></p>
 </div>
 
 ## Undergraduate Students
@@ -49,42 +58,42 @@ Current Members
         <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  
   </div>
   <div class="author__content">
-    <p><b>Qi Chen</b></p>
+    <p><strong>Qi Chen</strong></p>
   </div>
 
   <div class="author__avatar">
         <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
   </div>
   <div class="author__content">
-    <p><b>Calvin Lee</b></p>
+    <p><strong>Calvin Lee</strong></p>
   </div>
 
   <div class="author__avatar">
         <img src="/images/img/students/Yu Li.jpg" class="author__avatar" alt="Yu Li">  
   </div>
   <div class="author__content">
-    <p><b>Yu Li</b></p>
+    <p><strong>Yu Li</strong></p>
   </div>
   
   <div class="author__avatar">
         <img src="/images/img/students/Rohan Mohta.jpg" class="author__avatar" alt="Rohan Mohta">  
   </div>
   <div class="author__content">
-    <p><b>Rohan Mohta</b></p>
+    <p><strong>Rohan Mohta</strong></p>
   </div>
 
   <div class="author__avatar">
         <img src="/images/img/students/Adam Morgan.jpg" class="author__avatar" alt="Adam Morgan">  
   </div>
   <div class="author__content">
-    <p><b>Adam Morgan</b></p>
+    <p><strong>Adam Morgan</strong></p>
   </div>
 
   <div class="author__avatar">
         <img src="/images/img/students/Pablo Sanchez.jpg" class="author__avatar" alt="Pablo Sanchez">  
   </div>
   <div class="author__content">
-    <p><b>Pablo Sanchez</b></p>
+    <p><strong>Pablo Sanchez</strong></p>
   </div>
 </left>  
 
