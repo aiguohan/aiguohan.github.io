@@ -40,19 +40,16 @@ Current Members
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-<p>
   <div class="author__avatar">
       <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="author__avatar" alt="Yuxuan Liu">  
   </div>
 
   <div class="author__content">
-     <p><strong>Yuxuan Liu</strong><br>
-        B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021) <br>
-        <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a> <br>
-        <strong>Research:</strong> Ultrasound brain imaging <br>
-      </p>
+     <p><strong>Yuxuan Liu</strong></p><br>
+     <p>B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021) </p><br>
+     <p><a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a> </p><br>
+     <p><strong>Research:</strong> Ultrasound brain imaging </p><br>
   </div>
-</p>
   
 ## Undergraduate Students
 
