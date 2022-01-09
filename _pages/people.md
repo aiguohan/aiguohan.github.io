@@ -93,7 +93,7 @@ Current Members
       <strong>Yuxuan Liu</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
       <a href="mailto:yuxuan15@illinois.edu">yuxuan15@illinois.edu</a><br>
       B.S. in Statistics, School of the Gifted Young, University of Science and Technology of China (2019)<br>
-      P.D. Candidate in Statistics, College of Liberal Arts & Sciences, UIUC (2020-present)
+      P.D. Candidate in Statistics, College of Liberal Arts & Sciences, UIUC (2020-present)<br>
       <strong>Research:</strong> Statistics, quantitative ultrasound, preterm birth<br>
     </div>
   </div>
