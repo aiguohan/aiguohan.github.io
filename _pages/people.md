@@ -120,7 +120,22 @@ Current Members
 </div>
 <br>
 
-
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Calvin Lee.jpg" align="left" class="member__avatar" alt="Calvin Lee"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Calvin Lee</strong><br>
+      <a href="mailto:lclee3@illinois.edu">lclee3@illinois.edu</a><br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    </div>
+  </div>
+</div>
+<br>
 
 <div class="row">
   <div class="column left">
