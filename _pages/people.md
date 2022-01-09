@@ -98,7 +98,7 @@ Current Members
     </div>
   </div>
 </div>
-
+<br>
 
 ## Undergraduate Students
 
