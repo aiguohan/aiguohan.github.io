@@ -40,7 +40,7 @@ Current Members
     width: 100%;
   }
   .left {
-    width: 20%;
+    width: 100px;
   }
 }  
 </style>
