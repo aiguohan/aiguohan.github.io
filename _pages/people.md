@@ -19,11 +19,13 @@ Current Members
 
 .left {
   width: 20%;
+  display: table-cell;
   vertical-align: middle;
 }
 
 .right {
   width: 80%;
+  display: table-cell;
   vertical-align: middle;
 }
 </style>
@@ -78,14 +80,23 @@ Current Members
 
 ## Undergraduate Students
 
-<left>
-  <div class="author__avatar">
-        <img src="/images/img/students/Qi Chen.jpg" class="author__avatar" alt="Qi Chen">  
+<div class="row">
+  <div class="column left">
+    <div class="author__avatar">
+      <img src="/images/img/students/Qi Chen.jpg" align="left" class="author__avatar" alt="Qi Chen"> 
+    </div>
   </div>
-  <div class="author__content">
-    <p><strong>Qi Chen</strong></p>
+  <div class="column right">
+    <div class="member profile">
+      <strong>QiChen</strong><br>
+      B.Eng. in Electronic Information Science and Technology, Fudan UndsChina (2021)<br>
+   </div>
+    <p>&nbsp;</p>
   </div>
+</div>
 
+
+<left>
   <div class="author__avatar">
         <img src="/images/img/students/Calvin Lee.jpg" class="author__avatar" alt="Calvin Lee">  
   </div>
