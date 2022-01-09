@@ -166,36 +166,37 @@ Current Members
 </div>
 <br>
 
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Rohan Mohta.jpg" align="left" class="member__avatar" alt="Rohan Mohta"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Rohan Mohta</strong><br>
+      <a href="mailto:rmohta2@illinois.edu">rmohta2@illinois.edu</a><br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2018-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    </div>
+  </div>
+</div>
+<br>
 
-
-  <div class="member__avatar">
-        <img src="/images/img/students/Yu Li.jpg" class="member__avatar" alt="Yu Li">  
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Yu Li.jpg" align="left" class="member__avatar" alt="Yu Li"> 
+    </div>
   </div>
-  <div class="author__content">
-    <p><strong>Yu Li</strong></p>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Yu Li</strong><br>
+      <a href="mailto:yuli9@illinois.edu">yuli9@illinois.edu</a><br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2020-present) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+    </div>
   </div>
-  
-  <div class="member__avatar">
-        <img src="/images/img/students/Rohan Mohta.jpg" class="member__avatar" alt="Rohan Mohta">  
-  </div>
-  <div class="author__content">
-    <p><strong>Rohan Mohta</strong></p>
-  </div>
-
-  <div class="member__avatar">
-        <img src="/images/img/students/Adam Morgan.jpg" class="member__avatar" alt="Adam Morgan">  
-  </div>
-  <div class="author__content">
-    <p><strong>Adam Morgan</strong></p>
-  </div>
-
-  <div class="member__avatar">
-        <img src="/images/img/students/Pablo Sanchez.jpg" class="member__avatar" alt="Pablo Sanchez">  
-  </div>
-  <div class="author__content">
-    <p><strong>Pablo Sanchez</strong></p>
-  </div>
-</left>  
+</div>
+<br>
 
 
 Alumni
