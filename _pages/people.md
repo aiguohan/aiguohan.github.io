@@ -53,8 +53,9 @@ Current Members
   <div class="column right">
     <div class="member profile">
       <strong>Zixuan Tian</strong><br>
-      B.Eng. in Electronic Information Science and Technology, Fudan UndsChina (2021)<br>
       <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
+      B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
+      Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
       <strong>Research:</strong> Ultrasound brain imaging<br>
     </div>
     <p>&nbsp;</p>
