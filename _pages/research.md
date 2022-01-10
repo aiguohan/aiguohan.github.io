@@ -7,6 +7,7 @@ author_profile: true
 {% include base_path %}
 
 <br>
+
 Ultrasound Brain Imaging Using Machine Learning
 ===
 A lay-language description is available [here](https://acoustics.org/1abab9-extracting-human-skull-properties-by-using-ultrasound-and-artificial-intelligence/).<br>
