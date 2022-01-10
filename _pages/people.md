@@ -222,10 +222,11 @@ Alumni
 - **Shashi Roshan** (M.S. Program in Statistics, 2019-2021) --> Software Engineer II at Intuit
 
 ## Undergraduate Students
-- **Churan He** (Undergrad in Electrical and Computer Engineering, 2018-2021) --> Software Engineer at NVIDIA  <br>
+- **Churan He** (Undergrad in Computer Engineering, 2018-2021) --> Software Engineer at NVIDIA  <br>
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Leonardo Lopez** (Undergrad in Computer Science, 2017-2021) --> Software Engineer at Google <br>
-- **Shi "Mike" Chen** (Undergrad in Electrical and Computer Engineering, 2016-2019) --> MS Student at Stanford  <br>
+- **Aditya Umakanth** (Undergrad in Computer Engineering, 2016-2020) --> Associate Software Engineer at Caterpillar Inc. <br>
+- **Shi "Mike" Chen** (Undergrad in Electrical Engineering, 2016-2019) --> MS Student at Stanford  <br>
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 <br/>
 
