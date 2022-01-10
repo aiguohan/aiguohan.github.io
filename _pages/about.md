@@ -20,4 +20,5 @@ Aiguo Han's schedule can be found [here](https://outlook.office365.com/owa/calen
 * [Department of Electrical and Computer Engineering](https://ece.illinois.edu/)
 * [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/)
 * [Personalized Nutrition Initiative](https://personalizednutrition.research.illinois.edu/)
+* [Health Maker Lab, Carle Illinois College of Medicine](https://healthmakerlab.medicine.illinois.edu/)
 * [University of Illinois at Urbana-Champaign](https://illinois.edu/)
