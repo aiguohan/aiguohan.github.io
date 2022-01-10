@@ -14,6 +14,8 @@ author_profile: true
 
 * [Preterm Birth Risk Assessment Using Machine Learning and Ultrasound](https://acoustics.org/1pbab5-predicting-spontaneous-preterm-birth-risk-is-improved-when-quantitative-ultrasound-data-are-included-with-prior-clinical-data/)
 
+* Automated Region of Interest Placement on Ultrasound Images
+
 * New Quantitative Ultrasound Biomarkers for Liver Cancer Diagnosis
 
 * Fundamental Mechnisms of Ultrasonic Wave Propagation in Biological Media
