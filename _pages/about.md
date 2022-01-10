@@ -18,7 +18,7 @@ Research Assistant Professor <br>
 
 Office: 2058 ECEB <br>
 e-mail: han51@illinois.edu <br>
-Address: 306 North Wright St, Urbana, IL 61801 <br>
+Address: 306 North Wright Street, Urbana, IL 61801 <br>
 
 ## Biography
 Aiguo Han is a Research Assistant Professor of the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). He is also a faculty member affiliated with National Center for Supercomputing Applications and Personalized Nutrition Initiative. <br>
