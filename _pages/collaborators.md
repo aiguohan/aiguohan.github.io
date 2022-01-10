@@ -41,4 +41,4 @@ author_profile: true
 * <strong> Dorathy Tamayo-Murillo, MD </strong> Department of Radiology, UCSD
 
 ### Creare
-* <strong> Jed Wilbur, M.S. </strong> Creare LLC
+* <strong> Jed Wilbur, MS </strong> Creare LLC
