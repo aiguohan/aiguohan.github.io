@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "News"
+    url: /news/
+    
   - title: "Research"
     url: /research/
 
@@ -15,7 +18,5 @@ main:
   - title: "Acknowledgements"
     url: /acknowledgements/
 
-  - title: "News"
-    url: /news/
     
   
