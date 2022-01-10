@@ -11,13 +11,13 @@ redirect_from:
 
 ## Aiguo Han, PhD
 Research Assistant Professor <br>
-[Bioacoustic Research Laboratory](http://www.brl.uiuc.edu/) <br>
+[Bioacoustics Research Laboratory](http://www.brl.uiuc.edu/) <br>
 [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) <br>
 [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/) <br>
 [Personalized Nutrition Initiative](https://personalizednutrition.research.illinois.edu/) <br>
 [University of Illinois at Urbana-Champaign](https://illinois.edu/) <br>
 
-e-mail: han51@illinois.edu <br>
+E-mail: han51@illinois.edu <br>
 Office: 2058 ECEB <br>
 Address: 306 North Wright Street, Urbana, IL 61801 <br>
 
