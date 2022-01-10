@@ -39,6 +39,3 @@ author_profile: true
 * <strong> Sameer B. Shah, PhD </strong> Departments of Orthopaedic Surgery and Bioengineering, UCSD
 * <strong> Claude B. Sirlin, MD </strong> Department of Radiology, UCSD
 * <strong> Dorathy Tamayo-Murillo, MD </strong> Department of Radiology, UCSD
-
-### Creare LLC
-* <strong> Jed Wilbur, M.S. </strong>  Creare LLC
