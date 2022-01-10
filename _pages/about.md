@@ -17,7 +17,7 @@ Research Assistant Professor <br>
 [University of Illinois at Urbana-Champaign](https://illinois.edu/) <br>
 
 Office: 2058 ECEB <br>
-e-Mail: han51@illinois.edu <br>
+e-mail: han51@illinois.edu <br>
 Address: 306 North Wright St, Urbana, IL 61801 <br>
 
 ## Biography
