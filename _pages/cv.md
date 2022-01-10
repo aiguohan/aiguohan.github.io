@@ -64,6 +64,8 @@ Professional Activities and Services
   * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2015 – 2020
   * Member, Computational Acoustics Technical Specialty Group, Acoustical Society of America, 2021 – 2024
 
+- **Mentor** [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/competition/), Health Maker Lab, Carle Illinois College of Medicine
+
 Professional Memberships
 ======
 * Fellow, American Institute of Ultrasound in Medicine (AIUM) 
