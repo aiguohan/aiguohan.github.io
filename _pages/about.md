@@ -17,11 +17,14 @@ Research Assistant Professor <br>
 [Personalized Nutrition Initiative](https://personalizednutrition.research.illinois.edu/) <br>
 [University of Illinois at Urbana-Champaign](https://illinois.edu/) <br>
 
-E-mail: han51@illinois.edu <br>
-Office: 2058 ECEB <br>
-Address: 306 North Wright Street, Urbana, IL 61801 <br>
+Contact Information: <br>
+2058 ECE Building <br>
+University of Illinois at Urbana-Champaign <br>
+306 N. Wright St. <br>
+Urbana, IL 61801 <br>
+email: han51@illinois.edu <br>
 
-Administrative support (ECE): Ms. Rebecca Bransley (rab11@illinois.edu)
+Administrative support (ECE): Ms. Rebecca Bransley (rab11@illinois.edu) <br>
 
 ## Biography
 Aiguo Han is a Research Assistant Professor of the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). He is also a faculty member affiliated with National Center for Supercomputing Applications and Personalized Nutrition Initiative at UIUC. <br>
