@@ -22,7 +22,7 @@ Office: 2058 ECEB <br>
 Address: 306 North Wright Street, Urbana, IL 61801 <br>
 
 ## Biography
-Aiguo Han is a Research Assistant Professor of the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). He is also a faculty member affiliated with National Center for Supercomputing Applications and Personalized Nutrition Initiative. <br>
+Aiguo Han is a Research Assistant Professor of the Department of Electrical and Computer Engineering at the University of Illinois at Urbana-Champaign (UIUC). He is also a faculty member affiliated with National Center for Supercomputing Applications and Personalized Nutrition Initiative at UIUC. <br>
 
 Aiguo's research is centered around ultrasound imaging and machine learning. He is particularly interested in quantitative ultrasound imaging, transcranial ultrasound brain imaging, machine learning in ultrasound imaging and diagnostics, ultrasonic wave propagation in biological media, and applications of biomedical ultrasound such as noninvasive liver fat quantification, preterm birth prediction, tumor characterization, cancer diagnosis, and neuromodulation. <br>
 
