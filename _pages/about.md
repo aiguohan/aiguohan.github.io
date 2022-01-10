@@ -16,8 +16,8 @@ Research Assistant Professor <br>
 [Personalized Nutrition Initiative](https://personalizednutrition.research.illinois.edu/) <br>
 [University of Illinois at Urbana-Champaign](https://illinois.edu/) <br>
 
-Office: 2058 ECEB <br>
 e-mail: han51@illinois.edu <br>
+Office: 2058 ECEB <br>
 Address: 306 North Wright Street, Urbana, IL 61801 <br>
 
 ## Biography
