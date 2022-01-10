@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-### Coming soon...
 <div><article class="d-flex mb-3">
 	<div class="recent-post-photo mr-3" style="background-image: url(//ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=54545&s=90); height: 70px; width: 90px; flex: 0 0 90px; background-size: cover; background-position: center center; background-repeat: no-repeat;"></div>
 	<h3 class="fs100x"><a href="/newsroom/news/2021-2022-ncsa-fellowships">ECE faculty among recipients of 2021-2022 NCSA Fellowships</a></h3>
