@@ -7,6 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
+Our research would not have been possible without funding from various sources and collaborations and support from many collaborators.
+
+Funding
+======
+* [<strong> Department of Electrical and Computer Engineering, University of Illinois at Urbana-Champaign </strong>](https://ece.illinois.edu/) 
+* [<strong> National Center for Supercomputing Applications, University of Illinois at Urbana-Champaign </strong>](https://www.ncsa.illinois.edu/)
+* [<strong> National Cancer Institute, National Institutes of Health </strong>](https://www.cancer.gov/)
+* [<strong> National Institute of Biomedical Imaging and Bioengineering </strong>](https://www.nibib.nih.gov/)
+* [<strong> Eunice Kennedy Shriver National Institute of Child Health and Human Development </strong>](https://www.nichd.nih.gov/)
+* [<strong> National Institute of Diabetes and Digestive and Kidney Diseases </strong>](https://www.niddk.nih.gov/)
+* [<strong> VA San Diego Healthcare System, Veterans Affairs </strong>](https://www.va.gov/directory/guide/facility.asp?id=119)
+
+Collaborators
+======
+
 ### University of Illinois at Urbana-Champaign
 
 * <strong> John W. Erdman, Jr., PhD </strong> Department of Food Science and Human Nutrition, UIUC
