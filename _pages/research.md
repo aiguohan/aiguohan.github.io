@@ -1,5 +1,5 @@
 ---
-title: "A selected list of research projects"
+title: "List of example research projects"
 permalink: /research/
 author_profile: true
 ---
