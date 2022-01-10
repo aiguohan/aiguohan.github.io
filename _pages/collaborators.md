@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-### University of Illinois at Urbana-Champaign
+University of Illinois at Urbana-Champaign
+======
 
 * <strong> John W. Erdman, Jr., PhD </strong> Department of Food Science and Human Nutrition, UIUC
 * <strong> Hannah D. Holscher, PhD </strong> Department of Food Science and Human Nutrition, UIUC
@@ -19,15 +20,18 @@ author_profile: true
 * <strong> Douglas G. Simpson, PhD </strong> Department of Statistics, UIUC
 * <strong> Matthew A. Wallig, PhD, DVM </strong> Department of Pathobiology, College of Veterinary Medicine, UIUC
 
-### University of Illinois at Chicago
+University of Illinois at Chicago
+======
 
 * <strong> Barbara McFarlin, PhD, CNM, RDMS, FACNM, FAAN </strong> Department of Human Development Nursing Science, College of Nursing, UIC
 
-### Pennsylvania State University
+Pennsylvania State University
+======
 
 * <strong> Yun Jing, PhD </strong> Graduate Program in Acoustics, College of Engineering, PSU
 
-### University of California, San Diego
+University of California, San Diego
+======
 
 * <strong> Michael P. Andre, PhD </strong> Department of Radiology, UCSD
 * <strong> Eric Chang, MD </strong> Department of Radiology, UCSD, and VA San Diego Healthcare System
@@ -39,3 +43,7 @@ author_profile: true
 * <strong> Sameer B. Shah, PhD </strong> Departments of Orthopaedic Surgery and Bioengineering, UCSD
 * <strong> Claude B. Sirlin, MD </strong> Department of Radiology, UCSD
 * <strong> Dorathy Tamayo-Murillo, MD </strong> Department of Radiology, UCSD
+
+Creare
+======
+* <strong> Jed Wilbur, M.S. * </strong> Creare LLC
