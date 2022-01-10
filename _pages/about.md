@@ -26,7 +26,7 @@ Aiguo Han is a Research Assistant Professor of the Department of Electrical and 
 
 Aiguo's research is centered around ultrasound imaging and machine learning. He is particularly interested in quantitative ultrasound imaging, transcranial ultrasound brain imaging, machine learning in ultrasound imaging and diagnostics, ultrasonic wave propagation in biological media, and applications of biomedical ultrasound such as noninvasive liver fat quantification, preterm birth prediction, tumor characterization, cancer diagnosis, and neuromodulation. <br>
 
-He is a member of the Acoustical Society of America (ASA), a member of the Institute of Electrical and Electronics Engineers (IEEE), and an elected Fellow of the American Institute of Ultrasound in Medicine (AIUM). <br>
+Aiguo is a member of the Acoustical Society of America (ASA), a member of the Institute of Electrical and Electronics Engineers (IEEE), and an elected Fellow of the American Institute of Ultrasound in Medicine (AIUM). <br>
 
 More information about Aiguo can be found [here](cv). <br>
 
