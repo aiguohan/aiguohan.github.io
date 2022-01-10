@@ -46,4 +46,4 @@ University of California, San Diego
 
 Creare
 ======
-* <strong> Jed Wilbur, M.S. * </strong> Creare LLC
+* <strong> Jed Wilbur, M.S. </strong> Creare LLC
