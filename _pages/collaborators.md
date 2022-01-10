@@ -11,8 +11,8 @@ author_profile: true
 
 * <strong> John W. Erdman, Jr., PhD </strong> Department of Food Science and Human Nutrition, UIUC
 * <strong> Hannah D. Holscher, PhD </strong> Department of Food Science and Human Nutrition, UIUC
-* <strong> Volodymyr Kindratenko, PhD </strong> National Center for Supercomputing Applications, UIUC
 * <strong> Naiman A. Khan, PhD </strong> Department of Kinesiology & Community Health, UIUC
+* <strong> Volodymyr Kindratenko, PhD </strong> National Center for Supercomputing Applications, UIUC
 * <strong> Dawei Mu, PhD </strong> National Center for Supercomputing Applications, UIUC
 * <strong> William D. O'Brien, Jr., PhD </strong> Department of Electrical and Computer Engineering, UIUC
 * <strong> Alexander Schwing, PhD </strong> Department of Electrical and Computer Engineering, UIUC
