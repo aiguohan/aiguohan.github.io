@@ -11,12 +11,12 @@ main:
  
   - title: "Team"
     url: /people/
-            
-  - title: "Acknowledgements"
-    url: /acknowledgements/
-  
+                          
   - title: "Publications"
     url: /publications/
+
+  - title: "Acknowledgements"
+    url: /acknowledgements/
 
   - title: "News"
     url: /news/
