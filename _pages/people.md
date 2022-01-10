@@ -12,6 +12,10 @@ Current Members
 
 ## Graduate Students
 <style>
+.container {
+  display: table;
+}
+
 .row {
   width: 100%;
   height: 100%;
@@ -45,6 +49,7 @@ Current Members
 }  
 </style>
 
+<div container>
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
@@ -75,14 +80,7 @@ Current Members
       <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
       Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
-      <strong>Research:</strong> Ultrasound brain imaging 
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+      <strong>Research:</strong> Ultrasound brain imaging<br>
     </div>
   </div>
 </div>
@@ -102,6 +100,7 @@ Current Members
       <strong>Research:</strong> Statistics, quantitative ultrasound, preterm birth<br>
     </div>
   </div>
+</div>
 </div>
 
 ## Undergraduate Students
