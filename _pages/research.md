@@ -6,6 +6,9 @@ author_profile: true
 
 {% include base_path %}
 
+A selected list of current and recent research projects
+===
+
 ### Ultrasound Brain Imaging Using Machine Learning
 A lay-language description is available [here](https://acoustics.org/1abab9-extracting-human-skull-properties-by-using-ultrasound-and-artificial-intelligence/).<br>
 ![Alt Text](https://acoustics.org/wp-content/uploads/2021/11/skull_animation.gif)
