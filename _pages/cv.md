@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: ""
+title: "Aiguo Han, PhD"
 permalink: /cv/
 author_profile: true
 redirect_from:
