@@ -54,6 +54,7 @@ Collaborators
 * <strong> Sameer B. Shah, PhD </strong> Departments of Orthopaedic Surgery and Bioengineering, UCSD
 * <strong> Claude B. Sirlin, MD </strong> Department of Radiology, UCSD
 * <strong> Dorathy Tamayo-Murillo, MD </strong> Department of Radiology, UCSD
+* <strong> Mark A. Valasek, MD, PhD </strong> Department of Pathology, UCSD
 
 ### Creare
 * <strong> Jed Wilbur, MS </strong> Creare LLC
