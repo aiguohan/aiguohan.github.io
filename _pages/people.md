@@ -115,7 +115,9 @@ Current Members
     <div class="member profile">
       <strong>Adam Morgan</strong><br>
       <a href="mailto:adamjm3@illinois.edu">adamjm3@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)  <br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>
     </div>
   </div>
 </div>
