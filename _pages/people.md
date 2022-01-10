@@ -140,6 +140,21 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
+      <img src="/images/img/students/Furkan Yazici.jpg" align="left" class="member__avatar" alt="Furkan Yazici"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Furkan Yazici</strong><br>
+      <a href="mailto:fyazici2@illinois.edu">fyazici2@illinois.edu</a><br>
+      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)       <br>
+    </div>
+  </div>
+</div>
+  
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
       <img src="/images/img/students/Pablo Sanchez.jpg" align="left" class="member__avatar" alt="Pablo Sanchez"> 
     </div>
   </div>
