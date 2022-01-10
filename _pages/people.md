@@ -13,7 +13,7 @@ Current Members
 ## Graduate Students
 <style>
 .container {
-  display: table;
+  display: table;  #The container is needed to keep the column width consistent among rows.  
 }
 
 .row {
