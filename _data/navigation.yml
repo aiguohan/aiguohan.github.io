@@ -12,8 +12,8 @@ main:
   - title: "Team"
     url: /people/
             
-  - title: "Collaborators"
-    url: /collaborators/
+  - title: "Acknowledgements"
+    url: /acknowledgements/
   
   - title: "Publications"
     url: /publications/
