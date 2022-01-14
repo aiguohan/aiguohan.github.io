@@ -13,6 +13,7 @@ name                     : &name "Aiguo Han"
 description              : &description "Resesarch Assistant Professor"
 url                      : https://aiguohan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : ""
+google_analytics         : G-WSB68PQ33F
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aiguohan/aiguohan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
