@@ -73,11 +73,7 @@ social:
 
 
 # Analytics
-analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : G-WSB68PQ33F
-
+google_analytics: G-WSB68PQ33F
 
 # Site Author
 author:
