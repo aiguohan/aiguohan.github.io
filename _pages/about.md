@@ -11,7 +11,6 @@ redirect_from:
 
 ## Aiguo Han, PhD
 Research Assistant Professor <br>
-[Bioacoustics Research Laboratory](http://www.brl.uiuc.edu/) <br>
 [Department of Electrical and Computer Engineering](https://ece.illinois.edu/) <br>
 [National Center for Supercomputing Applications](https://www.ncsa.illinois.edu/) <br>
 [Personalized Nutrition Initiative](https://personalizednutrition.research.illinois.edu/) <br>
