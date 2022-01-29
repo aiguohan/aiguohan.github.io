@@ -28,6 +28,7 @@ Academic Appointments
 
 Honors and Awards
 ======
+* NIH NIBIB Trailblazer Award, 2022
 * Illinois Delta Allocation Award, 2022
 * Fellow, American Institute of Ultrasound in Medicine (AIUM), 2021
 * Faculty Fellow, National Center for Supercomputing Applications, 2021
