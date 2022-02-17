@@ -11,6 +11,9 @@ author_profile: true
 
 ### Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
+
+*	X. Chen, M. R. Lowerison, Z. Dong, **A. Han**, and P. Song*, “Deep learning-based microbubble localization for ultrasound localization microscopy,” accepted by _IEEE Trans. Ultrason. Ferroelectr. Freq._ (in press). <br/>
+
 * J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “Quantitative ultrasound versus controlled attenuation parameter for liver fat assessment in patients suspected of NAFLD,” accepted by _Radiology_ (in press).<br/> 
 
 * M. Byra*, **A. Han**, A. S. Boehringer, Y. N. Zhang, W. D. O’Brien, Jr., J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and M. P. Andre, “Liver fat assessment in multiview sonography using transfer learning with convolutional neural networks,” _J. Ultrasound Med._, vol. 41, pp. 175–184, 2022. [[link]](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.15693) <br/> 
@@ -60,8 +63,6 @@ author_profile: true
 
 ### Manuscripts Under Review/Revision
 * K. Nagabhushana, Q. Wang, W. D. O’Brien, Jr., and **A. Han***, “Pulse-echo technique to compensate laminate membrane transmission loss in phantom attenuation measurements,” _J. Ultrasound Med._ (Under revision). <br/>
-
-*	X. Chen, M. R. Lowerison, Z. Dong, **A. Han**, and P. Song*, “Deep learning-based microbubble localization for ultrasound localization microscopy,” _IEEE Trans. Ultrason. Ferroelectr. Freq._ (Under revision). <br/>
 
 
 ### Invited Book Chapters
