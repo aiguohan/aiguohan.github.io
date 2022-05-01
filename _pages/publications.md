@@ -12,7 +12,9 @@ author_profile: true
 ### Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
 
-* J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “Direct comparison of quantitative US versus versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD,” accepted by _Radiology_ (in press). [[link]] (https://doi.org/10.1148/radiol.211131) <br/> 
+* K. Nagabhushana, Q. Wang, and **A. Han*** Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements,” accepted by _J. Ultrasound Med_ (in press).
+
+* J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD,” _Radiology_ (Published Online: Mar 29 2022). [[link]] (https://doi.org/10.1148/radiol.211131) [**(This paper was featured in an editorial in Radiology.)**](https://pubs.rsna.org/doi/10.1148/radiol.213052) <br/> 
 
 *	X. Chen, M. R. Lowerison, Z. Dong, **A. Han**, and P. Song*, “Deep learning-based microbubble localization for ultrasound localization microscopy,” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 69, no. 4, pp. 1312–1325, 2022. [[link]] (https://ieeexplore.ieee.org/document/9715054) <br/>
 
