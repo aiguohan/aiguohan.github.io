@@ -28,6 +28,7 @@ Academic Appointments
 
 Honors and Awards
 ======
+* IEEE TMI Gold Distinguished Reviewer, 2022
 * NIH NIBIB Trailblazer Award, 2022
 * Illinois Delta Allocation Award, 2022
 * Fellow, American Institute of Ultrasound in Medicine (AIUM), 2021
@@ -49,14 +50,12 @@ Professional Activities and Services
   * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – present
 
 - **Session Chair** for conferences:
-  * IEEE International Ultrasonics Symposium, 2017
-  * IEEE International Ultrasonics Symposium, 2020
-  * IEEE International Ultrasonics Symposium, 2021
+  * IEEE International Ultrasonics Symposium, 2017, 2020, 2021, and 2022
 
 - **Reviewer** for grants:
   * Mitacs Accelerate, 2020
   * UIUC Campus Research Board, 2021
-  * Ad Hoc Member, NIH CTIS Study Section, October 2021
+  * Ad Hoc Member, NIH CTIS Study Section, October 2021 and June 2022
 
 - **Professional Committees**
   * Member, IEEE UFFC IUS Medical Ultrasonics Technical Program Committee, 2022 – 2025
