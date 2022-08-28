@@ -68,8 +68,9 @@ author_profile: true
 
 
 ### Manuscripts Under Review/Revision
-* K. Nagabhushana, Q. Wang, W. D. O’Brien, Jr., and **A. Han***, “Pulse-echo technique to compensate laminate membrane transmission loss in phantom attenuation measurements,” _J. Ultrasound Med._ (Under revision). <br/>
+* S. Sethi, N. A. Burd, D. M. Pindus, **A. Han**, W. D. O’Brien, Jr., H. D. Holscher, and N. A. Khan*, “Utility of anthropometrics and blood markers as predictors of hepatic steatosis across metabolic phenotypes,” _J. Hepatol._ (Under review). <br/> 
 
+* B. L. McFarlin*, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, W. D. O’Brien, Jr., “Predicting spontaneous preterm birth risk is improved when quantitative ultrasound data are included with historical clinical data,” _Ultrasound Obstet. Gynecol._ (Under review). <br/>
 
 ### Invited Book Chapters
 *	**A. Han**, “Extracting quantitative ultrasonic parameters from backscatter coefficient,” in J. Mamou and M. L. Oelze (Eds.), _Quantitative Ultrasound in Soft Tissues (2nd ed.)_ (Under review) <br/>
