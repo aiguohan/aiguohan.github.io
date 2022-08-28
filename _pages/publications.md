@@ -12,6 +12,10 @@ author_profile: true
 ### Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
 
+* Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. Shah*, “Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high frequency ultrasound acquisitions in human median nerve,” accepted by _Ultrasound Med. Biol._ (in press).
+
+* K. Wear*, **A. Han**, J. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “Ultrasound backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse Echo Quantitative Ultrasound (PEQUS) Initiative,” accepted by _Radiology_ (in press). 
+
 * K. Nagabhushana, Q. Wang, and **A. Han***, “Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements,” accepted by _J. Ultrasound Med_ (in press).
 
 * J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD,” _Radiology_ (Published Online: Mar 29 2022). [[link]](https://doi.org/10.1148/radiol.211131) [**(This paper was featured in an editorial in Radiology.)**](https://pubs.rsna.org/doi/10.1148/radiol.213052) <br/> 
