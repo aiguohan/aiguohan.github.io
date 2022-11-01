@@ -37,7 +37,3 @@ More information about Aiguo can be found [here](cv). <br>
 ## Hiring
 Aiguo is recruiting graduate and undergraduate students with research assistantships available. Individuals with background and interests in acoustics, ultrasound imaging and/or machine learning are encouraged to contact Aiguo via e-mail. <br>
 
-## Schedule
-Aiguo's schedule can be found [here](https://outlook.office365.com/owa/calendar/8352237e97834ff4b59933c85ffdda0b@illinois.edu/e1223afd8dfa4d558c6197efe951e24413206911830300535651/calendar.html). The "Week" view will present you the details of slots.
-
-<iframe src="https://outlook.office365.com/owa/calendar/8352237e97834ff4b59933c85ffdda0b@illinois.edu/e1223afd8dfa4d558c6197efe951e24413206911830300535651/calendar.html" style="border:solid 1px #777"  width="1000" height="750" frameborder="0" scrolling="no"></iframe>
