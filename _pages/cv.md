@@ -18,11 +18,11 @@ Education
 Academic Appointments
 ======
 - **Current Appointments**
-  * Research Assistant Professor, Department of Electrical and Computer Engineering, UIUC, 2019 - Present
-  * Faculty Fellow, National Center for Supercomputing Applications, UIUC, 2021 - Present
-  * Faculty Affiliate, Personalized Nutrition Initiative, UIUC, 2021 - Present
+  * Assistant Professor, Department of Biomedical Engineering and Mechanics, Virginia Tech, 2023 - Present
 
 - **Past Appointments**
+  * Research Assistant Professor, Department of Electrical and Computer Engineering, UIUC, 2019 - 2023
+  * Research Assistant Professor, National Center for Supercomputing Applications, UIUC, 2021 - 2023
   * Postdoctoral Research Associate, Department of Electrical and Computer Engineering, UIUC, 2017 - 2019
   * Visiting Scholar, Department of Electrical and Computer Engineering, UIUC, 2015 - 2016
 
@@ -47,7 +47,7 @@ Honors and Awards
 Professional Activities and Services
 ======
 - **Member of Editorial Board** for journals:
-  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – present
+  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – 2023
 
 - **Session Chair** for conferences:
   * IEEE International Ultrasonics Symposium, 2017, 2020, 2021, and 2022
