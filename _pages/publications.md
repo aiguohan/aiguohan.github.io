@@ -12,11 +12,13 @@ author_profile: true
 ### Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
 
-* Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. Shah*, “Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high frequency ultrasound acquisitions in human median nerve,” accepted by _Ultrasound Med. Biol._ (in press).
+* B. L. McFarlin*, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr., “Predicting spontaneous preterm birth risk is improved when quantitative ultrasound data are included with historical clinical data,” _Ultrasound Med. Biol._ (in press).
 
-* K. Wear*, **A. Han**, J. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “Ultrasound backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse Echo Quantitative Ultrasound (PEQUS) Initiative,” accepted by _Radiology_ (in press). 
+* Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. Shah*, “Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high frequency ultrasound acquisitions in human median nerve,” _Ultrasound Med. Biol._, vol. 49, no. 1, pp. 122–135, 2023.  [[link]](https://doi.org/10.1016/j.ultrasmedbio.2022.08.007) <br/> 
 
-* K. Nagabhushana, Q. Wang, and **A. Han***, “Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements,” accepted by _J. Ultrasound Med_ (in press).
+* K. Nagabhushana, Q. Wang, and **A. Han***, “Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements,” _J. Ultrasound Med_, vol. 42, pp. 45–58, 2023. [[link]](https://doi.org/10.1002/jum.16005) <br/> 
+ 
+* K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative,” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. [[link]](https://doi.org/10.1148/radiol.220606) <br/> 
 
 * J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD,” _Radiology_ (Published Online: Mar 29 2022). [[link]](https://doi.org/10.1148/radiol.211131) [**(This paper was featured in an editorial in Radiology.)**](https://pubs.rsna.org/doi/10.1148/radiol.213052) <br/> 
 
@@ -66,17 +68,15 @@ author_profile: true
 
 * M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms,” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. [[link]](https://asa.scitation.org/doi/10.1121/1.3483740)<br/>  
 
-
 ### Manuscripts Under Review/Revision
 * S. Sethi, N. A. Burd, D. M. Pindus, **A. Han**, W. D. O’Brien, Jr., H. D. Holscher, and N. A. Khan*, “Utility of anthropometrics and blood markers as predictors of hepatic steatosis across metabolic phenotypes,” _J. Hepatol._ (Under review). <br/> 
 
-* B. L. McFarlin*, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, W. D. O’Brien, Jr., “Predicting spontaneous preterm birth risk is improved when quantitative ultrasound data are included with historical clinical data,” _Ultrasound Obstet. Gynecol._ (Under review). <br/>
-
 ### Invited Book Chapters
-*	**A. Han**, “Extracting quantitative ultrasonic parameters from backscatter coefficient,” in J. Mamou and M. L. Oelze (Eds.), _Quantitative Ultrasound in Soft Tissues (2nd ed.)_ (Under review) <br/>
-
+*	**A. Han**, “Extracting quantitative ultrasonic parameters from backscatter coefficient,” in J. Mamou and M. L. Oelze (Eds.), _Quantitative Ultrasound in Soft Tissues (2nd ed.)_ (In press) <br/>
 
 ### Conference Papers
+*	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms,” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.  [[link]](https://ieeexplore.ieee.org/document/9957992) <br/>
+
 *	Y. Wu, L. Lopez, M. P. Andre, R. Loomba, M. A. Valasek, M. A. Wallig, W. D. O’Brien, Jr., and **A. Han**, “Liver fat droplet dependency on ultrasound backscatter coefficient in nonalcoholic fatty liver,” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.  [[link]](https://ieeexplore.ieee.org/abstract/document/9251748) <br/>
 
 *	K. Nagabhushana, W. D. O’Brien, Jr., and **A. Han**, “Technique to compensate for unknown laminate transmission loss in phantom attenuation measurements,” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.  [[link]](https://ieeexplore.ieee.org/abstract/document/9251582) <br/>
