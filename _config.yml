@@ -79,12 +79,12 @@ google_analytics: G-WSB68PQ33F
 author:
   name             : "Aiguo Han"
   avatar           : "/img/han51.jpg"
-  bio              : "Research Assistant Professor"
-  location         : "2058 ECEB"
-  employer         : "University of Illinois"
+  bio              : "Assistant Professor"
+  location         : "225 Kelly Hall"
+  employer         : "Virginia Tech"
   pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public"
   googlescholar    : "https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en"
-  email            : "han51@illinois.edu"
+  email            : "aiguohan@vt.edu"
   # researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              : "https://ece.illinois.edu/about/directory/faculty/han51"
   # bitbucket        :
