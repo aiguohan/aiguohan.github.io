@@ -11,7 +11,7 @@ redirect_from:
 
 ## Aiguo Han, PhD
 Assistant Professor <br>
-[Department of Biomedical Engineering and Mechanics](https://beam.vt.edu/) <br>
+[Department of Biomedical Engineering and Mechanics (BEAM)](https://beam.vt.edu/) <br>
 [College of Engineering](https://eng.vt.edu/) <br>
 [Virginia Tech](https://www.vt.edu/) <br>
 
