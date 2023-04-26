@@ -221,12 +221,10 @@ Alumni
   MS Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
 - **Shashi Roshan** (M.S. Program in Statistics, UIUC, 2019-2021) --> Software Engineer II at Intuit
 
-## Undergraduate Students
-- **Churan He** (Undergrad in Computer Engineering, UIUC, 2018-2021) --> Software Engineer at NVIDIA  <br>
+## Senior Undergraduate Thesis Students
+- **Zikui Wang** (Undergrad in Computer Engineering, UIUC, 2019-2023) --> MS Student at Stanford starting Fall 2023 <br>
+- **Churan He** (Undergrad in Computer Engineering, UIUC, 2018-2021) --> Software Engineer at NVIDIA; MSCS Student at Stanford <br>
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
-- **Leonardo Lopez** (Undergrad in Computer Science, UIUC, 2017-2021) --> Software Engineer at Google <br>
-- **Aditya Umakanth** (Undergrad in Computer Engineering, UIUC, 2016-2020) --> Associate Software Engineer at Caterpillar Inc. <br>
-- **Ziyang Xu** (Undergrad in Electrical Engineering and Automation, ZJU-UIUC, 2016-2020) --> Graduate Student at ECE, UIUC. <br>
 - **Shi "Mike" Chen** (Undergrad in Electrical Engineering, UIUC, 2016-2019) --> MS Student at Stanford  <br>
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 <br/>
