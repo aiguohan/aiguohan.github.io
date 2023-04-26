@@ -84,23 +84,7 @@ Current Members
     </div>
   </div>
 </div>
-    
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Yuxuan Liu.jpg" align="left" class="member__avatar" alt="Yuxuan Liu"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <strong>Yuxuan Liu</strong> (co-advised with Dr. Douglas G. Simpson and Dr. William D. O'Brien, Jr.)<br>
-      <a href="mailto:yuxuan15@illinois.edu">yuxuan15@illinois.edu</a><br>
-      B.S. in Statistics, School of the Gifted Young, University of Science and Technology of China (2019)<br>
-      Ph.D. Candidate in Statistics, College of Liberal Arts & Sciences, UIUC (2020-present)<br>
-      <strong>Research:</strong> Statistics, quantitative ultrasound, preterm birth<br>
-    </div>
-  </div>
-</div>
+
 </div>
 
 ## Undergraduate Students
@@ -137,80 +121,7 @@ Current Members
   </div>
 </div>
 
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Furkan Yazici.jpg" align="left" class="member__avatar" alt="Furkan Yazici"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <strong>Furkan Yazici</strong><br>
-      <a href="mailto:fyazici2@illinois.edu">fyazici2@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)       <br>
-    </div>
-  </div>
-</div>
-  
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Pablo Sanchez.jpg" align="left" class="member__avatar" alt="Pablo Sanchez"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <strong>Pablo Sanchez</strong><br>
-      <a href="mailto:psanch22@illinois.edu">psanch22@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2018-present)<br>
-    </div>
-  </div>
-</div>
 
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Qi Chen.jpg" align="left" class="member__avatar" alt="Qi Chen"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <strong>Qi Chen</strong><br>
-      <a href="mailto:qic7@illinois.edu">qic7@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)   <br>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Rohan Mohta.jpg" align="left" class="member__avatar" alt="Rohan Mohta"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <strong>Rohan Mohta</strong><br>
-      <a href="mailto:rmohta2@illinois.edu">rmohta2@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2018-present)       <br>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Yu Li.jpg" align="left" class="member__avatar" alt="Yu Li"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <strong>Yu Li</strong><br>
-      <a href="mailto:yuli9@illinois.edu">yuli9@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2020-present)       <br>
-    </div>
-  </div>
-</div>
 </div>
 <br>
 
