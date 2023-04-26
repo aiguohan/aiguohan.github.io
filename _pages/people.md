@@ -125,6 +125,9 @@ Current Members
 
 Alumni
 ======
+## Postdoctoral Research Associate
+- **Quang Tran** (2020-2021) --> Harvard Medical School <br>
+
 ## Graduate Students
 - **Karthik Nagabhushana** (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
   M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a> 
