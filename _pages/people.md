@@ -92,14 +92,14 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Adam Morgan.jpg" align="left" class="member__avatar" alt="Adam Morgan"> 
+      <img src="/images/img/students/Andrew Li.jpg" align="left" class="member__avatar" alt="Adam Morgan"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Adam Morgan</strong><br>
+      <strong>Andrew Li</strong><br>
       <a href="mailto:adamjm3@illinois.edu">adamjm3@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      Undergraduate student in Electrical and Computer Engineering, UIUC (2020-present)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>
     </div>
@@ -109,14 +109,14 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Calvin Lee.jpg" align="left" class="member__avatar" alt="Calvin Lee"> 
+      <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Calvin Lee"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Calvin Lee</strong><br>
+      <strong>Connor Murphy</strong><br>
       <a href="mailto:lclee3@illinois.edu">lclee3@illinois.edu</a><br>
-      Undergrad in Electronical and Computer Engineering, UIUC (2019-present)   <br>
+      Undergraduate student in Biomedical Engineering, Virginia Tech (2020-present)   <br>
     </div>
   </div>
 </div>
