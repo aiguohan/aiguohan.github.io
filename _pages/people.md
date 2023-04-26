@@ -126,7 +126,7 @@ Current Members
 Alumni
 ======
 ## Postdoctoral Research Associate
-- **Quang Tran** (2020-2021) --> Harvard Medical School <br>
+- **Quang Tran** (2020-2021) --> Postdoc at Harvard Medical School <br>
 
 ## Graduate Students
 - **Karthik Nagabhushana** (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
