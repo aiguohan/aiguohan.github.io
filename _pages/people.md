@@ -98,7 +98,6 @@ Current Members
   <div class="column right">
     <div class="member profile">
       <strong>Andrew Li</strong><br>
-      <a href="mailto:adamjm3@illinois.edu">adamjm3@illinois.edu</a><br>
       Undergraduate student in Electrical and Computer Engineering, UIUC (2020-present)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>
@@ -115,7 +114,6 @@ Current Members
   <div class="column right">
     <div class="member profile">
       <strong>Connor Murphy</strong><br>
-      <a href="mailto:lclee3@illinois.edu">lclee3@illinois.edu</a><br>
       Undergraduate student in Biomedical Engineering, Virginia Tech (2020-present)   <br>
     </div>
   </div>
