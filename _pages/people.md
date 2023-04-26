@@ -92,15 +92,13 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Andrew Li.jpg" align="left" class="member__avatar" alt="Adam Morgan"> 
+      <img src="/images/img/students/Andrew Li.jpg" align="left" class="member__avatar" alt="Andrew Li"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
       <strong>Andrew Li</strong><br>
-      Undergraduate student in Electrical and Computer Engineering, UIUC (2020-present)       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <br>
+      Undergraduate student in Electrical and Computer Engineering, UIUC (2020-present) <br>
     </div>
   </div>
 </div>
@@ -131,9 +129,8 @@ Alumni
 ## Graduate Students
 - **Karthik Nagabhushana** (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
   M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a> 
- - **Yashuo Wu** (M.S. in Electrical and Computer Engineering, UIUC, 2019-2021) --> PhD Student at UC Irvine  <br>
+- **Yashuo Wu** (M.S. in Electrical and Computer Engineering, UIUC, 2019-2021) --> PhD Student at UC Irvine  <br>
   M.S. Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
-- **Shashi Roshan** (M.S. in Statistics, UIUC, 2019-2021) --> Software Engineer II at Intuit
      
 ## Senior Undergraduate Thesis Students
 - **Zikui Wang** (Undergrad in Computer Engineering, UIUC, 2019-2023) --> MS Student at Stanford starting Fall 2023 <br>
