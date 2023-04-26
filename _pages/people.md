@@ -223,6 +223,7 @@ Alumni
 
 ## Senior Undergraduate Thesis Students
 - **Zikui Wang** (Undergrad in Computer Engineering, UIUC, 2019-2023) --> MS Student at Stanford starting Fall 2023 <br>
+  Senior Thesis: Breast tumor diagnosis using class-activation-map-based convolutional neural network
 - **Churan He** (Undergrad in Computer Engineering, UIUC, 2018-2021) --> Software Engineer at NVIDIA; MSCS Student at Stanford <br>
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Shi "Mike" Chen** (Undergrad in Electrical Engineering, UIUC, 2016-2019) --> MS Student at Stanford  <br>
