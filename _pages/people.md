@@ -151,6 +151,7 @@ Alumni
 - **Elie Masanka** (Statistics@UIUC, 2019-2021)
 - **Daniel Ahn** (ECE@UIUC, 2021)
 - **Adam Morgan** (ECE@UIUC, 2021)
+- **Rubin Zhou** (ECE@UIUC, 2021)
 - **Aditya Umakanth** (ECE@UIUC, 2019-2020)
 - **Leonardo Lopez** (CS@UIUC, 2020)
 - **Ziyang Xu** (ECE@UIUC, 2019)
