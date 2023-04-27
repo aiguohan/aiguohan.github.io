@@ -62,7 +62,24 @@ Current Members
       <strong>Zixuan Tian</strong><br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
       Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
-      <strong>Research:</strong> Ultrasound brain imaging<br>
+      <strong>Research Interest:</strong> Ultrasound brain imaging<br>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Haotian Chen.jpg" align="left" class="member__avatar" alt="Haotian Chen"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Haotian Chen</strong><br>
+      B.S. in Mechatronics, Zhejiang University (2019) <br>
+      M.S. in Electrical and Computer Engineering, UIUC (2021)<br>
+      Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)
+      <strong>Research Interest:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
 </div>
@@ -79,7 +96,8 @@ Current Members
       B.S. in Computer Science, UCLA (2021)<br>
       B.S. in Applied Mathematics, UCLA (2021)<br>
       M.S. in Bioengineering, UIUC (2023)<br>
-      <strong>Research:</strong> AI in ultrasound imaging<br>
+      Ph.D. Student, Department of Biomedical Engineering and Mechanics, Virginia Tech (starting Fall 2023)
+      <strong>Research Interest:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
 </div>
@@ -105,7 +123,7 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Calvin Lee"> 
+      <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Connor Murphy"> 
     </div>
   </div>
   <div class="column right">
