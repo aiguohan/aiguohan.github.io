@@ -70,7 +70,7 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Jingyi Zuo.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
+      <img src="/images/img/students/Jingyi Zuo.jpg" align="left" class="member__avatar" alt="Jingyi Zuo"> 
     </div>
   </div>
   <div class="column right">
