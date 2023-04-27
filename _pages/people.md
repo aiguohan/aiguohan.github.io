@@ -133,11 +133,11 @@ Alumni
   M.S. Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
      
 ## Senior Undergraduate Thesis Students
-- **Zikui Wang** (Undergrad in Computer Engineering, UIUC, 2019-2023) --> MS Student at Stanford starting Fall 2023 <br>
+- **Zikui Wang** (ECE@UIUC, 2022-2023) --> MS Student at Stanford starting Fall 2023 <br>
   Senior Thesis: Breast tumor diagnosis using class-activation-map-based convolutional neural network
-- **Churan He** (Undergrad in Computer Engineering, UIUC, 2018-2021) --> Software Engineer at NVIDIA; MSCS Student at Stanford <br>
+- **Churan He** (ECE@UIUC, 2021) --> MSCS Student at Stanford; Software Engineer at NVIDIA <br>
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
-- **Shi "Mike" Chen** (Undergrad in Electrical Engineering, UIUC, 2016-2019) --> MS Student at Stanford  <br>
+- **Shi "Mike" Chen** (ECE@UIUC, 2018-2019) --> MS Student at Stanford  <br>
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 
 ## Undergraduate Research Assistants
