@@ -50,23 +50,6 @@ Current Members
 </style>
 
 <div container>
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Karthik Nagabhushana.jpg" align="left" class="member__avatar" alt="Karthik Nagabhushana">
-    </div>
-  </div>
-  <div class="column right">  
-    <div class="member profile">
-      <strong>Karthik Nagabhushana</strong><br/>
-      <a href="mailto:kjn3@illinois.edu">kjn3@illinois.edu</a><br>
-      B.Tech. in National Institute of Technology Karnataka, India (2012)<br>
-      Applications Engineer, Ultrasound Receiver Analog Front End (AFE), Texas Instruments (2012-2019)<br>
-      M.S. Student, Department of Electrical and Computer Engineering, UIUC (2020-present)<br>
-      M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a>  <br/>
-    </div>
-  </div>
-</div>
 
 <div class="row">
   <div class="column left">
@@ -77,10 +60,26 @@ Current Members
   <div class="column right">
     <div class="member profile">
       <strong>Zixuan Tian</strong><br>
-      <a href="mailto:zixuant5@illinois.edu">zixuant5@illinois.edu</a><br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
       Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
       <strong>Research:</strong> Ultrasound brain imaging<br>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Jingyi Zuo.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Jingyi Zuo</strong><br>
+      B.S. in Computer Science, UCLA (2021)<br>
+      B.S. in Applied Mathematics, UCLA (2021)<br>
+      M.S. in Bioengineering, UIUC (2023)<br>
+      <strong>Research:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
 </div>
