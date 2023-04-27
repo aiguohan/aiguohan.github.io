@@ -141,3 +141,16 @@ Alumni
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 <br/>
 
+## Undergraduate Research Assistants
+- **Pablo Sanchez** (ECE@UIUC, 2020-2022)
+- **Rohan Mohta** (ECE@UIUC, 2021-2022)
+- **Furkan Yazici** (ECE@UIUC, 2021-2022)
+- **Qi Chen** (ECE@UIUC, 2022)
+- **Calvin Lee** (ECE@UIUC, 2022)
+- **Yu Li** (ECE@UIUC, 2022)
+- **Elie Masanka** (Statistics@UIUC, 2019-2021)
+- **Daniel Ahn** (ECE@UIUC, 2021)
+- **Adam Morgan** (ECE@UIUC, 2021)
+- **Aditya Umakanth** (ECE@UIUC, 2019-2020)
+- **Leonardo Lopez** (CS@UIUC, 2020)
+- **Ziyang Xu** (ECE@UIUC, 2019)
