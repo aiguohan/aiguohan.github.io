@@ -139,10 +139,10 @@ Alumni
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Shi "Mike" Chen** (Undergrad in Electrical Engineering, UIUC, 2016-2019) --> MS Student at Stanford  <br>
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
-<br/>
 
 ## Undergraduate Research Assistants
 - **Pablo Sanchez** (ECE@UIUC, 2020-2022)
+- **Qiuyu "Tod" Wang** (ECE@UIUC, 2020-2022)
 - **Rohan Mohta** (ECE@UIUC, 2021-2022)
 - **Furkan Yazici** (ECE@UIUC, 2021-2022)
 - **Qi Chen** (ECE@UIUC, 2022)
