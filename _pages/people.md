@@ -59,9 +59,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Zixuan Tian</strong><br>
+      <strong>Zixuan Tian</strong>, Ph.D. Student, ECE@UIUC<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
-      Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)<br>
       <strong>Research Interest:</strong> Ultrasound brain imaging<br>
     </div>
   </div>
@@ -75,10 +74,9 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Haotian Chen</strong><br>
+      <strong>Haotian Chen</strong> Ph.D. Student, ECE@UIUC <br>
       B.S. in Mechatronics, Zhejiang University (2019) <br>
       M.S. in Electrical and Computer Engineering, UIUC (2021)<br>
-      Ph.D. Student, Department of Electrical and Computer Engineering, UIUC (2021-present)
       <strong>Research Interest:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
@@ -92,11 +90,10 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Jingyi Zuo</strong><br>
+      <strong>Jingyi Zuo, Ph.D. Student, BEAM@Virginia Tech </strong><br>
       B.S. in Computer Science, UCLA (2021)<br>
       B.S. in Applied Mathematics, UCLA (2021)<br>
       M.S. in Bioengineering, UIUC (2023)<br>
-      Ph.D. Student, Department of Biomedical Engineering and Mechanics, Virginia Tech (starting Fall 2023)
       <strong>Research Interest:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
@@ -110,9 +107,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Benny Antony Amaraselvam</strong><br>
+      <strong>Benny Antony Amaraselvam</strong>, M.S. Student, ECE@Virginia Tech<br>
       B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
-      M.S. Student, Department of Electrical and Computer Engineering, Virginia Tech (2023-present)
     </div>
   </div>
 </div>
