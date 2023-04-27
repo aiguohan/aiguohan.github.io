@@ -101,6 +101,21 @@ Current Members
     </div>
   </div>
 </div>
+  
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Benny Amaraselvam.jpg" align="left" class="member__avatar" alt="Benny Amaraselvam"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <strong>Benny Antony Amaraselvam</strong><br>
+      B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
+      M.S. Student, Department of Electrical and Computer Engineering, Virginia Tech (2023-present)
+    </div>
+  </div>
+</div>
 
 </div>
 
