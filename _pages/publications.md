@@ -12,6 +12,8 @@ author_profile: true
 ### Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
 
+* Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility,” _Ultrasonic Imaging_. (in press)
+
 * B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous preterm birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
 
 * Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. Shah*, “[Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high frequency ultrasound acquisitions in human median nerve](https://doi.org/10.1016/j.ultrasmedbio.2022.08.007),” _Ultrasound Med. Biol._, vol. 49, no. 1, pp. 122–135, 2023.
