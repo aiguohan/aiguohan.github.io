@@ -91,7 +91,7 @@ author_profile: true
 
 1.	**A. Han**, A. S. Boehringer, Y. N. Zhang, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “[Improved assessment of hepatic steatosis in humans using multi-parametric quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/8926030),” in _2019 IEEE Int. Ultrason. Symp. (IUS)_, 2019, pp. 1–4.
 
-1.	R. J. Miller, **A. Han**, J. W. Erdman, Jr., J. L. Shisler, M. A. Wallig, and W. D. O’Brien, Jr., “[Quantitative ultrasound and the pancreas: Demonstration of early detection capability](https://ieeexplore.ieee.org/document/8091743),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
+1.	R. J. Miller, **A. Han**, L. T. Gates-Tanzer, J. W. Erdman, Jr., J. L. Shisler, M. A. Wallig, and W. D. O’Brien, Jr., “[Quantitative ultrasound and the pancreas: Demonstration of early detection capability](https://ieeexplore.ieee.org/document/8091743),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
 
 1.	P. Muleki-Seya, **A. Han**, M. P. Andre, J. W. Erdman, Jr., and W. D. O’Brien, Jr., “[Comparison of quantitative ultrasound parameters for fat content liver detection and monitoring](https://ieeexplore.ieee.org/abstract/document/8092439),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
 
