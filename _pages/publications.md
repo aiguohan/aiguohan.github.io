@@ -71,13 +71,13 @@ author_profile: true
 
 * M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
-### Invited Book Chapters
+## Invited Book Chapters
 * **A. Han***, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
-### Invited Editorials
+## Invited Editorials
 * **A. Han***, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_ vol. 309, no. 1, e232475, 2023.
 
-### Conference Papers
+## Conference Papers
 *	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
 
 *	Y. Wu, L. Lopez, M. P. Andre, R. Loomba, M. A. Valasek, M. A. Wallig, W. D. O’Brien, Jr., and **A. Han**, “[Liver fat droplet dependency on ultrasound backscatter coefficient in nonalcoholic fatty liver](https://ieeexplore.ieee.org/abstract/document/9251748),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
