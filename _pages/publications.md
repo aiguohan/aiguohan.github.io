@@ -16,7 +16,7 @@ author_profile: true
 
 * Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. Shah*, “[Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high frequency ultrasound acquisitions in human median nerve](https://doi.org/10.1016/j.ultrasmedbio.2022.08.007),” _Ultrasound Med. Biol._, vol. 49, no. 1, pp. 122–135, 2023.
 
-* K. Nagabhushana, Q. Wang, and **A. Han***, “Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements,” _J. Ultrasound Med_, vol. 42, pp. 45–58, 2023. [[link]](https://doi.org/10.1002/jum.16005) <br/> 
+* K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med_, vol. 42, pp. 45–58, 2023. <br/> 
  
 * K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative,” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. [[link]](https://doi.org/10.1148/radiol.220606) <br/> 
 
