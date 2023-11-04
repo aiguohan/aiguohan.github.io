@@ -71,30 +71,30 @@ author_profile: true
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
 ## Invited Book Chapters
-2. **A. Han***, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
+1. **A. Han***, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
 ## Invited Editorials
-3. **A. Han***, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_ vol. 309, no. 1, e232475, 2023.
+1. **A. Han***, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_ vol. 309, no. 1, e232475, 2023.
 
 ## Conference Papers
-4.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
+1.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
 
-4.	Y. Wu, L. Lopez, M. P. Andre, R. Loomba, M. A. Valasek, M. A. Wallig, W. D. O’Brien, Jr., and **A. Han**, “[Liver fat droplet dependency on ultrasound backscatter coefficient in nonalcoholic fatty liver](https://ieeexplore.ieee.org/abstract/document/9251748),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
+1.	Y. Wu, L. Lopez, M. P. Andre, R. Loomba, M. A. Valasek, M. A. Wallig, W. D. O’Brien, Jr., and **A. Han**, “[Liver fat droplet dependency on ultrasound backscatter coefficient in nonalcoholic fatty liver](https://ieeexplore.ieee.org/abstract/document/9251748),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
 
-4.	K. Nagabhushana, W. D. O’Brien, Jr., and **A. Han**, “[Technique to compensate for unknown laminate transmission loss in phantom attenuation measurements](https://ieeexplore.ieee.org/abstract/document/9251582),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
+1.	K. Nagabhushana, W. D. O’Brien, Jr., and **A. Han**, “[Technique to compensate for unknown laminate transmission loss in phantom attenuation measurements](https://ieeexplore.ieee.org/abstract/document/9251582),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
 
-4.	**A. Han**, A. S. Boehringer, Y. N. Zhang, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “[Improved assessment of hepatic steatosis in humans using multi-parametric quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/8926030),” in _2019 IEEE Int. Ultrason. Symp. (IUS)_, 2019, pp. 1–4.
+1.	**A. Han**, A. S. Boehringer, Y. N. Zhang, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “[Improved assessment of hepatic steatosis in humans using multi-parametric quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/8926030),” in _2019 IEEE Int. Ultrason. Symp. (IUS)_, 2019, pp. 1–4.
 
-4.	R. J. Miller, **A. Han**, J. W. Erdman, Jr., J. L. Shisler, M. A. Wallig, and W. D. O’Brien, Jr., “[Quantitative ultrasound and the pancreas: Demonstration of early detection capability](https://ieeexplore.ieee.org/document/8091743),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
+1.	R. J. Miller, **A. Han**, J. W. Erdman, Jr., J. L. Shisler, M. A. Wallig, and W. D. O’Brien, Jr., “[Quantitative ultrasound and the pancreas: Demonstration of early detection capability](https://ieeexplore.ieee.org/document/8091743),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
 
-4.	P. Muleki-Seya, **A. Han**, M. P. Andre, J. W. Erdman, Jr., and W. D. O’Brien, Jr., “[Comparison of quantitative ultrasound parameters for fat content liver detection and monitoring](https://ieeexplore.ieee.org/abstract/document/8092439),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
+1.	P. Muleki-Seya, **A. Han**, M. P. Andre, J. W. Erdman, Jr., and W. D. O’Brien, Jr., “[Comparison of quantitative ultrasound parameters for fat content liver detection and monitoring](https://ieeexplore.ieee.org/abstract/document/8092439),” in _2017 IEEE Int. Ultrason. Symp. (IUS)_, 2017, pp. 1–4.
 
-4.	**A. Han** and W. D. O’Brien, Jr., “[Structure function: Theory, ultrasonic measurement, and histology](https://ieeexplore.ieee.org/abstract/document/7329578),” in _2015 Int. Ultrason. Symp. (IUS)_, 2015, pp. 1–4.
+1.	**A. Han** and W. D. O’Brien, Jr., “[Structure function: Theory, ultrasonic measurement, and histology](https://ieeexplore.ieee.org/abstract/document/7329578),” in _2015 Int. Ultrason. Symp. (IUS)_, 2015, pp. 1–4.
 
-4.	**A. Han**, J. W. Erdman, Jr., D. G. Simpson, M. P. Andre, and W. D. O’Brien, Jr., “[Early detection of fatty liver disease in mice via quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/6931971),” in _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2363–2366.
+1.	**A. Han**, J. W. Erdman, Jr., D. G. Simpson, M. P. Andre, and W. D. O’Brien, Jr., “[Early detection of fatty liver disease in mice via quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/6931971),” in _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2363–2366.
 
-4.	M. P. Andre, **A. Han**, E. Heba, J. Hooker, R. Loomba, C. B. Sirlin, J. W. Erdman, Jr., and W. D. O’Brien, Jr., “[Accurate diagnosis of non-alcoholic fatty liver disease in humans via quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/6931973),” in _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2375–2377.
+1.	M. P. Andre, **A. Han**, E. Heba, J. Hooker, R. Loomba, C. B. Sirlin, J. W. Erdman, Jr., and W. D. O’Brien, Jr., “[Accurate diagnosis of non-alcoholic fatty liver disease in humans via quantitative ultrasound](https://ieeexplore.ieee.org/abstract/document/6931973),” in _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2375–2377.
 
-4.	J. Garcia-Duitama, **A. Han**, B. Chayer, D. Garcia, M. L. Oelze, and G. Cloutier, “[Experimental validation of plane wave imaging using k-space beamforming for spectral characterization of isotropic media](https://ieeexplore.ieee.org/abstract/document/6932268),” _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2414–2417.
+1.	J. Garcia-Duitama, **A. Han**, B. Chayer, D. Garcia, M. L. Oelze, and G. Cloutier, “[Experimental validation of plane wave imaging using k-space beamforming for spectral characterization of isotropic media](https://ieeexplore.ieee.org/abstract/document/6932268),” _2014 IEEE Int. Ultrason. Symp. (IUS)_, 2014, pp. 2414–2417.
 
-4.	W. D. O’Brien, Jr., **A. Han**, and T. Auger, “[Quantitative ultrasound from single cells to biophantoms to tumors](https://ieeexplore.ieee.org/abstract/document/6346131),” in _Conf. Proc. IEEE Eng. Med. Biol. Soc. (EMBS)_, 2012, pp. 1118–1120.
+1.	W. D. O’Brien, Jr., **A. Han**, and T. Auger, “[Quantitative ultrasound from single cells to biophantoms to tumors](https://ieeexplore.ieee.org/abstract/document/6346131),” in _Conf. Proc. IEEE Eng. Med. Biol. Soc. (EMBS)_, 2012, pp. 1118–1120.
