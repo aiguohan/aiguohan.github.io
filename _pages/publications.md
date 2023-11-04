@@ -46,7 +46,7 @@ author_profile: true
 
 1. **A. Han***, “[A method for stereological determination of the structure function from histological sections of isotropic scattering media](https://ieeexplore.ieee.org/document/8320841),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 65, no. 6, pp. 1007–1016, 2018. 
 
-1. P. Muleki-Seya, **A. Han**, M. P. Andre, J. W. Erdman, and W. D. O’Brien, Jr.*, “[Analysis of two quantitative ultrasound approaches](https://doi.org/10.1177/0161734617729159),” _Ultrason. Imaging_, vol. 40, no. 2, pp. 84–96, 2018.
+1. P. Muleki-Seya, **A. Han**, M. P. Andre, J. W. Erdman, Jr., and W. D. O’Brien, Jr.*, “[Analysis of two quantitative ultrasound approaches](https://doi.org/10.1177/0161734617729159),” _Ultrason. Imaging_, vol. 40, no. 2, pp. 84–96, 2018.
 
 1. Y. Zhu*, **A. Han**, W. D. O’Brien, Jr., M. L. Oelze, and M. F. Insana, “[Limitations on estimation of effective scatterer diameters](https://asa.scitation.org/doi/full/10.1121/1.5017602),” _J. Acoust. Soc. Am._, vol. 142, no. 6, pp. 3677–3690, 2017.
 
