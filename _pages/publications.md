@@ -22,7 +22,7 @@ author_profile: true
  
 * K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “[US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative](https://doi.org/10.1148/radiol.220606),” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. 
 
-* J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “[Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD](https://doi.org/10.1148/radiol.211131),” _Radiology_, vol. 304, no. 1, pp. 75–82, 2022. (Featured in an [editorial](https://pubs.rsna.org/doi/10.1148/radiol.213052) in _Radiology_.)
+* J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “[Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD](https://pubs.rsna.org/doi/epdf/10.1148/radiol.211131),” _Radiology_, vol. 304, no. 1, pp. 75–82, 2022. (Featured in an [editorial](https://pubs.rsna.org/doi/10.1148/radiol.213052) in _Radiology_.)
 
 *	X. Chen, M. R. Lowerison, Z. Dong, **A. Han**, and P. Song*, “[Deep learning-based microbubble localization for ultrasound localization microscopy](https://ieeexplore.ieee.org/document/9715054),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 69, no. 4, pp. 1312–1325, 2022.
 
