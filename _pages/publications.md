@@ -9,13 +9,14 @@ author_profile: true
 
 [[Google Scholar](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] <br/>
 
+†Co-first author   *Corresponding author
+
 ## Preprints and Manuscripts Under Review
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2D numerical study](https://www.techrxiv.org/articles/preprint/Transcranial_Phase_Correction_Using_Pulse-echo_Ultrasound_and_Deep_Learning_A_2D_Numerical_Study/23528310),” Preprint on _Techrxiv_, under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
 
 1. Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound,” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
 
 ## Peer-Reviewed Journal Papers
-†Co-first author   *Corresponding author
 
 1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility,” _Ultrasonic Imaging_. (in press)
 
