@@ -85,7 +85,7 @@ author_profile: true
 ## Conference Papers
 1.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
 
-1.	Y. Wu, L. Lopez, M. P. Andre, R. Loomba, M. A. Valasek, M. A. Wallig, W. D. O’Brien, Jr., and **A. Han**, “[Liver fat droplet dependency on ultrasound backscatter coefficient in nonalcoholic fatty liver](https://ieeexplore.ieee.org/abstract/document/9251748),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
+1.	Y. Wu, L. Lopez, M. P. Andre, R. Loomba, C. B. Sirlin, M. A. Valasek, M. A. Wallig, W. D. O’Brien, Jr., and **A. Han**, “[Liver fat droplet dependency on ultrasound backscatter coefficient in nonalcoholic fatty liver](https://ieeexplore.ieee.org/abstract/document/9251748),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
 
 1.	K. Nagabhushana, W. D. O’Brien, Jr., and **A. Han**, “[Technique to compensate for unknown laminate transmission loss in phantom attenuation measurements](https://ieeexplore.ieee.org/abstract/document/9251582),” in _2020 IEEE Int. Ultrason. Symp. (IUS)_, 2020, pp. 1–4.
 
