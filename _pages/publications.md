@@ -12,13 +12,13 @@ author_profile: true
 ## Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
 
-* Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility,” _Ultrasonic Imaging_. (in press)
+1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility,” _Ultrasonic Imaging_. (in press)
 
-* B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous pre-term birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
+1. B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous pre-term birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
 
-* Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high-frequency ultrasound acquisitions in human median nerve](https://doi.org/10.1016/j.ultrasmedbio.2022.08.007),” _Ultrasound Med. Biol._, vol. 49, no. 1, pp. 122–135, 2023.
+1. Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high-frequency ultrasound acquisitions in human median nerve](https://doi.org/10.1016/j.ultrasmedbio.2022.08.007),” _Ultrasound Med. Biol._, vol. 49, no. 1, pp. 122–135, 2023.
 
-* K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med._, vol. 42, no. 1, pp. 45–58, 2023.
+1. K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med._, vol. 42, no. 1, pp. 45–58, 2023.
  
 * K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “[US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative](https://doi.org/10.1148/radiol.220606),” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. 
 
