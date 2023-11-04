@@ -38,7 +38,7 @@ author_profile: true
 
 1. J. L. Rowles, **A. Han**, R. J. Miller, J. R. Kelly, C. C. Applegate, M. A. Wallig, W. D. O’Brien, Jr., and J. W. Erdman, Jr.*, “[Low fat but not soy protein isolate was an effective intervention to reduce nonalcoholic fatty liver disease progression in C57BL/6J mice: monitored by a novel quantitative ultrasound (QUS) method](https://www.sciencedirect.com/science/article/pii/S0271531718308716?via%3Dihub),” _Nutr. Res._, vol. 63, pp. 95–105, 2019. 
 
-1. R. J. Miller, **A. Han**, J. W. Erdman, Jr., M. A. Wallig, W. D. O’Brien, Jr.*, “[Quantitative ultrasound and the pancreas: Demonstration of early detection capability](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.14901),” _J. Ultrasound Med._, vol. 38, pp. 2093–2102, 2018.
+1. R. J. Miller, **A. Han**, J. W. Erdman, Jr., M. A. Wallig, and W. D. O’Brien, Jr.*, “[Quantitative ultrasound and the pancreas: Demonstration of early detection capability](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.14901),” _J. Ultrasound Med._, vol. 38, pp. 2093–2102, 2018.
 
 1. **A. Han**, Y. Labyed, E. Z. Sy, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr.*, “[Inter-sonographer reproducibility of quantitative ultrasound outcomes and shear wave speed measured in the right lobe of the liver in adults with known or suspected non-alcoholic fatty liver disease](https://link.springer.com/article/10.1007%2Fs00330-018-5541-9),” _Eur. Radiol._, vol. 28, no. 12, pp. 4992–5000, 2018.
 
