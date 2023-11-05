@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-Current Members
+Biomedical Ultrasound Research Group (BURG) Current Members
 ======
 
 ## Graduate Students
