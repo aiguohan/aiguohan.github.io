@@ -185,31 +185,31 @@ Biomedical Ultrasound Research Group (BURG)
 - [**Quang Tran**](https://www.mtu.edu/cege/people/faculty-staff/faculty/tran/) (2020-2021) --> Postdoc at Harvard Medical School --> Assistant Professor at Michigan Technological University <br>
 
 ## Former Graduate Students
-- **Karthik Nagabhushana** (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
+- [**Karthik Nagabhushana**](https://www.linkedin.com/in/karthik-nagabhushana-19a61818/) (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
   M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a> 
-- **Yashuo Wu** (M.S. in Electrical and Computer Engineering, UIUC, 2019-2021) --> PhD Student at UC Irvine  <br>
+- [**Yashuo Wu**](https://www.linkedin.com/in/yashuo-wu-070199129/) (M.S. in Electrical and Computer Engineering, UIUC, 2019-2021) --> PhD Student at UC Irvine  <br>
   M.S. Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
      
 ## Former Senior Undergraduate Thesis Students
-- **Zikui Wang** (ECE@UIUC, 2022-2023) --> MS Student at Stanford starting Fall 2023 <br>
+- [**Zikui Wang**](https://www.linkedin.com/in/zikui-wang/) (ECE@UIUC, 2022-2023) --> MS Student at Stanford starting Fall 2023 <br>
   Senior Thesis: Breast tumor diagnosis using class-activation-map-based convolutional neural network
-- **Churan He** (ECE@UIUC, 2021) --> MSCS Student at Stanford; Software Engineer at NVIDIA <br>
+- [**Churan He**](https://www.linkedin.com/in/churan-he/) (ECE@UIUC, 2021) --> MSCS Student at Stanford; Software Engineer at NVIDIA <br>
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Shi "Mike" Chen** (ECE@UIUC, 2018-2019) --> MS Student at Stanford  <br>
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 
 ## Former Undergraduate Research Assistants
-- **Pablo Sanchez** (ECE@UIUC, 2020-2022)
-- **Qiuyu "Tod" Wang** (ECE@UIUC, 2020-2022)
-- **Rohan Mohta** (ECE@UIUC, 2021-2022)
-- **Furkan Yazici** (ECE@UIUC, 2021-2022)
-- **Qi Chen** (ECE@UIUC, 2022)
-- **Calvin Lee** (ECE@UIUC, 2022)
-- **Yu Li** (ECE@UIUC, 2022)
-- **Elie Masanka** (Statistics@UIUC, 2019-2021)
-- **Daniel Ahn** (ECE@UIUC, 2021)
-- **Adam Morgan** (ECE@UIUC, 2021)
-- **Rubin Zhou** (ECE@UIUC, 2021)
-- **Aditya Umakanth** (ECE@UIUC, 2019-2020)
-- **Leonardo Lopez** (CS@UIUC, 2020)
-- **Ziyang Xu** (ECE@UIUC, 2019)
+- [**Pablo Sanchez**](https://www.linkedin.com/in/pablo-sanchez-jr/) (ECE@UIUC, 2020-2022)
+- [**Qiuyu "Tod" Wang**](https://www.linkedin.com/in/qiuyu-wang-9887b41a2/) (ECE@UIUC, 2020-2022)
+- [**Rohan Mohta**](https://www.linkedin.com/in/rohan-mohta/)(ECE@UIUC, 2021-2022)
+- [**Furkan Yazici**](https://www.linkedin.com/in/furkan-yazici/) (ECE@UIUC, 2021-2022)
+- [**Qi Chen**] (ECE@UIUC, 2022)
+- [**Calvin Lee**](https://www.linkedin.com/in/calvinlee3/) (ECE@UIUC, 2022)
+- [**Yu Li**](https://www.linkedin.com/in/yu-li-37ba70223/) (ECE@UIUC, 2022)
+- [**Elie Masanka**](https://www.linkedin.com/in/eliemasanka/) (Statistics@UIUC, 2019-2021)
+- [**Daniel Ahn**](https://www.linkedin.com/in/daniel-ahn-37482919a) (ECE@UIUC, 2021)
+- [**Adam Morgan**](https://www.linkedin.com/in/adam-awaleh-morgan/) (ECE@UIUC, 2021)
+- [**Rubin Zhou**](https://www.linkedin.com/in/rui-zhou-146140258/) (ECE@UIUC, 2021)
+- [**Aditya Umakanth**](https://www.linkedin.com/in/aditya-umakanth-932336125/) (ECE@UIUC, 2019-2020)
+- [**Leonardo Lopez**](https://www.linkedin.com/in/le0198/) (CS@UIUC, 2020)
+- [**Ziyang Xu**](https://www.linkedin.com/in/ziyang-xu-6558a8227) (ECE@UIUC, 2019)
