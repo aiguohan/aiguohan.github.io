@@ -108,7 +108,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/md-rizwanul-kabir-415912152/"><strong>MD Rizwanul Kabir</strong></a> <br>
-      <a href="https://ictas.vt.edu/education/doctoralscholars.html/">ICTAS Doctoral Scholar</a>, Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
+      Ph.D. Student (<a href="https://ictas.vt.edu/education/doctoralscholars.html/">ICTAS Doctoral Scholar</a>), Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
       B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
     </div>
   </div>
