@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-Biomedical Ultrasound Research Group (BURG) Current Members
+Biomedical Ultrasound Research Group (BURG)
 ======
 
-## Graduate Students
+## Current Graduate Students
 <style>
 .container {
   display: table;  #The container is needed to keep the column width consistent among rows.  
@@ -147,7 +147,7 @@ Biomedical Ultrasound Research Group (BURG) Current Members
 
 </div>
 
-## Undergraduate Students
+## Current Undergraduate Students
 <div container>
 <div class="row">
   <div class="column left">
@@ -181,18 +181,16 @@ Biomedical Ultrasound Research Group (BURG) Current Members
 </div>
 <br>
 
-Alumni
-======
-## Postdoctoral Research Associate
+## Former Postdoctoral Research Associate
 - [**Quang Tran**](https://www.mtu.edu/cege/people/faculty-staff/faculty/tran/) (2020-2021) --> Postdoc at Harvard Medical School --> Assistant Professor at Michigan Technological University <br>
 
-## Graduate Students
+## Former Graduate Students
 - **Karthik Nagabhushana** (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
   M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a> 
 - **Yashuo Wu** (M.S. in Electrical and Computer Engineering, UIUC, 2019-2021) --> PhD Student at UC Irvine  <br>
   M.S. Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
      
-## Senior Undergraduate Thesis Students
+## Former Senior Undergraduate Thesis Students
 - **Zikui Wang** (ECE@UIUC, 2022-2023) --> MS Student at Stanford starting Fall 2023 <br>
   Senior Thesis: Breast tumor diagnosis using class-activation-map-based convolutional neural network
 - **Churan He** (ECE@UIUC, 2021) --> MSCS Student at Stanford; Software Engineer at NVIDIA <br>
@@ -200,7 +198,7 @@ Alumni
 - **Shi "Mike" Chen** (ECE@UIUC, 2018-2019) --> MS Student at Stanford  <br>
   Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 
-## Undergraduate Research Assistants
+## Former Undergraduate Research Assistants
 - **Pablo Sanchez** (ECE@UIUC, 2020-2022)
 - **Qiuyu "Tod" Wang** (ECE@UIUC, 2020-2022)
 - **Rohan Mohta** (ECE@UIUC, 2021-2022)
