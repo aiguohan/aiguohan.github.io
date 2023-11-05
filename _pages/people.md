@@ -191,7 +191,7 @@ Biomedical Ultrasound Research Group (BURG)
   M.S. Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
      
 ## Former Senior Undergraduate Thesis Students
-- [**Zikui Wang**](https://www.linkedin.com/in/zikui-wang/) (ECE@UIUC, 2022-2023) --> MS Student at Stanford starting Fall 2023 <br>
+- [**Zikui Wang**](https://www.linkedin.com/in/zikui-wang/) (ECE@UIUC, 2022-2023) --> MS Student at Stanford <br>
   Senior Thesis: Breast tumor diagnosis using class-activation-map-based convolutional neural network
 - [**Churan He**](https://www.linkedin.com/in/churan-he/) (ECE@UIUC, 2021) --> MSCS Student at Stanford; Software Engineer at NVIDIA <br>
   Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
