@@ -157,8 +157,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Andrew Li</strong><br>
-      Undergraduate student in Electrical and Computer Engineering, UIUC (Aug 2020 - present) <br>
+      <a href="https://www.linkedin.com/in/andrew-li-3b1190165/"><strong>Andrew Li</strong></a> <br>
+      Undergraduate Student in Electrical and Computer Engineering, UIUC (Aug 2020 - present) <br>
     </div>
   </div>
 </div>
@@ -171,8 +171,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>[Connor Murphy](https://www.linkedin.com/in/connor-murphy5974/)</strong><br>
-      Undergraduate student in Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
+      <a href="https://www.linkedin.com/in/connor-murphy5974/"><strong>Connor Murphy</strong></a> <br>
+      Undergraduate Student in Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
     </div>
   </div>
 </div>
@@ -184,7 +184,7 @@ Current Members
 Alumni
 ======
 ## Postdoctoral Research Associate
-- **Quang Tran** (2020-2021) --> Postdoc at Harvard Medical School <br>
+- [**Quang Tran**](https://www.mtu.edu/cege/people/faculty-staff/faculty/tran/) (2020-2021) --> Postdoc at Harvard Medical School --> Assistant Professor at Michigan Technological University <br>
 
 ## Graduate Students
 - **Karthik Nagabhushana** (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
