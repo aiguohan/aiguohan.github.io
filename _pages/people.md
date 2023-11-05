@@ -60,8 +60,8 @@ Biomedical Ultrasound Research Group (BURG) Current Members
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony</strong></a> <br>
-      M.S. Student, ECE@Virginia Tech (Aug 2022 - present)<br>
-      B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
+      M.S. Student, Electrical and Computer Engineering, Virginia Tech (Aug 2022 - present)<br>
+      B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
   </div>
 </div>
