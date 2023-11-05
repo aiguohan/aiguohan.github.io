@@ -59,9 +59,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Zixuan Tian</strong>, Ph.D. Student, ECE@UIUC<br>
+      <strong>Zixuan Tian</strong>, Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
-      <strong>Research Interest:</strong> Ultrasound brain imaging<br>
     </div>
   </div>
 </div>
@@ -74,10 +73,9 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Haotian Chen</strong> Ph.D. Student, ECE@UIUC <br>
+      <strong>Haotian Chen</strong> Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       B.S. in Mechatronics, Zhejiang University (2019) <br>
       M.S. in Electrical and Computer Engineering, UIUC (2021)<br>
-      <strong>Research Interest:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
 </div>
@@ -90,11 +88,10 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Jingyi Zuo, Ph.D. Student, BEAM@Virginia Tech </strong><br>
+      <strong>Jingyi Zuo, Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present) </strong><br>
       B.S. in Computer Science, UCLA (2021)<br>
       B.S. in Applied Mathematics, UCLA (2021)<br>
       M.S. in Bioengineering, UIUC (2023)<br>
-      <strong>Research Interest:</strong> AI in ultrasound imaging<br>
     </div>
   </div>
 </div>
@@ -107,7 +104,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Benny Antony Amaraselvam</strong>, M.S. Student, ECE@Virginia Tech<br>
+      <strong>Benny Antony Amaraselvam</strong>, M.S. Student, ECE (Aug 2022 - present) @Virginia Tech<br>
       B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
   </div>
@@ -126,7 +123,7 @@ Current Members
   <div class="column right">
     <div class="member profile">
       <strong>Andrew Li</strong><br>
-      Undergraduate student in Electrical and Computer Engineering, UIUC (2020-present) <br>
+      Undergraduate student in Electrical and Computer Engineering, UIUC (Aug 2020 - present) <br>
     </div>
   </div>
 </div>
@@ -139,8 +136,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Connor Murphy</strong><br>
-      Undergraduate student in Biomedical Engineering, Virginia Tech (2020-present)   <br>
+      <strong>[Connor Murphy](https://www.linkedin.com/in/connor-murphy5974/)</strong><br>
+      Undergraduate student in Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
     </div>
   </div>
 </div>
