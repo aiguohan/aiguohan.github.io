@@ -59,7 +59,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="(https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
+      <a href="https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
       Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
     </div>
@@ -74,9 +74,10 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>[Haotian Chen](https://www.linkedin.com/in/haotian-chen-6b207115a/)</strong> Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
-      B.S. in Mechatronics, Zhejiang University (2019) <br>
+      <a href="https://www.linkedin.com/in/haotian-chen-6b207115a/"><strong>Haotian Chen</strong></a> <br>
+      Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       M.S. in Electrical and Computer Engineering, UIUC (2021)<br>
+      B.S. in Mechatronics, Zhejiang University (2019) <br>
     </div>
   </div>
 </div>
@@ -89,10 +90,11 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>[Jingyi Zuo](https://www.linkedin.com/in/jingyi-zuo-540618194/)</strong> Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present)<br>
+      <a href="https://www.linkedin.com/in/jingyi-zuo-540618194/"><strong>Jingyi Zuo</strong></a> <br>
+      Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present)<br>
+      M.S. in Bioengineering, UIUC (2023)<br>
       B.S. in Computer Science, UCLA (2021)<br>
       B.S. in Applied Mathematics, UCLA (2021)<br>
-      M.S. in Bioengineering, UIUC (2023)<br>
     </div>
   </div>
 </div>
@@ -105,7 +107,8 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>[Benny Antony Amaraselvam](https://www.linkedin.com/in/benny-antony-213a4b19b/)</strong>, M.S. Student, ECE (Aug 2022 - present) @Virginia Tech<br>
+      <a href="(https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony Amaraselvam</strong></a> <br>
+      M.S. Student, ECE@Virginia Tech (Aug 2022 - present)<br>
       B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
   </div>
