@@ -4,7 +4,7 @@ main:
     url: /news/
   
   - title: "People"
-    url: /People/
+    url: /people/
     
   - title: "Research"
     url: /research/
