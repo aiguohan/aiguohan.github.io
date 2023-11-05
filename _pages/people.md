@@ -50,18 +50,18 @@ Current Members
 </style>
 
 <div container>
-
+  
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
+      <img src="/images/img/students/Benny Amaraselvam.jpg" align="left" class="member__avatar" alt="Benny Amaraselvam"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
-      Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
-      B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
+      <a href="(https://www.linkedin.com/in/benny-antony-213a4b19b/"<strong>Benny Antony Amaraselvam</strong></a> <br>
+      M.S. Student, ECE@Virginia Tech (Aug 2022 - present)<br>
+      B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
   </div>
 </div>
@@ -98,18 +98,49 @@ Current Members
     </div>
   </div>
 </div>
-  
+
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Benny Amaraselvam.jpg" align="left" class="member__avatar" alt="Benny Amaraselvam"> 
+      <img src="/images/img/students/MD Rizwanul Kabir.jpg" align="left" class="member__avatar" alt=MD Rizwanul Kabir"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="(https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony Amaraselvam</strong></a> <br>
-      M.S. Student, ECE@Virginia Tech (Aug 2022 - present)<br>
-      B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
+      <a href="https://www.linkedin.com/in/md-rizwanul-kabir-415912152/"><strong>MD Rizwanul Kabir</strong></a> <br>
+      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Yuanbin Zhu.jpg" align="left" class="member__avatar" alt="Yuanbin Zhu"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <a href="https://www.linkedin.com/in/yuanbin-zhu-547471255/"><strong>Yuanbin Zhu</strong></a> <br>
+      Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present)<br>
+      M.S. in Electrical and Computer Engineering, University of Michigan (2023) <br>
+      B.S. in Electrical Engineering and Automation, North China Electric Power University, China (2020)<br>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <a href="https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
+      Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
+      B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
     </div>
   </div>
 </div>
