@@ -75,8 +75,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/haotian-chen-6b207115a/"><strong>Haotian Chen</strong></a> <br>
-      Ph.D. Student, Electrical and Computer Engineering, University of Illinois Urbana-Champaign (Aug 2021 - present)<br>
-      M.S. in Electrical and Computer Engineering, University of Illinois Urbana-Champaign (2021)<br>
+      Ph.D. Student, Electrical and Computer Engineering, University of Illinois Urbana-Champaign (2019 - present)<br>
       B.S. in Mechatronics, Zhejiang University (2019) <br>
     </div>
   </div>
