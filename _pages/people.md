@@ -91,10 +91,10 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/jingyi-zuo-540618194/"><strong>Jingyi Zuo</strong></a> <br>
-      Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present)<br>
-      M.S. in Bioengineering, UIUC (2023)<br>
-      B.S. in Computer Science, UCLA (2021)<br>
-      B.S. in Applied Mathematics, UCLA (2021)<br>
+      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      M.S. in Bioengineering, University of Illinois Urbana-Champaign (2023)<br>
+      B.S. in Computer Science, University of California, Los Angeles (2021)<br>
+      B.S. in Applied Mathematics, University of California, Los Angeles (2021)<br>
     </div>
   </div>
 </div>
@@ -108,8 +108,8 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/md-rizwanul-kabir-415912152/"><strong>MD Rizwanul Kabir</strong></a> <br>
-      * Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
-      * B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
+      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
     </div>
   </div>
 </div>
@@ -123,7 +123,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/yuanbin-zhu-547471255/"><strong>Yuanbin Zhu</strong></a> <br>
-      Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present)<br>
+      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
       M.S. in Electrical and Computer Engineering, University of Michigan (2023) <br>
       B.S. in Electrical Engineering and Automation, North China Electric Power University, China (2020)<br>
     </div>
@@ -139,7 +139,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
-      Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
+      Ph.D. Student, Electrical and Computer Engineering, University of Illinois Urbana-Champaign (Aug 2021 - present)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
     </div>
   </div>
