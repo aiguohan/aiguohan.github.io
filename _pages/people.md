@@ -59,7 +59,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Zixuan Tian</strong>, Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
+      <strong>[Zixuan Tian](https://www.linkedin.com/in/zixuan-tian-911b77223/)</strong>, Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
     </div>
   </div>
@@ -73,7 +73,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Haotian Chen</strong> Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
+      <strong>[Haotian Chen](https://www.linkedin.com/in/haotian-chen-6b207115a/)</strong> Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       B.S. in Mechatronics, Zhejiang University (2019) <br>
       M.S. in Electrical and Computer Engineering, UIUC (2021)<br>
     </div>
@@ -88,7 +88,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Jingyi Zuo, Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present) </strong><br>
+      <strong>[Jingyi Zuo](https://www.linkedin.com/in/jingyi-zuo-540618194/)</strong> Ph.D. Student, BEAM@Virginia Tech (Aug 2023 - present)<br>
       B.S. in Computer Science, UCLA (2021)<br>
       B.S. in Applied Mathematics, UCLA (2021)<br>
       M.S. in Bioengineering, UIUC (2023)<br>
@@ -104,7 +104,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>Benny Antony Amaraselvam</strong>, M.S. Student, ECE (Aug 2022 - present) @Virginia Tech<br>
+      <strong>[Benny Antony Amaraselvam](https://www.linkedin.com/in/benny-antony-213a4b19b/)</strong>, M.S. Student, ECE (Aug 2022 - present) @Virginia Tech<br>
       B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
   </div>
