@@ -108,8 +108,8 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/md-rizwanul-kabir-415912152/"><strong>MD Rizwanul Kabir</strong></a> <br>
-      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
-      B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
+      * Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      * B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
     </div>
   </div>
 </div>
