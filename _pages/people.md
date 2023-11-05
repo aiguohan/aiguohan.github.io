@@ -59,7 +59,7 @@ Current Members
   </div>
   <div class="column right">
     <div class="member profile">
-      <strong>[Zixuan Tian](https://www.linkedin.com/in/zixuan-tian-911b77223/)</strong>, Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
+      [<strong>Zixuan Tian</strong>](https://www.linkedin.com/in/zixuan-tian-911b77223/), Ph.D. Student, ECE@UIUC (Aug 2021 - present)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
     </div>
   </div>
