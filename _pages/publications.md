@@ -80,7 +80,7 @@ author_profile: true
 1. **A. Han***, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
 ## Invited Editorials
-1. **A. Han***, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_ vol. 309, no. 1, e232475, 2023.
+1. **A. Han***, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, e232475, 2023.
 
 ## Conference Papers
 1.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
