@@ -102,7 +102,7 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/MD Rizwanul Kabir.jpg" align="left" class="member__avatar" alt=MD Rizwanul Kabir"> 
+      <img src="/images/img/students/MD Rizwanul Kabir.jpg" align="left" class="member__avatar" alt="MD Rizwanul Kabir"> 
     </div>
   </div>
   <div class="column right">
