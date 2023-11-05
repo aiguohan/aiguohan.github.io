@@ -54,12 +54,12 @@ Current Members
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Benny Amaraselvam.jpg" align="left" class="member__avatar" alt="Benny Amaraselvam"> 
+      <img src="/images/img/students/Benny Antony.jpg" align="left" class="member__avatar" alt="Benny Antony"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="(https://www.linkedin.com/in/benny-antony-213a4b19b/"<strong>Benny Antony Amaraselvam</strong></a> <br>
+      <a href="(https://www.linkedin.com/in/benny-antony-213a4b19b/"<strong>Benny Antony</strong></a> <br>
       M.S. Student, ECE@Virginia Tech (Aug 2022 - present)<br>
       B.T. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
