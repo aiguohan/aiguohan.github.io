@@ -60,8 +60,8 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony</strong></a> <br>
-      · M.S. Student, Electrical and Computer Engineering, Virginia Tech (Aug 2022 - present)<br>
-      · B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
+      M.S. Student, Electrical and Computer Engineering, Virginia Tech (Aug 2022 - present)<br>
+      B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
     </div>
   </div>
 </div>
@@ -91,7 +91,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/jingyi-zuo-540618194/"><strong>Jingyi Zuo</strong></a> <br>
-      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
       M.S. in Bioengineering, University of Illinois Urbana-Champaign (2023)<br>
       B.S. in Computer Science, University of California, Los Angeles (2021)<br>
       B.S. in Applied Mathematics, University of California, Los Angeles (2021)<br>
@@ -108,7 +108,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/md-rizwanul-kabir-415912152/"><strong>MD Rizwanul Kabir</strong></a> <br>
-      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      <a href="https://ictas.vt.edu/education/doctoralscholars.html/">ICTAS Doctoral Scholar</a>, Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
       B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
     </div>
   </div>
@@ -123,7 +123,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/yuanbin-zhu-547471255/"><strong>Yuanbin Zhu</strong></a> <br>
-      Ph.D. Student, Virginia Tech-Wake Forest University School of Biomedical Engineering & Sciences (SBES) (Aug 2023 - present)<br>
+      Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
       M.S. in Electrical and Computer Engineering, University of Michigan (2023) <br>
       B.S. in Electrical Engineering and Automation, North China Electric Power University, China (2020)<br>
     </div>
