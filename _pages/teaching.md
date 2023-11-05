@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 ## Virginia Tech
-* [BMES 3134 - Introduction to Biomedical Imaging]
+* [BMES 3134 - Introduction to Biomedical Imaging](https://catalog.vt.edu/undergraduate/course-descriptions/bmes/) <br/>
   Fall 2023
 
 ## University of Illinois Urbana-Champaign
