@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 {% include base_path %}
+## Virginia Tech
+* [BMES 3134 - Introduction to Biomedical Imaging]
+  Fall 2023
 
+## University of Illinois Urbana-Champaign
 * [ECE 398 AS - Programming Methods for Machine Learning](https://courses.grainger.illinois.edu/ECE398AS/fa2022/) <br/>
   Fall 2022
   
