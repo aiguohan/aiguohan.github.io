@@ -1,12 +1,15 @@
 ---
-title: "List of example research projects"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
 {% include base_path %}
 
-## Sorted by Technical Areas
+## Central Theme
+Our research focuses on developing novel biomedical ultrasound imaging technologies to benefit human health.
+
+## Example Projects (Sorted by Technical Areas)
 
 ### Machine Learning
 * [Liver Fat Quantification Using Deep Learning and Ultrasound](https://pubs.rsna.org/cms/10.1148/radiol.2020191160/asset/images/large/radiol.2020191160.va.jpeg)
@@ -23,7 +26,7 @@ author_profile: true
 * New Quantitative Ultrasound Biomarkers for Liver Cancer Diagnosis
 * [Preterm Birth Risk Assessment Using Quantitative Ultrasound](https://acoustics.org/1pbab5-predicting-spontaneous-preterm-birth-risk-is-improved-when-quantitative-ultrasound-data-are-included-with-prior-clinical-data/)
 
-## Sorted by Application Areas
+## Example Projects (Sorted by Application Areas)
 
 ### Brain
 * [Ultrasound Brain Imaging Using Machine Learning](https://acoustics.org/1abab9-extracting-human-skull-properties-by-using-ultrasound-and-artificial-intelligence/)
