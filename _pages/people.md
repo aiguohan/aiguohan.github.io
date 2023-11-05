@@ -7,6 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
+Biomedical Ultrasound Research Group (BURG)
 Current Members
 ======
 
