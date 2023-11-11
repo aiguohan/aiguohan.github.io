@@ -18,6 +18,8 @@ author_profile: true
 
 ## Peer-Reviewed Journal Papers
 
+1. Y. Wu, V. Barrere, **A. Han**, M. P. Andre, E. Orozco, E. Y. Chang, and S. B. Shah*, “Quantitative evaluation of rat sciatic nerve degeneration using high-frequency ultrasound,” _Scientific Reports_. (in press)
+
 1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility,” _Ultrasonic Imaging_. (in press)
 
 1. B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous pre-term birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
