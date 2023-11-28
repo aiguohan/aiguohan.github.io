@@ -14,7 +14,11 @@ author_profile: true
 ## Preprints and Manuscripts Under Review
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2D numerical study](https://www.techrxiv.org/articles/preprint/Transcranial_Phase_Correction_Using_Pulse-echo_Ultrasound_and_Deep_Learning_A_2D_Numerical_Study/23528310),” Preprint on _Techrxiv_, under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
 
+1. Y. Park*, and **A. Han**, “Robust domain selection for functional data via interval-wise testing and effect size mapping.” under review by _The Canadian Journal of Statistics_
+    
 1. Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound,” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
+
+1. J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “Automated field of interest placement on cervical ultrasound images for assessing the risk of preterm birth.” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
 
 ## Peer-Reviewed Journal Papers
 
