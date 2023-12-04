@@ -34,7 +34,7 @@ author_profile: true
 
 1. K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med._, vol. 42, no. 1, pp. 45–58, 2023.
  
-## 2010 - 2022 (Prior to joining Virginia Tech)
+    ## 2010 - 2022 (Prior to joining Virginia Tech)
 1. K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “[US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative](https://doi.org/10.1148/radiol.220606),” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. 
 
 1. J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “[Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD](https://doi.org/10.1148/radiol.211131),” _Radiology_, vol. 304, no. 1, pp. 75–82, 2022. (Featured in an [editorial](https://pubs.rsna.org/doi/10.1148/radiol.213052) in _Radiology_.)
