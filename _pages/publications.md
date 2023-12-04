@@ -56,9 +56,9 @@ author_profile: true
 
 1. **A. Han***, Y. N. Zhang, A. S. Boehringer, V. Montes, M. P. Andre, J. W. Erdman, Jr., R. Loomba, M. A. Valasek, C. B. Sirlin, and W. D. O’Brien, Jr., “[Assessment of hepatic steatosis in nonalcoholic fatty liver disease using quantitative ultrasound](https://doi.org/10.1148/radiol.2020191152),” _Radiology_, vol. 295, no. 1, pp. 106–113, 2020. 
 
-1. S. Chen, B. L. McFarlin, B. T. Meagher, T. A. Peters, D. G. Simpson, W. D. O’Brien, Jr., and **A. Han***, “[A phantom-based assessment of repeatability and reproducibility of transvaginal quantitative ultrasound](https://ieeexplore.ieee.org/document/8736856/),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 66, no. 9, pp. 1413–1420, 2019.
-
 1. **A. Han***, Y. N. Zhang, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., R. Loomba, C. B. Sirlin, and W. D. O’Brien, Jr., “[Inter-platform reproducibility of ultrasonic attenuation and backscatter coefficients in assessing NAFLD](https://link.springer.com/article/10.1007%2Fs00330-019-06035-9),” _Eur. Radiol._, vol. 29, no. 9, pp. 4699–4708, 2019.
+
+1. S. Chen, B. L. McFarlin, B. T. Meagher, T. A. Peters, D. G. Simpson, W. D. O’Brien, Jr., and **A. Han***, “[A phantom-based assessment of repeatability and reproducibility of transvaginal quantitative ultrasound](https://ieeexplore.ieee.org/document/8736856/),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 66, no. 9, pp. 1413–1420, 2019.
 
 1. J. L. Rowles, **A. Han**, R. J. Miller, J. R. Kelly, C. C. Applegate, M. A. Wallig, W. D. O’Brien, Jr., and J. W. Erdman, Jr.*, “[Low fat but not soy protein isolate was an effective intervention to reduce nonalcoholic fatty liver disease progression in C57BL/6J mice: monitored by a novel quantitative ultrasound (QUS) method](https://www.sciencedirect.com/science/article/pii/S0271531718308716?via%3Dihub),” _Nutr. Res._, vol. 63, pp. 95–105, 2019. 
 
