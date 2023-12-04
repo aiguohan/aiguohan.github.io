@@ -8,11 +8,11 @@ author_profile: true
 {% include base_path %}
 
 [**Google Scholar**](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [**NCBI**](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] <br/>
-[**Preprints and Manuscripts Under Review**](#preprints_and_manuscripts_under_review) \| [**Peer-Reviewed Journal Papers**](#peer-reviewed_journal_papers) 
-
-†Co-first author   *Corresponding author
+[**Preprints and Manuscripts Under Review**](#preprints_and_manuscripts_under_review) \| [**Peer-Reviewed Journal Papers**](#peer-reviewed_journal_papers) \| [**Invited Book Chapters**](#invited_book_chapters) \| [**Invited Editorials**](#invited_editorials) \| [**Conference Papers**](#conference_papers)
 
 ## Preprints and Manuscripts Under Review
+†Co-first author   *Corresponding author
+
 1. Y. Park*, and **A. Han**, “Robust domain selection for functional data via interval-wise testing and effect size mapping.” under review by _The Canadian Journal of Statistics_
     
 1. Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound,” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
@@ -20,6 +20,8 @@ author_profile: true
 1. J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “Automated field of interest placement on cervical ultrasound images for assessing the risk of preterm birth.” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
 
 ## Peer-Reviewed Journal Papers
+†Co-first author   *Corresponding author
+
 ### 2023
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2D numerical study](https://www.techrxiv.org/articles/preprint/Transcranial_Phase_Correction_Using_Pulse-echo_Ultrasound_and_Deep_Learning_A_2D_Numerical_Study/23528310),” Preprint on _Techrxiv_, accepted by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_ (in press, accepted on 12/3/2023)
 
@@ -35,10 +37,7 @@ author_profile: true
 
 1. K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med._, vol. 42, no. 1, pp. 45–58, 2023.
 
-    2010 - 2022 (Prior to joining Virginia Tech)
-    -------------------------------------------------
-    -------------------------------------------------
-    -------------------------------------------------
+### 2010 - 2022 (Prior to joining Virginia Tech)
    
 1. K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “[US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative](https://doi.org/10.1148/radiol.220606),” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. 
 
@@ -91,10 +90,10 @@ author_profile: true
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
 ## Invited Book Chapters
-1. **A. Han***, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
+1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
 ## Invited Editorials
-1. **A. Han***, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, e232475, 2023.
+1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, e232475, 2023.
 
 ## Conference Papers
 1.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
