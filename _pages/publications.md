@@ -8,6 +8,7 @@ author_profile: true
 {% include base_path %}
 
 [[Google Scholar](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] <br/>
+[**Preprints and Manuscripts Under Review**](preprints_and_manuscripts_under_review) \| [**Peer-Reviewed Journal Papers**](peer-reviewed_journal_papers) 
 
 †Co-first author   *Corresponding author
 
@@ -34,7 +35,7 @@ author_profile: true
 
 1. K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med._, vol. 42, no. 1, pp. 45–58, 2023.
 
-    ### 2010 - 2022 (Prior to joining Virginia Tech)
+    2010 - 2022 (Prior to joining Virginia Tech)
     -------------------------------------------------
     -------------------------------------------------
     -------------------------------------------------
