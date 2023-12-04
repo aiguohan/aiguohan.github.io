@@ -10,7 +10,7 @@ author_profile: true
 [[Google Scholar]](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [[NCBI]](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/) <br/>
 
 [**Preprints and Manuscripts Under Review**](#preprints-and-manuscripts-under-review) <br/>
-[**Peer-Reviewed Journal Papers**](#peer--reviewed-journal-papers) <br/>
+[**Peer-Reviewed Journal Papers**](#peer-reviewed-journal-papers) <br/>
 [**Invited Book Chapters**](#invited-book-chapters) <br/>
 [**Invited Editorials**](#invited-editorials) <br/>
 [**Conference Papers**](#conference-papers) <br/>
