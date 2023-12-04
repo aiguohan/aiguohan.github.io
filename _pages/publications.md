@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-[[Google Scholar](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [NCBI](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] <br/>
+[[**Google Scholar**](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [[**NCBI**]](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/)] <br/>
 [[**Preprints and Manuscripts Under Review**]](preprints_and_manuscripts_under_review) \| [[**Peer-Reviewed Journal Papers**]](peer-reviewed_journal_papers) 
 
 †Co-first author   *Corresponding author
