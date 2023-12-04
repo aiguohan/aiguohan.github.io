@@ -19,12 +19,11 @@ author_profile: true
 1. J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “Automated field of interest placement on cervical ultrasound images for assessing the risk of preterm birth.” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
 
 ## Peer-Reviewed Journal Papers
-### In press
+### 2023
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2D numerical study](https://www.techrxiv.org/articles/preprint/Transcranial_Phase_Correction_Using_Pulse-echo_Ultrasound_and_Deep_Learning_A_2D_Numerical_Study/23528310),” Preprint on _Techrxiv_, accepted by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_ (in press, accepted on 12/3/2023)
 
 1.	B. L. McFarlin*, M. Villegas-Downs, M. Mohammadi, **A. Han**, D. G. Simpson, W. D. O’Brien, Jr. “Enhanced identification of at-risk women for preterm birth via quantitative ultrasound: A prospective cohort study,” _Am. J. Obstet. Gynecol._ (in press, accepted on 12/4/2023)
 
-## 2023
 1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility](https://doi.org/10.1177/01617346231207404),” _Ultrason. Imaging_ First published online November 20, 2023. Ahead of Print
    
 1. Y. Wu, V. Barrere, **A. Han**, M. P. Andre, E. Orozco, E. Y. Chang, and S. B. Shah*, “[Quantitative evaluation of rat sciatic nerve degeneration using high-frequency ultrasound](https://www.nature.com/articles/s41598-023-47264-9),” _Sci. Rep._, vol. 13, pp. 20228, 2023.
@@ -35,7 +34,7 @@ author_profile: true
 
 1. K. Nagabhushana, Q. Wang, and **A. Han***, “[Pulse-echo technique to compensate for laminate membrane transmission loss in phantom-based ultrasonic attenuation coefficient measurements](https://doi.org/10.1002/jum.16005),” _J. Ultrasound Med._, vol. 42, no. 1, pp. 45–58, 2023.
  
-## 2010 - 2022
+## 2010 - 2022 (Prior to joining Virginia Tech)
 1. K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “[US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative](https://doi.org/10.1148/radiol.220606),” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. 
 
 1. J. Jung, **A. Han**, E. Madamba, R. Bettencourt, R. R. Loomba, A. S. Boehringer, M. P. Andre, J. W. Erdman, Jr., W. D. O’Brien, Jr., K. J. Fowler, C. B. Sirlin, and R. Loomba*, “[Direct comparison of quantitative US versus controlled attenuation parameter for liver fat assessment using MRI proton density fat fraction as the reference standard in patients suspected of having NAFLD](https://doi.org/10.1148/radiol.211131),” _Radiology_, vol. 304, no. 1, pp. 75–82, 2022. (Featured in an [editorial](https://pubs.rsna.org/doi/10.1148/radiol.213052) in _Radiology_.)
