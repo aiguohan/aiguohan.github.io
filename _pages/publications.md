@@ -27,9 +27,10 @@ author_profile: true
 ## Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
 
-### 2023
-1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2D numerical study](https://www.techrxiv.org/articles/preprint/Transcranial_Phase_Correction_Using_Pulse-echo_Ultrasound_and_Deep_Learning_A_2D_Numerical_Study/23528310),” Preprint on _Techrxiv_, accepted by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_ (in press, accepted on 12/3/2023)
+### 2024
+1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2-D numerical study](https://ieeexplore.ieee.org/document/10347244),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 71, no. 1, pp. 117–126, 2024.
 
+### 2023
 1.	B. L. McFarlin*, M. Villegas-Downs, M. Mohammadi, **A. Han**, D. G. Simpson, W. D. O’Brien, Jr. “[Enhanced identification of at-risk women for preterm birth via quantitative ultrasound: A prospective cohort study](https://doi.org/10.1016/j.ajogmf.2023.101250),” _Am. J. Obstet. Gynecol. MFM_ 00:101250, 2023.
   	
 1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility](https://doi.org/10.1177/01617346231207404),” _Ultrason. Imaging_ First published online November 20, 2023. Ahead of Print
