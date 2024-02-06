@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2014
-* M.S. in Electrical and Computer Engineering, University of Illinois at Urbana-Champaign, 2011
+* Ph.D. in Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2014
+* M.S. in Electrical and Computer Engineering, University of Illinois Urbana-Champaign, 2011
 * B.S. in Acoustics, Nanjing University, 2008
 
 Academic Appointments
@@ -28,7 +28,9 @@ Academic Appointments
 
 Honors and Awards
 ======
-* IEEE TMI Gold Distinguished Reviewer, 2022
+* 2023 Radiology Editor’s Recognition Award for reviewing with Special Distinction, 2023
+* IEEE TMI Distinguished Reviewer (Bronze Level), 2023
+* IEEE TMI Distinguished Reviewer (Gold Level), 2022
 * NIH NIBIB Trailblazer Award, 2022
 * Illinois Delta Allocation Award, 2022
 * Fellow, American Institute of Ultrasound in Medicine (AIUM), 2021
@@ -47,15 +49,23 @@ Honors and Awards
 Professional Activities and Services
 ======
 - **Member of Editorial Board** for journals:
-  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – 2023
+  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – 2024
+
+- **Organizer** for conference sessions:
+  * Special session titled “Deep Learning in Ultrasound Imaging and Tissue Characterization,” the 183rd Meeting of the Acoustical Society of America, Nashville, TN, 12/2022.
 
 - **Session Chair** for conferences:
-  * IEEE International Ultrasonics Symposium, 2017, 2020, 2021, and 2022
+  * IEEE International Ultrasonics Symposium, 2017, 2020, 2021, 2022
 
 - **Reviewer** for grants:
   * Mitacs Accelerate, 2020
-  * UIUC Campus Research Board, 2021
-  * Ad Hoc Member, NIH CTIS Study Section, October 2021 and June 2022
+  * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 10/2021
+  * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 06/2022
+  * Israel Science Foundation, 2022
+  * National Institutes of Health (Ad Hoc Member, ZRG1 NV P 81 Study Section), 05/2023
+  * Swiss National Science Foundation, 2023
+  * National Science Foundation, Ad Hoc Reviewer, 2023 
+  * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 02/2024
 
 - **Professional Committees**
   * Member, IEEE UFFC IUS Medical Ultrasonics Technical Program Committee, 2022 – 2025
