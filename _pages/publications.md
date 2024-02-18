@@ -9,20 +9,13 @@ author_profile: true
 
 [[Google Scholar]](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [[NCBI]](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/) <br/>
 
-[**Preprints and Manuscripts Under Review**](#preprints-and-manuscripts-under-review) <br/>
+[**Preprints**](#preprints) <br/>
 [**Peer-Reviewed Journal Papers**](#peer-reviewed-journal-papers) <br/>
 [**Invited Book Chapters**](#invited-book-chapters) <br/>
 [**Invited Editorials**](#invited-editorials) <br/>
 [**Conference Papers**](#conference-papers) <br/>
 
-## Preprints and Manuscripts Under Review
-†Co-first author   *Corresponding author
-
-1. Y. Park*, and **A. Han**, “Robust domain selection for functional data via interval-wise testing and effect size mapping.” under review by _The Canadian Journal of Statistics_
-    
-1. Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound,” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
-
-1. J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “Automated field of interest placement on cervical ultrasound images for assessing the risk of preterm birth.” under review by _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_.
+## Preprints
 
 ## Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
