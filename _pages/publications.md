@@ -30,11 +30,11 @@ author_profile: true
 ### 2024
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2-D numerical study](https://ieeexplore.ieee.org/document/10347244),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 71, no. 1, pp. 117–126, 2024.
 
+1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility](https://doi.org/10.1177/01617346231207404),” _Ultrason. Imaging_, vol. 46, no. 1, pp. 56–70, 2024.
+
 ### 2023
 1.	B. L. McFarlin*, M. Villegas-Downs, M. Mohammadi, **A. Han**, D. G. Simpson, W. D. O’Brien, Jr. “[Enhanced identification of at-risk women for preterm birth via quantitative ultrasound: A prospective cohort study](https://doi.org/10.1016/j.ajogmf.2023.101250),” _Am. J. Obstet. Gynecol. MFM_ 00:101250, 2023.
-  	
-1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility](https://doi.org/10.1177/01617346231207404),” _Ultrason. Imaging_ First published online November 20, 2023. Ahead of Print
-   
+     
 1. Y. Wu, V. Barrere, **A. Han**, M. P. Andre, E. Orozco, E. Y. Chang, and S. B. Shah*, “[Quantitative evaluation of rat sciatic nerve degeneration using high-frequency ultrasound](https://www.nature.com/articles/s41598-023-47264-9),” _Sci. Rep._, vol. 13, pp. 20228, 2023.
 
 1. B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous pre-term birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
