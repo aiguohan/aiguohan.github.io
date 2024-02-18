@@ -9,13 +9,10 @@ author_profile: true
 
 [[Google Scholar]](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [[NCBI]](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/) <br/>
 
-[**Preprints**](#preprints) <br/>
 [**Peer-Reviewed Journal Papers**](#peer-reviewed-journal-papers) <br/>
 [**Invited Book Chapters**](#invited-book-chapters) <br/>
 [**Invited Editorials**](#invited-editorials) <br/>
 [**Conference Papers**](#conference-papers) <br/>
-
-## Preprints
 
 ## Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
