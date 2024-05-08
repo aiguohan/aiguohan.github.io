@@ -15,9 +15,6 @@ author_profile: true
 [**Conference Papers**](#conference-papers) <br/>
 
 †Co-first author   *Corresponding author
-## Preprints
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer,” arXiv:2405.02165, 2024.
-      
 ## Peer-Reviewed Journal Papers
 
 ### 2024
@@ -91,6 +88,9 @@ author_profile: true
 1. **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from high-concentration Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3655879),” _J. Acoust. Soc. Am._, vol. 130, no. 6, pp. 4139–4147, 2011. 
 
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
+
+## Preprints
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer,” arXiv:2405.02165, 2024.
 
 ## Invited Book Chapters
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
