@@ -14,10 +14,17 @@ author_profile: true
 [**Invited Editorials**](#invited-editorials) <br/>
 [**Conference Papers**](#conference-papers) <br/>
 
-## Peer-Reviewed Journal Papers
 †Co-first author   *Corresponding author
+## Preprints
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer,” arXiv:2405.02165, 2024.
+      
+## Peer-Reviewed Journal Papers
 
 ### 2024
+1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “MASLD: What we have learned and where we need to go. A call to action,” _Radiographics_. (in press)
+  
+1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “Postmortem tissue degassing using positive pressure is superior to negative pressure,” _Ultrasound Med. Biol._ (in press)
+
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2-D numerical study](https://ieeexplore.ieee.org/document/10347244),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 71, no. 1, pp. 117–126, 2024.
 
 1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility](https://doi.org/10.1177/01617346231207404),” _Ultrason. Imaging_, vol. 46, no. 1, pp. 56–70, 2024.
