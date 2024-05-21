@@ -18,7 +18,7 @@ author_profile: true
 †Co-first author   *Corresponding author
 
 ## Preprints
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer,” arXiv:2405.02165, 2024.
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer](https://arxiv.org/abs/2405.02165),” arXiv:2405.02165, 2024.
 
 ## Invited Book Chapters
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
