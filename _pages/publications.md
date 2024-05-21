@@ -22,7 +22,7 @@ author_profile: true
 
 1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “MASLD: What we have learned and where we need to go. A call to action,” _Radiographics_. (in press)
   
-1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “Postmortem tissue degassing using positive pressure is superior to negative pressure,” _Ultrasound Med. Biol._ (in press)
+1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._ (in press)
 
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2-D numerical study](https://ieeexplore.ieee.org/document/10347244),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 71, no. 1, pp. 117–126, 2024.
 
