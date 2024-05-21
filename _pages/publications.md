@@ -8,7 +8,8 @@ author_profile: true
 {% include base_path %}
 
 [[Google Scholar]](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [[NCBI]](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/) <br/>
-[**Preprints**](#Preprints) <br/>
+
+[**Preprints**](#preprints) <br/>
 [**Invited Book Chapters**](#invited-book-chapters) <br/>
 [**Invited Editorials**](#invited-editorials) <br/>
 [**Peer-Reviewed Journal Papers**](#peer-reviewed-journal-papers) <br/>
