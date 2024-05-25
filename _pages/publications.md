@@ -28,7 +28,7 @@ author_profile: true
 
 ## Peer-Reviewed Journal Papers
 ### 2024
-1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound,” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_. (in press)
+1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_. (in press)
 
 1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “MASLD: What we have learned and where we need to go. A call to action,” _Radiographics_. (in press)
   
