@@ -18,7 +18,9 @@ author_profile: true
 †Co-first author   *Corresponding author
 
 ## Preprints
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer](https://arxiv.org/abs/2405.02165),” arXiv:2405.02165, 2024.
+1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171709863.32880935),” techrxiv, 2024.
+
+2.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer](https://arxiv.org/abs/2405.02165),” arXiv:2405.02165, 2024.
 
 ## Invited Book Chapters
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
@@ -28,6 +30,8 @@ author_profile: true
 
 ## Peer-Reviewed Journal Papers
 ### 2024
+1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., D. G. Simpson, T. A. Peters, J. M. Schlaeger, B. L. McFarlin, “Trajectory of postpartum cervical remodeling in women delivering full-term and spontaneous preterm: Sensitivity to quantitative ultrasound biomarkers,” _Ultrasound Med. Biol._ (in press)
+
 1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_. (in press)
 
 1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “MASLD: What we have learned and where we need to go. A call to action,” _Radiographics_. (in press)
@@ -49,7 +53,7 @@ author_profile: true
    
 1. Y. Wu†, V. Barrere†, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Repeatability, reproducibility and sources of variability in the assessment of backscatter coefficient and texture parameters from high-frequency ultrasound acquisitions in human median nerve](https://doi.org/10.1016/j.ultrasmedbio.2022.08.007),” _Ultrasound Med. Biol._, vol. 49, no. 1, pp. 122–135, 2023.
 
-### 2010 - 2022 (Prior to joining Virginia Tech)
+### 2010 - 2022
    
 1. K. A. Wear*, **A. Han**, J. M. Rubin, J. Gao, R. Lavarello, G. Cloutier, J. Bamber, and T. Tuthill, “[US backscatter for liver fat quantification: An AIUM-RSNA QIBA Pulse-Echo Quantitative Ultrasound Initiative](https://doi.org/10.1148/radiol.220606),” _Radiology_, vol. 305, no. 3, pp. 526–537, 2022. 
 
