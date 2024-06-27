@@ -105,7 +105,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/haotian-chen-6b207115a/"><strong>Haotian Chen</strong></a> <br>
-      Ph.D. Student, Electrical and Computer Engineering, University of Illinois Urbana-Champaign (2019 - present)<br>
+      Ph.D. Student, Electrical and Computer Engineering, UIUC (2019 - present)<br>
       B.S. in Mechatronics, Zhejiang University (2019) <br>
     </div>
   </div>
@@ -168,7 +168,7 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
-      Ph.D. Student, Electrical and Computer Engineering, University of Illinois Urbana-Champaign (Aug 2021 - present)<br>
+      Ph.D. Student, Electrical and Computer Engineering, UIUC (Aug 2021 - present)<br>
       B.Eng. in Electronic Information Science and Technology, Fudan University (2021)<br>
     </div>
   </div>
