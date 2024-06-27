@@ -10,7 +10,7 @@ author_profile: true
 Biomedical Ultrasound Research Group (BURG)
 ======
 
-## Current Graduate Students
+## Current Students
 <style>
 .container {
   display: table;  #The container is needed to keep the column width consistent among rows.  
@@ -65,6 +65,23 @@ Biomedical Ultrasound Research Group (BURG)
     </div>
   </div>
 </div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Connor Murphy"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <a href="https://www.linkedin.com/in/connor-murphy5974/"><strong>Connor Murphy</strong></a> <br>
+      Undergraduate Student in Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
+    </div>
+  </div>
+</div>
+
+</div>
+<br>
 
 <div class="row">
   <div class="column left">
@@ -146,40 +163,6 @@ Biomedical Ultrasound Research Group (BURG)
 
 </div>
 
-## Current Undergraduate Students
-<div container>
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Andrew Li.jpg" align="left" class="member__avatar" alt="Andrew Li"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <a href="https://www.linkedin.com/in/andrew-li-3b1190165/"><strong>Andrew Li</strong></a> <br>
-      Undergraduate Student in Electrical and Computer Engineering, UIUC (Aug 2020 - present) <br>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
-      <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Connor Murphy"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <a href="https://www.linkedin.com/in/connor-murphy5974/"><strong>Connor Murphy</strong></a> <br>
-      Undergraduate Student in Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
-    </div>
-  </div>
-</div>
-
-
-</div>
-<br>
-
 ## Former Postdoctoral Research Associate
 - [**Quang Tran**](https://www.mtu.edu/cege/people/faculty-staff/faculty/tran/) (2020-2021) --> Postdoc at Harvard Medical School --> Assistant Professor at Michigan Technological University <br>
 
@@ -190,12 +173,10 @@ Biomedical Ultrasound Research Group (BURG)
   M.S. Thesis: <a href = "/pdfs/Wu_MS_Thesis_2021.pdf">Examining ultrasonic scattering mechanisms in fatty liver parenchyma via histopathological liver image analysis  </a>  
      
 ## Former Senior Undergraduate Thesis Students
+- [**Andrew Li**](https://www.linkedin.com/in/andrew-li-3b1190165) (ECE@UIUC, 2022-2023) --> Software Engineer Intern at Capital One <br>
 - [**Zikui Wang**](https://www.linkedin.com/in/zikui-wang/) (ECE@UIUC, 2022-2023) --> MS Student at Stanford <br>
-  Senior Thesis: Breast tumor diagnosis using class-activation-map-based convolutional neural network
 - [**Churan He**](https://www.linkedin.com/in/churan-he/) (ECE@UIUC, 2021) --> MSCS Student at Stanford; Software Engineer at NVIDIA <br>
-  Senior Thesis: <a href = "pdf link">Nonalcoholic fatty liver disease diagnosis using convolutional and recurrent neural networks on radiofrequency signal spectrograms </a>  
 - **Shi "Mike" Chen** (ECE@UIUC, 2018-2019) --> MS Student at Stanford  <br>
-  Senior Thesis: <a href = "pdf link">Transfer learning on ultrasound spectrograms of RF signals for diagnosing nonalcoholic fatty liver disease </a>  
 
 ## Former Undergraduate Research Assistants
 - [**Pablo Sanchez**](https://www.linkedin.com/in/pablo-sanchez-jr/) (ECE@UIUC, 2020-2022)
