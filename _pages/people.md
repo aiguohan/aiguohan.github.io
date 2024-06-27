@@ -114,7 +114,7 @@ Biomedical Ultrasound Research Group (BURG)
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Jingyi Zuo.jpg" align="left" class="member__avatar" alt="Jingyi Zuo"> 
+      <img src="https://media.licdn.com/dms/image/D5603AQEwHYdRYb4itA/profile-displayphoto-shrink_400_400/0/1661814913532?e=1724889600&v=beta&t=fVops1xzRXhvtRbow2Pf3ahA-KLxuTaha5X5QMiOQv8" align="left" class="member__avatar" alt="Jingyi Zuo"> 
     </div>
   </div>
   <div class="column right">
