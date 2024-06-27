@@ -162,7 +162,7 @@ Biomedical Ultrasound Research Group (BURG)
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Zixuan Tian.jpg" align="left" class="member__avatar" alt="Zixuan Tian"> 
+      <img src="https://media.licdn.com/dms/image/D5603AQG1jdjfpBBB9w/profile-displayphoto-shrink_800_800/0/1707766294922?e=1724889600&v=beta&t=gwlmP4T0Lq6dGftjaEUdnTc24Uj88POFMsqpAmZjHew" align="left" class="member__avatar" alt="Zixuan Tian"> 
     </div>
   </div>
   <div class="column right">
