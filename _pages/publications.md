@@ -106,7 +106,7 @@ author_profile: true
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
 ## Conference Papers
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer],” in _The Forty-first International Conference on Machine Learning AI for Science Workshop (ICML’24 AI4Science)_, 2024, pp. 1–11.
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer,” in _The Forty-first International Conference on Machine Learning AI for Science Workshop (ICML’24 AI4Science)_, 2024, pp. 1–11.
 
 1.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
 
