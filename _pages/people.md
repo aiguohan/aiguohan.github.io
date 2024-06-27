@@ -121,9 +121,9 @@ Biomedical Ultrasound Research Group (BURG)
     <div class="member profile">
       <a href="https://www.linkedin.com/in/jingyi-zuo-540618194/"><strong>Jingyi Zuo</strong></a> <br>
       Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
-      M.S. in Bioengineering, University of Illinois Urbana-Champaign (2023)<br>
-      B.S. in Computer Science, University of California, Los Angeles (2021)<br>
-      B.S. in Applied Mathematics, University of California, Los Angeles (2021)<br>
+      M.S. in Bioengineering, UIUC (2023)<br>
+      B.S. in Computer Science, UCLA (2021)<br>
+      B.S. in Applied Mathematics, UCLA (2021)<br>
     </div>
   </div>
 </div>
