@@ -50,7 +50,23 @@ Biomedical Ultrasound Research Group (BURG)
 </style>
 
 <div container>
-  
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="https://media.licdn.com/dms/image/D4D03AQFvkkk2iJ44Aw/profile-displayphoto-shrink_800_800/0/1700585993642?e=1724889600&v=beta&t=5TpZQlqOM74nhUvrcJlVWuYPzlLPXe-LAtqGjDI6jMM" align="left" class="member__avatar" alt="Antarjot Kaur"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <a href="https://www.linkedin.com/in/antarjot-kaur-5908461a2/"><strong>Antarjot Kaur</strong></a> <br>
+      Ph.D. Student, Engineering Education, Virginia Tech (Aug 2023 - present)<br>
+      M.S. in Bioengineering, George Mason University (2023)<br>
+      B.S. in Bioengineering, George Mason University (2021)<br>
+    </div>
+  </div>
+</div>
+
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
@@ -61,7 +77,6 @@ Biomedical Ultrasound Research Group (BURG)
     <div class="member profile">
       <a href="https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony</strong></a> <br>
       M.S. Student, Electrical and Computer Engineering, Virginia Tech (Aug 2022 - present)<br>
-      B.Tech. in Computer Science and Engineering, Vellore Institute of Technology (2022) <br>
     </div>
   </div>
 </div>
