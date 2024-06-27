@@ -61,7 +61,7 @@ Biomedical Ultrasound Research Group (BURG)
     <div class="member profile">
       <a href="https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony</strong></a> <br>
       M.S. Student, Electrical and Computer Engineering, Virginia Tech (Aug 2022 - present)<br>
-      B.Tech. in Computer Science and Engineering, Vellore Institute of Technology, India (2022) <br>
+      B.Tech. in Computer Science and Engineering, Vellore Institute of Technology (2022) <br>
     </div>
   </div>
 </div>
@@ -75,13 +75,10 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/in/connor-murphy5974/"><strong>Connor Murphy</strong></a> <br>
-      Undergraduate Student in Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
+      Undergraduate Student, Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
     </div>
   </div>
 </div>
-
-</div>
-<br>
 
 <div class="row">
   <div class="column left">
@@ -125,7 +122,7 @@ Biomedical Ultrasound Research Group (BURG)
     <div class="member profile">
       <a href="https://www.linkedin.com/in/md-rizwanul-kabir-415912152/"><strong>MD Rizwanul Kabir</strong></a> <br>
       Ph.D. Student (<a href="https://ictas.vt.edu/education/doctoralscholars.html/">ICTAS Doctoral Scholar</a>), Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
-      B.E. in Electrical and Electronics Engineering, Islamic University of Technology, Bangladesh (2021)<br>
+      B.E. in Electrical and Electronics Engineering, Islamic University of Technology (2021)<br>
     </div>
   </div>
 </div>
@@ -141,7 +138,7 @@ Biomedical Ultrasound Research Group (BURG)
       <a href="https://www.linkedin.com/in/yuanbin-zhu-547471255/"><strong>Yuanbin Zhu</strong></a> <br>
       Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2023 - present)<br>
       M.S. in Electrical and Computer Engineering, University of Michigan (2023) <br>
-      B.S. in Electrical Engineering and Automation, North China Electric Power University, China (2020)<br>
+      B.S. in Electrical Engineering and Automation, North China Electric Power University (2020)<br>
     </div>
   </div>
 </div>
@@ -156,7 +153,7 @@ Biomedical Ultrasound Research Group (BURG)
     <div class="member profile">
       <a href="https://www.linkedin.com/in/zixuan-tian-911b77223/"><strong>Zixuan Tian</strong></a> <br>
       Ph.D. Student, Electrical and Computer Engineering, University of Illinois Urbana-Champaign (Aug 2021 - present)<br>
-      B.Eng. in Electronic Information Science and Technology, Fudan University, China (2021)<br>
+      B.Eng. in Electronic Information Science and Technology, Fudan University (2021)<br>
     </div>
   </div>
 </div>
