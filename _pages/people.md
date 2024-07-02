@@ -63,6 +63,7 @@ Biomedical Ultrasound Research Group (BURG)
       Ph.D. Student, Engineering Education, Virginia Tech (Aug 2023 - present)<br>
       M.S. in Bioengineering, George Mason University (2023)<br>
       B.S. in Bioengineering, George Mason University (2021)<br>
+      Antarjot is focused on investigating and understanding muscle function using ultrasound techniques, while also developing computational models to advance the understanding and treatment of musculoskeletal conditions. Outside of the lab and in the classroom, she is also interested in biomedical and broadening participation research in engineering education. Her hobbies include video games, cooking, and embarking on adventures to new places. <br>
     </div>
   </div>
 </div>
