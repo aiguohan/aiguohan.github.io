@@ -30,9 +30,9 @@ author_profile: true
 
 ## Peer-Reviewed Journal Papers
 ### 2024
-1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo,” J. Ultrasound Med. (accepted on 9/16/24; in press)
+1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo,” _J. Ultrasound Med._ (accepted on 9/16/24; in press)
 
-1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Towards real-time clinical translation in spontaneous preterm birth risk assessment](https://authors.elsevier.com/a/1jlsQ14aKMzczv),” Ultrasound Med. Biol. (accepted on 8/12/24; online 9/12/24)
+1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Towards real-time clinical translation in spontaneous preterm birth risk assessment](https://authors.elsevier.com/a/1jlsQ14aKMzczv),” _Ultrasound Med. Biol._ (accepted on 8/12/24; online 9/12/24)
 
 1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., D. G. Simpson, T. A. Peters, J. M. Schlaeger, B. L. McFarlin, “[Trajectory of postpartum cervical remodeling in women delivering full-term and spontaneous preterm: Sensitivity to quantitative ultrasound biomarkers](https://www.sciencedirect.com/science/article/pii/S0301562924002618),” _Ultrasound Med. Biol._ (in press)
 
