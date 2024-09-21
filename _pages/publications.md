@@ -30,13 +30,17 @@ author_profile: true
 
 ## Peer-Reviewed Journal Papers
 ### 2024
-1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., D. G. Simpson, T. A. Peters, J. M. Schlaeger, B. L. McFarlin, “Trajectory of postpartum cervical remodeling in women delivering full-term and spontaneous preterm: Sensitivity to quantitative ultrasound biomarkers,” _Ultrasound Med. Biol._ (in press)
+1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo,” J. Ultrasound Med. (accepted on 9/16/24; in press)
 
-1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_. (in press)
+1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Towards real-time clinical translation in spontaneous preterm birth risk assessment](https://authors.elsevier.com/a/1jlsQ14aKMzczv),” Ultrasound Med. Biol. (accepted on 8/12/24; online 9/12/24)
+
+1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., D. G. Simpson, T. A. Peters, J. M. Schlaeger, B. L. McFarlin, “[Trajectory of postpartum cervical remodeling in women delivering full-term and spontaneous preterm: Sensitivity to quantitative ultrasound biomarkers](https://www.sciencedirect.com/science/article/pii/S0301562924002618),” _Ultrasound Med. Biol._ (in press)
+
+1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_., vol. 71, no. 8, 985–994, 2024.
 
 1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “MASLD: What we have learned and where we need to go. A call to action,” _Radiographics_. (in press)
   
-1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._ (in press)
+1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._, vol. 50, no. 8, pp. 1287–1291, 2024.
 
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2-D numerical study](https://ieeexplore.ieee.org/document/10347244),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 71, no. 1, pp. 117–126, 2024.
 
