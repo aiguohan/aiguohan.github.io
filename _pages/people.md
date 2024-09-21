@@ -71,21 +71,6 @@ Biomedical Ultrasound Research Group (BURG)
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Benny Antony.jpg" align="left" class="member__avatar" alt="Benny Antony"> 
-    </div>
-  </div>
-  <div class="column right">
-    <div class="member profile">
-      <a href="https://www.linkedin.com/in/benny-antony-213a4b19b/"><strong>Benny Antony</strong></a> <br>
-      M.S. Student, Electrical and Computer Engineering, Virginia Tech (Aug 2022 - present)<br>
-      B.S. in Computer Science, Vellore Institute of Technology (2022) <br>
-    </div>
-  </div>
-</div>
-
-<div class="row">
-  <div class="column left">
-    <div class="member__avatar">
       <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Connor Murphy"> 
     </div>
   </div>
@@ -147,6 +132,21 @@ Biomedical Ultrasound Research Group (BURG)
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
+      <img src="https://media.licdn.com/dms/image/v2/C4D03AQFi3xzxxh26hg/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1644861484814?e=1732147200&v=beta&t=WHQ4eGcTcl3UlQRNt1ArR7t_3QltvrsGZkv8VCialO8" align="left" class="member__avatar" alt="Yixuan Peng"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <a href="https://www.linkedin.com/in/yixuan-peng-41b869231/"><strong>Yixuan Peng</strong></a> <br>
+      Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2024 - present)<br>
+      M.S. in Electrical and Computer Engineering, University of Michigan (2024) <br>
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
       <img src="/images/img/students/Yuanbin Zhu.jpg" align="left" class="member__avatar" alt="Yuanbin Zhu"> 
     </div>
   </div>
@@ -181,6 +181,8 @@ Biomedical Ultrasound Research Group (BURG)
 - [**Quang Tran**](https://www.mtu.edu/cege/people/faculty-staff/faculty/tran/) (2020-2021) --> Postdoc at Harvard Medical School --> Assistant Professor at Michigan Technological University <br>
 
 ## Former Graduate Students
+- [**Benny Antony**](https://www.linkedin.com/in/benny-antony-213a4b19b/) (M.S. in Computer Engineering, Virginia Tech, 2022-2024) 
+
 - [**Karthik Nagabhushana**](https://www.linkedin.com/in/karthik-nagabhushana-19a61818/) (M.S. in Electrical and Computer Engineering, UIUC, 2020-2021) --> Application Engineer at Texas Instruments <br>
   M.S. Thesis: <a href = "pdf link">Simulating acoustic wave reflection, transmission, and scattering in k-Wave for quantitative ultrasound applications </a> 
 - [**Yashuo Wu**](https://www.linkedin.com/in/yashuo-wu-070199129/) (M.S. in Electrical and Computer Engineering, UIUC, 2019-2021) --> PhD Student at UC Irvine  <br>
