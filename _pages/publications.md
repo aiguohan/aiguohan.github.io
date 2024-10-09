@@ -32,7 +32,7 @@ author_profile: true
 ### 2024
 1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient,” _Eur. Radiol. Exp._ (accepted on 9/25/24; in press)
 
-1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo,” _J. Ultrasound Med._ (accepted on 9/16/24; in press)
+1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo](http://doi.org/10.1002/jum.16585),” _J. Ultrasound Med._ (accepted on 9/16/24; online 10/9/24)
 
 1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Towards real-time clinical translation in spontaneous preterm birth risk assessment](https://authors.elsevier.com/a/1jlsQ14aKMzczv),” _Ultrasound Med. Biol._ (accepted on 8/12/24; online 9/12/24)
 
