@@ -24,25 +24,25 @@ author_profile: true
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
 ## C. Invited Editorials
-1. **A. Han**, “[US attenuation coefficient for liver fat quantification: A need for standardization](https://doi.org/10.1148/radiol.242511),” _Radiology_, vol. 313, no. 1, e242511, 2024.
+1. **A. Han**, “[US attenuation coefficient for liver fat quantification: A need for standardization](https://doi.org/10.1148/radiol.242511),” _Radiology_, vol. 313, no. 1, 2024, Art. no. e242511.
    
-1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, e232475, 2023.
+1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, 2023, Art. no. e232475.
 
 ## D. Journal and Other Peer-Reviewed Publications
 ### 2024
 1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://arxiv.org/abs/2405.02165),” in _2024 IEEE International Conference on Big Data_, 2024. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%)
 
-1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient](https://doi.org/10.1186/s41747-024-00522-5),” _Eur. Radiol. Exp._, vol. 8, no. 1, pp. 119:1–9, 2024.
+1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient](https://doi.org/10.1186/s41747-024-00522-5),” _Eur. Radiol. Exp._, vol. 8, no. 1, 2024, Art. no. 119.
 
 1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo](http://doi.org/10.1002/jum.16585),” _J. Ultrasound Med._ (accepted on 9/16/24; online 10/9/24)
 
-1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Towards real-time clinical translation in spontaneous preterm birth risk assessment](https://authors.elsevier.com/a/1jlsQ14aKMzczv),” _Ultrasound Med. Biol._ (accepted on 8/12/24; online 9/12/24)
+1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Toward real-time clinical translation in spontaneous preterm birth risk assessment](https://doi.org/10.1016/j.ultrasmedbio.2024.08.011),” _Ultrasound Med. Biol._, vol. 50, no. 12, pp. 1861–1867, 2024.
 
-1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., D. G. Simpson, T. A. Peters, J. M. Schlaeger, B. L. McFarlin, “[Trajectory of postpartum cervical remodeling in women delivering full-term and spontaneous preterm: Sensitivity to quantitative ultrasound biomarkers](https://www.sciencedirect.com/science/article/pii/S0301562924002618),” _Ultrasound Med. Biol._ (in press)
+1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., D. G. Simpson, T. A. Peters, J. M. Schlaeger, B. L. McFarlin, “[Trajectory of postpartum cervical remodeling in women delivering full-term and spontaneous preterm: Sensitivity to quantitative ultrasound biomarkers](https://doi.org/10.1016/j.ultrasmedbio.2024.06.015),” _Ultrasound Med. Biol._, vol. 50, no. 12, pp. 1777–1784, 2024.
 
-1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_., vol. 71, no. 8, 985–994, 2024.
+1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_., vol. 71, no. 8, pp. 985–994, 2024.
 
-1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “MASLD: What we have learned and where we need to go. A call to action,” _Radiographics_. (in press)
+1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “[MASLD: What we have learned and where we need to go. A call to action](https://doi.org/10.1148/rg.240048),” _Radiographics_.vol. 44, no. 11, 2024, Art. no. e240048.
   
 1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._, vol. 50, no. 8, pp. 1287–1291, 2024.
 
