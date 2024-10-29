@@ -12,7 +12,7 @@ author_profile: true
 [**A. Preprints**](#a-preprints) <br/>
 [**B. Invited Book Chapters**](#b-invited-book-chapters) <br/>
 [**C. Invited Editorials**](#c-invited-editorials) <br/>
-[**D. Journal and Other Peer-Reviewed Publications**](#d-journal-and-other-peer--reviewed-publications) <br/>
+[**D. Journal and Other Peer-Reviewed Publications**](#d-journal-and-other-peer-reviewed-publications) <br/>
 [**E. Conference Proceedings**](#e-conference-proceedings) <br/>
 
 †Co-first author   *Corresponding author
@@ -31,7 +31,7 @@ author_profile: true
 ### 2024
 1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://arxiv.org/abs/2405.02165),” in _2024 IEEE International Conference on Big Data_, 2024. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%)
 
-1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient,” _Eur. Radiol. Exp._ (accepted on 9/25/24; in press)
+1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient](https://doi.org/10.1186/s41747-024-00522-5),” _Eur. Radiol. Exp._, vol. 8, no. 1, pp. 119:1–9, 2024.
 
 1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo](http://doi.org/10.1002/jum.16585),” _J. Ultrasound Med._ (accepted on 9/16/24; online 10/9/24)
 
