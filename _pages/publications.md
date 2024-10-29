@@ -9,25 +9,25 @@ author_profile: true
 
 [[Google Scholar]](https://scholar.google.com/citations?user=KLxyMK8AAAAJ&hl=en) \| [[NCBI]](https://www.ncbi.nlm.nih.gov/myncbi/aiguo.han.1/bibliography/public/) <br/>
 
-[**Preprints**](#preprints) <br/>
-[**Invited Book Chapters**](#invited-book-chapters) <br/>
-[**Invited Editorials**](#invited-editorials) <br/>
-[**Journal and Other Peer-Reviewed Publications**](#Journal-and-other-peer-reviewed-publications) <br/>
-[**Conference Proceedings**](#conference-proceedings) <br/>
+[**A. Preprints**](#a.-preprints) <br/>
+[**B. Invited Book Chapters**](#b.-invited-book-chapters) <br/>
+[**C. Invited Editorials**](#c.-invited-editorials) <br/>
+[**D. Journal and Other Peer-Reviewed Publications**](#d.-journal-and-other-peer-reviewed-publications) <br/>
+[**E. Conference Proceedings**](#e.-conference-proceedings) <br/>
 
 †Co-first author   *Corresponding author
 
-## Preprints
+## A. Preprints
 1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171709863.32880935),” techrxiv, 2024.
 
-## Invited Book Chapters
+## B. Invited Book Chapters
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
-## Invited Editorials
+## C. Invited Editorials
 1. **A. Han**, “[US attenuation coefficient for liver fat quantification: A need for standardization](https://doi.org/10.1148/radiol.242511),” _Radiology_, vol. 313, no. 1, e242511, 2024.
 1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, e232475, 2023.
 
-## Journal and Other Peer-Reviewed Publications
+## D. Journal and Other Peer-Reviewed Publications
 ### 2024
 1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://arxiv.org/abs/2405.02165),” in _2024 IEEE International Conference on Big Data_, 2024. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%)
 
@@ -112,7 +112,7 @@ author_profile: true
 
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
-## Conference Proceedings
+## E. Conference Proceedings
 1. Z. Tian, Y. Jing, and **A. Han**, “An Open-source GPU-based acoustic simulator for fast and accurate modeling of acoustic scattering,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
 1.	H. Chen, Y. Zhu, J. Zuo, R. Kabir, and **A. Han**, “TranSpeed: Transformer-based generative adversarial network for speed-of-sound reconstruction in pulse-echo mode,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
