@@ -25,6 +25,7 @@ author_profile: true
 
 ## C. Invited Editorials
 1. **A. Han**, “[US attenuation coefficient for liver fat quantification: A need for standardization](https://doi.org/10.1148/radiol.242511),” _Radiology_, vol. 313, no. 1, e242511, 2024.
+   
 1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, e232475, 2023.
 
 ## D. Journal and Other Peer-Reviewed Publications
