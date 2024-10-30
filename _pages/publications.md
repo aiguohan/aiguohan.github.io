@@ -42,7 +42,7 @@ author_profile: true
 
 1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_., vol. 71, no. 8, pp. 985–994, 2024.
 
-1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “[MASLD: What we have learned and where we need to go. A call to action](https://doi.org/10.1148/rg.240048),” _Radiographics_.vol. 44, no. 11, 2024, Art. no. e240048.
+1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “[MASLD: What we have learned and where we need to go. A call to action](https://doi.org/10.1148/rg.240048),” _RadioGraphics_.vol. 44, no. 11, 2024, Art. no. e240048. (Featured in an [invited commentary](https://doi.org/10.1148/rg.240209) in _Radiographics_.)
   
 1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._, vol. 50, no. 8, pp. 1287–1291, 2024.
 
@@ -50,9 +50,9 @@ author_profile: true
 
 1. Y. Wu, V. Barrere, A. Ashir, X. Chen, L. Silva, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[High-frequency quantitative ultrasound imaging of human rotator cuff muscles: Assessment of repeatability and reproducibility](https://doi.org/10.1177/01617346231207404),” _Ultrason. Imaging_, vol. 46, no. 1, pp. 56–70, 2024.
 
-### 2023
-1.	B. L. McFarlin*, M. Villegas-Downs, M. Mohammadi, **A. Han**, D. G. Simpson, W. D. O’Brien, Jr. “[Enhanced identification of at-risk women for preterm birth via quantitative ultrasound: A prospective cohort study](https://doi.org/10.1016/j.ajogmf.2023.101250),” _Am. J. Obstet. Gynecol. MFM_ 00:101250, 2023.
+1.	B. L. McFarlin*, M. Villegas-Downs, M. Mohammadi, **A. Han**, D. G. Simpson, W. D. O’Brien, Jr. “[Enhanced identification of at-risk women for preterm birth via quantitative ultrasound: A prospective cohort study](https://doi.org/10.1016/j.ajogmf.2023.101250),” _Am. J. Obstet. Gynecol. MFM_, vol. 6, no. 5, 2024, Art. no. 101250.
      
+### 2023
 1. Y. Wu, V. Barrere, **A. Han**, M. P. Andre, E. Orozco, E. Y. Chang, and S. B. Shah*, “[Quantitative evaluation of rat sciatic nerve degeneration using high-frequency ultrasound](https://www.nature.com/articles/s41598-023-47264-9),” _Sci. Rep._, vol. 13, pp. 20228, 2023.
 
 1. B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous pre-term birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
