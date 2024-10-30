@@ -53,7 +53,7 @@ author_profile: true
 1.	B. L. McFarlin*, M. Villegas-Downs, M. Mohammadi, **A. Han**, D. G. Simpson, W. D. O’Brien, Jr. “[Enhanced identification of at-risk women for preterm birth via quantitative ultrasound: A prospective cohort study](https://doi.org/10.1016/j.ajogmf.2023.101250),” _Am. J. Obstet. Gynecol. MFM_, vol. 6, no. 5, 2024, Art. no. 101250.
      
 ### 2023
-1. Y. Wu, V. Barrere, **A. Han**, M. P. Andre, E. Orozco, E. Y. Chang, and S. B. Shah*, “[Quantitative evaluation of rat sciatic nerve degeneration using high-frequency ultrasound](https://www.nature.com/articles/s41598-023-47264-9),” _Sci. Rep._, vol. 13, pp. 20228, 2023.
+1. Y. Wu, V. Barrere, **A. Han**, M. P. Andre, E. Orozco, E. Y. Chang, and S. B. Shah*, “[Quantitative evaluation of rat sciatic nerve degeneration using high-frequency ultrasound](https://www.nature.com/articles/s41598-023-47264-9),” _Sci. Rep._, vol. 13, 2023, Art. no. 20228.
 
 1. B. L. McFarlin, Y. Liu, M. Villegas-Downs, M. Mohammadi, D. G. Simpson, **A. Han**, and W. D. O’Brien, Jr.*, “[Predicting spontaneous pre-term birth risk is improved when quantitative ultrasound data are included with historical clinical data](https://doi.org/10.1016/j.ultrasmedbio.2022.12.018),” _Ultrasound Med. Biol._ vol. 49, no. 5, pp. 1145–1152, 2023.
 
@@ -93,7 +93,7 @@ author_profile: true
 
 1. Y. Zhu*, **A. Han**, W. D. O’Brien, Jr., M. L. Oelze, and M. F. Insana, “[Limitations on estimation of effective scatterer diameters](https://asa.scitation.org/doi/full/10.1121/1.5017602),” _J. Acoust. Soc. Am._, vol. 142, no. 6, pp. 3677–3690, 2017.
 
-1. A. G. B. Cruz, **A. Han**, E. J. Roy, A. B. Guzmán, R. J. Miller, E. A. Driskell, W. D. O’Brien, Jr., and J. L. Shisler*, “[Deletion of the K1L gene results in a vaccinia virus that is less pathogenic due to muted innate immune responses, yet still elicits protective immunity](https://doi.org/10.1128/JVI.00542-17),” _J. Virol._, vol. 91, no. 15, pp. e00542--17, 2017.
+1. A. G. B. Cruz, **A. Han**, E. J. Roy, A. B. Guzmán, R. J. Miller, E. A. Driskell, W. D. O’Brien, Jr., and J. L. Shisler*, “[Deletion of the K1L gene results in a vaccinia virus that is less pathogenic due to muted innate immune responses, yet still elicits protective immunity](https://doi.org/10.1128/JVI.00542-17),” _J. Virol._, vol. 91, no. 15, 2017, Art. no. e00542-17.
 
 1. J. S. Paige, G. S. Bernstein, E. Heba, E. A. C. Costa, M. Fereirra, T. Wolfson, A. C. Gamst, M. A. Valasek, G. Y. Lin, **A. Han**, J. W. Erdman, Jr., W. D. O’Brien, Jr., M. P. Andre, R. Loomba, and C. B. Sirlin*, “[A pilot comparative study of quantitative ultrasound, conventional ultrasound, and MRI for predicting histology-determined steatosis grade in adult nonalcoholic fatty liver disease](https://www.ajronline.org/doi/10.2214/AJR.16.16726),” _Am. J. Roentgenol._, vol. 208, no. 5, pp. W168–W177, 2017.  
 
