@@ -42,7 +42,7 @@ author_profile: true
 
 1.	Q. Tran, W. D. O’Brien, Jr., and **A. Han***, “[Sticky hard sphere model for characterizing tumor microstructure via quantitative ultrasound](https://ieeexplore.ieee.org/document/10538031),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_., vol. 71, no. 8, pp. 985–994, 2024.
 
-1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “[MASLD: What we have learned and where we need to go. A call to action](https://doi.org/10.1148/rg.240048),” _RadioGraphics_.vol. 44, no. 11, 2024, Art. no. e240048. (Featured in an [invited commentary](https://doi.org/10.1148/rg.240209) in _Radiographics_.)
+1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “[MASLD: What we have learned and where we need to go — A call to action](https://doi.org/10.1148/rg.240048),” _RadioGraphics_.vol. 44, no. 11, 2024, Art. no. e240048. (Featured in an [invited commentary](https://doi.org/10.1148/rg.240209) in _Radiographics_.)
   
 1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._, vol. 50, no. 8, pp. 1287–1291, 2024.
 
