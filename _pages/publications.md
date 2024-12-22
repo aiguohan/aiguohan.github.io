@@ -30,7 +30,7 @@ author_profile: true
 
 ## D. Journal and Other Peer-Reviewed Publications
 ### 2024
-1.	D. Tamayo-Murillo*, J. T. Weeks, C. A. Keller, M. P. Andre, C. Gonzalez, A. Li, E. Grunvald, J. Liau, S. H. Shabanan, T. Wolfson, J. Zuo, A. Robinson, C. A. Carrascal, N. Sanchez, S. B. Reeder, **A. Han**, and C. B. Sirlin, “Quantitative liver fat assessment by handheld point-of-care ultrasound: A technical implementation and pilot study in adults,” _Ultrasound Med. Biol._ (accepted on 11/4/2024)
+1.	D. Tamayo-Murillo*, J. T. Weeks, C. A. Keller, M. P. Andre, C. Gonzalez, A. Li, E. Grunvald, J. Liau, S. H. Shabanan, T. Wolfson, J. Zuo, A. Robinson, C. A. Carrascal, N. Sanchez, S. B. Reeder, **A. Han**, and C. B. Sirlin, “[Quantitative liver fat assessment by handheld point-of-care ultrasound: A technical implementation and pilot study in adults](https://doi.org/10.1016/j.ultrasmedbio.2024.11.005),” _Ultrasound Med. Biol._ (accepted on 11/4/2024; online 12/16/24)
    
 1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://arxiv.org/abs/2405.02165),” in _2024 IEEE International Conference on Big Data_, 2024. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%)
 
