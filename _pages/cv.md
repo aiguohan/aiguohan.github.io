@@ -53,21 +53,19 @@ Honors and Awards
 Professional Activities and Services
 ======
 - **Member of Editorial Board** for journals:
-  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2019 – 2024
+  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2020 – 2025
 
 - **Organizer** for conference sessions:
   * Special session titled “Deep Learning in Ultrasound Imaging and Tissue Characterization,” the 183rd Meeting of the Acoustical Society of America, Nashville, TN, 12/2022.
 
 - **Session Chair** for conferences:
   * IEEE International Ultrasonics Symposium, 2017, 2020, 2021, 2022
-
+  * International Symposium on Ultrasonic Imaging and Tissue Characterization (UITC), 2024
+    
 - **Reviewer** for grants:
-  * Mitacs Accelerate, 2020
   * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 10/2021
   * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 06/2022
-  * Israel Science Foundation, 2022
   * National Institutes of Health (Ad Hoc Member, ZRG1 NV P 81 Study Section), 05/2023
-  * Swiss National Science Foundation, 2023
   * National Science Foundation, Ad Hoc Reviewer, 2023 
   * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 02/2024
 
@@ -75,16 +73,14 @@ Professional Activities and Services
   * Member, IEEE UFFC IUS Medical Ultrasonics Technical Program Committee, 2022 – 2025
   * Member, AIUM Bioeffects Committee, 2022 – 2025
   * Member, Computational Acoustics Technical Specialty Group, Acoustical Society of America, 2021 – 2024
+  * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2022 – 2025
   * Co-chair, AIUM/QIBAS PEQUS Backscatter Working Group, 2020 – present
   * Member, AIUM/QIBA PEQUS Biomarker Committee, 2020 – present
-  * Member, RSNA QIBA Committee, 2020 – present
-  * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2015 – 2020
-
-- **Mentor**, [Health Make-a-Thon](https://healthmakerlab.medicine.illinois.edu/competition/), Health Maker Lab, Carle Illinois College of Medicine
+  * Member, RSNA QIBA Committee, 2020 – 2024
 
 Professional Memberships
 ======
 * Fellow, American Institute of Ultrasound in Medicine (AIUM) 
 * Member, Institute of Electrical and Electronics Engineers (IEEE) 
 * Member, IEEE Ultrasonics, Ferroelectrics, and Frequency Control Society (UFFC) 
-* Member, Acoustical Society of America (ASA) 
+* Full Member, Acoustical Society of America (ASA) 
