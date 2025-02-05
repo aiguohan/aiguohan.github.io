@@ -35,7 +35,7 @@ author_profile: true
 ### 2024
 1.	D. Tamayo-Murillo*, J. T. Weeks, C. A. Keller, M. P. Andre, C. Gonzalez, A. Li, E. Grunvald, J. Liau, S. H. Shabanan, T. Wolfson, J. Zuo, A. Robinson, C. A. Carrascal, N. Sanchez, S. B. Reeder, **A. Han**, and C. B. Sirlin, “[Quantitative liver fat assessment by handheld point-of-care ultrasound: A technical implementation and pilot study in adults](https://doi.org/10.1016/j.ultrasmedbio.2024.11.005),” _Ultrasound Med. Biol._ (accepted on 11/4/2024; online 12/16/24)
    
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://ieeexplore.ieee.org/document/10825980),” _2024 IEEE International Conference on Big Data (BigData)_, Washington, DC, USA, 2024, pp. 1824–1833. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%) [[arxiv version]](https://arxiv.org/abs/2405.02165) [[code]](https://github.com/ForeverNightmare/EEG2Text) 
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://ieeexplore.ieee.org/document/10825980),” _2024 IEEE International Conference on Big Data (BigData)_, Washington, DC, USA, 2024, pp. 1824–1833. (Peer-reviewed conference proceedings paper; acceptance rate: 18.8%) [[arxiv version]](https://arxiv.org/abs/2405.02165) [[code]](https://github.com/ForeverNightmare/EEG2Text) 
 
 1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient](https://doi.org/10.1186/s41747-024-00522-5),” _Eur. Radiol. Exp._, vol. 8, no. 1, 2024, Art. no. 119.
 
