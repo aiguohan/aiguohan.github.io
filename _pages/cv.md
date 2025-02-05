@@ -19,6 +19,8 @@ Academic Appointments
 ======
 - **Current Appointments**
   * Assistant Professor, Department of Biomedical Engineering and Mechanics, Virginia Tech, 2023 - Present
+  * Affiliate Faculty (0%), Department of Mechanical Engineering, Virginia Tech, 2023 - Present
+  * Adjunct Assistant Professor (0%), Department of Electrical and Computer Engineering, UIUC, 2023 - Present
 
 - **Past Appointments**
   * Research Assistant Professor, Department of Electrical and Computer Engineering, UIUC, 2019 - 2023
