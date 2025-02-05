@@ -30,17 +30,19 @@ Academic Appointments
 
 Honors and Awards
 ======
-* 2023 Radiology Editor’s Recognition Award for reviewing with Special Distinction, 2023
+* AIUM Basic Science & Instrumentation Rising Star Webinar Speaker, 2025
+* Radiology Editor’s Recognition Award for Reviewing with Special Distinction, 2024
+* Radiology Editor’s Recognition Award for Reviewing with Special Distinction, 2023
 * IEEE TMI Distinguished Reviewer (Bronze Level), 2023
 * IEEE TMI Distinguished Reviewer (Gold Level), 2022
-* NIH NIBIB Trailblazer Award, 2022
+* **NIH NIBIB Trailblazer Award, 2022**
 * Illinois Delta Allocation Award, 2022
-* Fellow, American Institute of Ultrasound in Medicine (AIUM), 2021
+* **Fellow, American Institute of Ultrasound in Medicine (AIUM), 2021**
 * Faculty Fellow, National Center for Supercomputing Applications, 2021
 * Young Investigator Travel Grant, 175th Meeting of Acoustical Society of America, Minneapolis, 2018
 * AIUM New Investigator Award in Basic Science (Finalist), 2017
 * Financial Support, Gordon Research Conference on Image Science, 2016
-* AIUM New Investigator Award in Basic Science (First place), 2016
+* **AIUM New Investigator Award in Basic Science (First place), 2016**
 * Student Travel Award for the 8th ICUBM meeting, 2012
 * Outstanding Graduate Award from Nanjing University, 2008
 * Provincial First Prize in China Undergraduate Mathematical Contest in Modeling (CUMCM), 2006
