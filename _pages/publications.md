@@ -29,10 +29,13 @@ author_profile: true
 1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, 2023, Art. no. e232475.
 
 ## D. Journal and Other Peer-Reviewed Publications
+### 2025
+1.	M. Villegas-Downs*, T. A. Peters, J. Matthews, A. M. Fink, A. K. Matthews, J. M. Schlaeger, **A. Han**, W. D. O’Brien, Jr., J. E. Briller, W. Yeo, and B. L. McFarlin, “Feasibility of remote intensive monitoring: A novel approach to reduce Black postpartum maternal cardiovascular complications,” _Journal of Midwifery & Women's Health_ (Accepted on 1/14/2025)
+
 ### 2024
 1.	D. Tamayo-Murillo*, J. T. Weeks, C. A. Keller, M. P. Andre, C. Gonzalez, A. Li, E. Grunvald, J. Liau, S. H. Shabanan, T. Wolfson, J. Zuo, A. Robinson, C. A. Carrascal, N. Sanchez, S. B. Reeder, **A. Han**, and C. B. Sirlin, “[Quantitative liver fat assessment by handheld point-of-care ultrasound: A technical implementation and pilot study in adults](https://doi.org/10.1016/j.ultrasmedbio.2024.11.005),” _Ultrasound Med. Biol._ (accepted on 11/4/2024; online 12/16/24)
    
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://arxiv.org/abs/2405.02165),” in _2024 IEEE International Conference on Big Data_, 2024. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%)
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://arxiv.org/abs/2405.02165),” in _2024 IEEE International Conference on Big Data_, 2024. (accepted as a regular paper on 10/26/24; acceptance rate: 18.8%) [[code]](https://github.com/ForeverNightmare/EEG2Text) 
 
 1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient](https://doi.org/10.1186/s41747-024-00522-5),” _Eur. Radiol. Exp._, vol. 8, no. 1, 2024, Art. no. 119.
 
