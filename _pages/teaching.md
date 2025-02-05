@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 ### Virginia Tech
 * [BMES 3154 - Biosignal Processing and Classification](https://catalog.vt.edu/undergraduate/course-descriptions/bmes/) <br/>
-  Fall 2023
+  Spring 2025
 
 * [BMES 3134 - Introduction to Biomedical Imaging](https://catalog.vt.edu/undergraduate/course-descriptions/bmes/) <br/>
   Fall 2023
