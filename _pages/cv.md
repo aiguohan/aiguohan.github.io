@@ -71,7 +71,7 @@ Professional Activities and Services
 
 - **Professional Committees**
   * Member, IEEE UFFC IUS Medical Ultrasonics Technical Program Committee, 2022 – 2025
-  * Member, AIUM Bioeffects Committee, 2022 – 2025
+  * Member, AIUM Bioeffects Committee, 2022 – 2028
   * Member, Computational Acoustics Technical Specialty Group, Acoustical Society of America, 2021 – 2024
   * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2022 – 2025
   * Co-chair, AIUM/QIBAS PEQUS Backscatter Working Group, 2020 – present
