@@ -31,7 +31,7 @@ Academic Appointments
 Honors and Awards
 ======
 * AIUM Basic Science & Instrumentation Rising Star Webinar Speaker, 2025
-* Radiology Editor’s Recognition Award for Reviewing with Special Distinction, 2024
+* Radiology Editor’s Recognition Award for Reviewing with Distinction, 2024
 * Radiology Editor’s Recognition Award for Reviewing with Special Distinction, 2023
 * IEEE TMI Distinguished Reviewer (Bronze Level), 2023
 * IEEE TMI Distinguished Reviewer (Gold Level), 2022
