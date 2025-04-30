@@ -121,17 +121,17 @@ author_profile: true
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
 ## E. Conference Proceedings
-1. Z. Tian, Y. Jing, and **A. Han**, “An Open-source GPU-based acoustic simulator for fast and accurate modeling of acoustic scattering,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
+1. Z. Tian, Y. Jing, and **A. Han**, “[An Open-source GPU-based acoustic simulator for fast and accurate modeling of acoustic scattering](https://ieeexplore.ieee.org/document/10793878),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
-1.	H. Chen, Y. Zhu, J. Zuo, R. Kabir, and **A. Han**, “TranSpeed: Transformer-based generative adversarial network for speed-of-sound reconstruction in pulse-echo mode,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
+1.	H. Chen, Y. Zhu, J. Zuo, R. Kabir, and **A. Han**, “[TranSpeed: Transformer-based generative adversarial network for speed-of-sound reconstruction in pulse-echo mode](https://ieeexplore.ieee.org/document/10794018),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
-1.	H. Chen, J. Zuo, R. Kabir, Y. Zhu, and **A. Han**, “Generalizable deep learning for pulse-echo speed of sound imaging via time-shift maps,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
+1.	H. Chen, J. Zuo, R. Kabir, Y. Zhu, and **A. Han**, “[Generalizable deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/10793488),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
-1.	H. Chen, J. Zuo, Y. Zhu, R. Kabir, and **A. Han**, “Polar-space frequency-domain filtering for improved pulse-echo speed of sound imaging with convex probes,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
+1.	H. Chen, J. Zuo, Y. Zhu, R. Kabir, and **A. Han**, “[Polar-space frequency-domain filtering for improved pulse-echo speed of sound imaging with convex probes](https://ieeexplore.ieee.org/document/10794157),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
-1.	H. Chen, Z. Wang, and **A. Han**, “Guiding ultrasound breast tumor classification with human-specified regions of interest: A differentiable class activation map approach,” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
+1.	H. Chen, Z. Wang, and **A. Han**, “[Guiding ultrasound breast tumor classification with human-specified regions of interest: A differentiable class activation map approach](https://ieeexplore.ieee.org/document/10793865),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
-1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer,” in _The Forty-first International Conference on Machine Learning AI for Science Workshop (ICML’24 AI4Science)_, 2024, pp. 1–11.
+1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with EEG pre-training and multi-view transformer](https://openreview.net/forum?id=EuCixu2P0L),” in _The Forty-first International Conference on Machine Learning AI for Science Workshop (ICML’24 AI4Science)_, 2024, pp. 1–11.
 
 1.	P. Muleki-Seya, **A. Han**, and W. D. O’Brien, Jr., “[Evaluation of ultrasound scattering models adapted for two types of scatterers to extract scatterer parameters from cell-pellet biophantoms](https://ieeexplore.ieee.org/document/9957992),” in _2022 IEEE Int. Ultrason. Symp. (IUS)_, 2022, pp. 1–4.
 
