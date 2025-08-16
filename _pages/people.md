@@ -76,7 +76,7 @@ Biomedical Ultrasound Research Group (BURG)
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="https://www.linkedin.com/"><strong>Arlo Gow</strong></a> <br>
+      <a href="https://www.linkedin.com/in/arlo-gow-174870221/"><strong>Arlo Gow</strong></a> <br>
             Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2025 - present)   <br>
             B.S. in Biomedical Engineering, University of Rochester (2024) <br>
             Arlo is interested in the use of computational acoustic modeling to improve understanding of ultrasound diagnostics and therapeutics. Outside of the lab, Arlo likes reading, video games, and going on hikes.
@@ -92,7 +92,7 @@ Biomedical Ultrasound Research Group (BURG)
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="https://www.linkedin.com/"><strong>Elisabeth Tershak</strong></a> <br>
+      <a href="https://www.linkedin.com/in/elisabethtershak/"><strong>Elisabeth Tershak</strong></a> <br>
       Undergraduate Student, Biomedical Engineering, Virginia Tech (Aug 2024 - present)
     </div>
   </div>
