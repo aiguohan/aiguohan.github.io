@@ -37,13 +37,13 @@ author_profile: true
 1. K. B. Bader*, F. Padilla, K. J. Haworth, N. Ellens, D. Dalecki, D. L. Miller, K. A. Wear, and **Bioeffects Committee of the American Institute of Ultrasound in Medicine**, “[Overview of therapeutic ultrasound applications and safety considerations: 2024 update](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.16611),” _J. Ultrasound Med._, vol. 44, pp. 381–433, 2025.
 
 1.	D. Tamayo-Murillo*, J. T. Weeks, C. A. Keller, M. P. Andre, C. Gonzalez, A. Li, E. Grunvald, J. Liau, S. H. Shabanan, T. Wolfson, J. Zuo, A. Robinson, C. A. Carrascal, N. Sanchez, S. B. Reeder, **A. Han**, and C. B. Sirlin, “[Quantitative liver fat assessment by handheld point-of-care ultrasound: A technical implementation and pilot study in adults](https://doi.org/10.1016/j.ultrasmedbio.2024.11.005),” _Ultrasound Med. Biol._, vol. 51, no. 3, pp. 475–483, 2025.
+
+1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo](http://doi.org/10.1002/jum.16585),” _J. Ultrasound Med._, vol. 44, no. 1, pp. 97–109, 2025.
    
 ### 2024 
 1.	H. Liu, D. Hajialigol, B. Antony, **A. Han**, and X. Wang*, “[EEG2Text: Open vocabulary EEG-to-text decoding with multi-view transformer](https://ieeexplore.ieee.org/document/10825980),” _2024 IEEE International Conference on Big Data (BigData)_, Washington, DC, USA, 2024, pp. 1824–1833. (Peer-reviewed conference proceedings paper; acceptance rate: 18.8%) [[arxiv version]](https://arxiv.org/abs/2405.02165) [[code]](https://github.com/ForeverNightmare/EEG2Text) 
 
 1.	M. Toto-Brocchi, Y. Wu, S. Jerban, **A. Han**, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Quantitative ultrasound assessment of fatty infiltration of the rotator cuff muscles using backscatter coefficient](https://doi.org/10.1186/s41747-024-00522-5),” _Eur. Radiol. Exp._, vol. 8, no. 1, 2024, Art. no. 119.
-
-1.	Y. Wu, V. Barrere, **A. Han**, E. Y. Chang, M. P. Andre, and S. B. Shah*, “[Influences of variability in attenuation compensation on the estimation of backscatter coefficient of median nerves in vivo](http://doi.org/10.1002/jum.16585),” _J. Ultrasound Med._, vol. 44, no. 1, pp. 97–109, 2025.
 
 1.	J. Zuo, D. G. Simpson, W. D. O’Brien, Jr., B. L. McFarlin, and **A. Han***, “[Automated field of interest determination for quantitative ultrasound analyses of cervical tissues: Toward real-time clinical translation in spontaneous preterm birth risk assessment](https://doi.org/10.1016/j.ultrasmedbio.2024.08.011),” _Ultrasound Med. Biol._, vol. 50, no. 12, pp. 1861–1867, 2024.
 
