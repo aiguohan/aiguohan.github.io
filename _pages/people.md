@@ -77,7 +77,6 @@ Biomedical Ultrasound Research Group (BURG)
   <div class="column right">
     <div class="member profile">
       <a href="https://www.linkedin.com/"><strong>Arlo Gow</strong></a> <br>
-      Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2025 - present)   <br>
             Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2025 - present)   <br>
             B.S. in Biomedical Engineering, University of Rochester (2024) <br>
             Arlo is interested in the use of computational acoustic modeling to improve understanding of ultrasound diagnostics and therapeutics. Outside of the lab, Arlo likes reading, video games, and going on hikes.
