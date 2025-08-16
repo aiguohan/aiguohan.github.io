@@ -18,8 +18,8 @@ author_profile: true
 †Co-first author   *Corresponding author
 
 ## A. Preprints
-1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://www.techrxiv.org/doi/full/10.36227/techrxiv.171709863.32880935),” techrxiv, 2024.
-
+1.	Y. Park* and **A. Han**, “[Robust domain selection for functional data via interval-wise testing and effect size mapping](https://arxiv.org/abs/2506.03462),” arXiv, 2025.
+   
 ## B. Invited Book Chapters
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
 
@@ -30,6 +30,8 @@ author_profile: true
 
 ## D. Journal and Other Peer-Reviewed Publications
 ### 2025   
+1.	H. Chen and **A. Han***, “Robust deep learning for pulse-echo speed of sound imaging via time-shift maps,” _IEEE Trans. Med. Imaging_, 2025 (Accepted on 8/12/2025).
+   
 1.	M. Villegas-Downs*, T. A. Peters, J. Matthews, A. M. Fink, A. K. Matthews, J. M. Schlaeger, **A. Han**, W. D. O’Brien, Jr., J. E. Briller, W. Yeo, and B. L. McFarlin, “[Feasibility of remote intensive monitoring: A novel approach to reduce Black postpartum maternal cardiovascular complications](https://onlinelibrary.wiley.com/doi/10.1111/jmwh.13743),” _Journal of Midwifery & Women's Health_ (Accepted on 1/14/2025)
 
 1. K. B. Bader*, F. Padilla, K. J. Haworth, N. Ellens, D. Dalecki, D. L. Miller, K. A. Wear, and **Bioeffects Committee of the American Institute of Ultrasound in Medicine**, “[Overview of therapeutic ultrasound applications and safety considerations: 2024 update](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.16611),” _J. Ultrasound Med._, vol. 44, pp. 381–433, 2025.
