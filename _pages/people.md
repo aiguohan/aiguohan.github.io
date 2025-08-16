@@ -71,13 +71,30 @@ Biomedical Ultrasound Research Group (BURG)
 <div class="row">
   <div class="column left">
     <div class="member__avatar">
-      <img src="/images/img/students/Connor Murphy.jpg" align="left" class="member__avatar" alt="Connor Murphy"> 
+      <img src="/images/img/students/Arlo Gow.jpg" align="left" class="member__avatar" alt="Arlo Gow"> 
     </div>
   </div>
   <div class="column right">
     <div class="member profile">
-      <a href="https://www.linkedin.com/in/connor-murphy5974/"><strong>Connor Murphy</strong></a> <br>
-      Undergraduate Student, Biomedical Engineering, Virginia Tech (Aug 2020 - present)   <br>
+      <a href="https://www.linkedin.com/"><strong>Arlo Gow</strong></a> <br>
+      Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2025 - present)   <br>
+            Ph.D. Student, Biomedical Engineering, Virginia Tech (Aug 2025 - present)   <br>
+            B.S. in Biomedical Engineering, University of Rochester (2024) <br>
+            Arlo is interested in the use of computational acoustic modeling to improve understanding of ultrasound diagnostics and therapeutics. Outside of the lab, Arlo likes reading, video games, and going on hikes.
+    </div>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column left">
+    <div class="member__avatar">
+      <img src="/images/img/students/Elisabeth Tershak.jpg" align="left" class="member__avatar" alt="Elisabeth Tershak"> 
+    </div>
+  </div>
+  <div class="column right">
+    <div class="member profile">
+      <a href="https://www.linkedin.com/"><strong>Elisabeth Tershak</strong></a> <br>
+      Undergraduate Student, Biomedical Engineering, Virginia Tech (Aug 2024 - present)
     </div>
   </div>
 </div>
@@ -195,6 +212,7 @@ Biomedical Ultrasound Research Group (BURG)
 - **Shi "Mike" Chen** (ECE@UIUC, 2018-2019) --> MS Student at Stanford  <br>
 
 ## Former Undergraduate Research Assistants
+- [**Connor Murphy**](https://www.linkedin.com/in/connor-murphy5974/) (BMES@VT, 2023-2025)
 - [**Pablo Sanchez**](https://www.linkedin.com/in/pablo-sanchez-jr/) (ECE@UIUC, 2020-2022)
 - [**Qiuyu "Tod" Wang**](https://www.linkedin.com/in/qiuyu-wang-9887b41a2/) (ECE@UIUC, 2020-2022)
 - [**Rohan Mohta**](https://www.linkedin.com/in/rohan-mohta/)(ECE@UIUC, 2021-2022)
