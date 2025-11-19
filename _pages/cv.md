@@ -30,6 +30,7 @@ Academic Appointments
 
 Honors and Awards
 ======
+* UFFC Outstanding Reviewer Award (one of three recipients), 2025
 * AIUM Basic Science & Instrumentation Rising Star Webinar Speaker, 2025
 * Radiology Editor’s Recognition Award for Reviewing with Distinction, 2024
 * Radiology Editor’s Recognition Award for Reviewing with Special Distinction, 2023
@@ -53,7 +54,7 @@ Honors and Awards
 Professional Activities and Services
 ======
 - **Member of Editorial Board** for journals:
-  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2020 – 2025
+  * European Radiology, Scientific Editorial Board (Ultrasound Section), 2020 – 2026
 
 - **Organizer** for conference sessions:
   * Special session titled “Deep Learning in Ultrasound Imaging and Tissue Characterization,” the 183rd Meeting of the Acoustical Society of America, Nashville, TN, 12/2022.
@@ -61,6 +62,7 @@ Professional Activities and Services
 - **Session Chair** for conferences:
   * IEEE International Ultrasonics Symposium, 2017, 2020, 2021, 2022
   * International Symposium on Ultrasonic Imaging and Tissue Characterization (UITC), 2024
+  * Sixth Joint Meeting of Acoustical Society of America and Acoustical Society of Japan, 2025
     
 - **Reviewer** for grants:
   * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 10/2021
@@ -70,7 +72,7 @@ Professional Activities and Services
   * National Institutes of Health (Ad Hoc Member, NIH CTIS Study Section), 02/2024
 
 - **Professional Committees**
-  * Member, IEEE UFFC IUS Medical Ultrasonics Technical Program Committee, 2022 – 2025
+  * Member, IEEE UFFC IUS Medical Ultrasonics Technical Program Committee, 2022 – present
   * Member, AIUM Bioeffects Committee, 2022 – 2028
   * Member, Computational Acoustics Technical Specialty Group, Acoustical Society of America, 2021 – 2024
   * Member, Biomedical Acoustics Technical Committee, Acoustical Society of America, 2022 – 2025
