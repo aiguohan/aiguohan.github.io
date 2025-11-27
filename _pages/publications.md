@@ -30,7 +30,7 @@ author_profile: true
 
 ## D. Journal and Other Peer-Reviewed Publications
 ### 2025
-1.	Z. Tian, Y. Jing, and **A. Han***, “[An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733],” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (Accepted on 11/18/2025)
+1.	Z. Tian, Y. Jing, and **A. Han***, “[An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (Accepted on 11/18/2025)
 
 1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “Characterization of cervical remodeling during pregnancy and the postpartum: A case series analysis,” _AJCR._ (Accepted on 11/4/2025)
 
