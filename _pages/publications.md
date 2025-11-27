@@ -34,7 +34,7 @@ author_profile: true
 
 1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “Characterization of cervical remodeling during pregnancy and the postpartum: A case series analysis,” _AJCR._ (In press)
 
-1.	S. M. Chan, V. Martins, K. Marsh, K. Wang, J. Weeks, A. Han, Y. Meng, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “Imaging evaluation for steatotic liver disease,” _Korean J. Radiol._ (In press) 
+1.	S. M. Chan, V. Martins, K. Marsh, K. Wang, J. Weeks, **A. Han**, Y. Meng, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “Imaging evaluation for steatotic liver disease,” _Korean J. Radiol._ (In press) 
 
 1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/11134686),” _IEEE Trans. Med. Imaging_, 2025 (In press).
 
