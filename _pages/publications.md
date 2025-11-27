@@ -30,13 +30,13 @@ author_profile: true
 
 ## D. Journal and Other Peer-Reviewed Publications
 ### 2025
-1.	Z. Tian, Y. Jing, and **A. Han***, “[An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ [[code]](https://github.com/zixuant5/UltraWave)) (Accepted on 11/18/2025) 
+1.	Z. Tian, Y. Jing, and **A. Han***, “[An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)  
 
-1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “Characterization of cervical remodeling during pregnancy and the postpartum: A case series analysis,” _AJCR._ (Accepted on 11/4/2025)
+1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “Characterization of cervical remodeling during pregnancy and the postpartum: A case series analysis,” _AJCR._ (In press)
 
-1.	S. M. Chan, V. Martins, K. Marsh, K. Wang, J. Weeks, A. Han, Y. Meng, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “Imaging evaluation for steatotic liver disease,” _Korean J. Radiol._ (Accepted on 9/29/2025) 
+1.	S. M. Chan, V. Martins, K. Marsh, K. Wang, J. Weeks, A. Han, Y. Meng, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “Imaging evaluation for steatotic liver disease,” _Korean J. Radiol._ (In press) 
 
-1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/11134686),” _IEEE Trans. Med. Imaging_, 2025 (Accepted on 8/12/2025).
+1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/11134686),” _IEEE Trans. Med. Imaging_, 2025 (In press).
 
 1.	M. Villegas-Downs, Z. Gao, H. Jia, **A. Han**, B. L. McFarlin, W. D. O’Brien, Jr., and D. G. Simpson*, “[Repeatability and reproducibility of quantitative ultrasound cervical measurements in women at risk for preterm birth](https://link.springer.com/article/10.1007/s44352-025-00020-3),” _Discover Imaging_, vol. 2, no. 16, pp. 1-17, 2025.
    
