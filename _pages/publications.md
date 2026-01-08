@@ -30,11 +30,11 @@ author_profile: true
 
 ## D. Journal and Other Peer-Reviewed Publications
 ### 2025
-1.	Z. Tian, Y. Jing, and **A. Han***, “[An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)  
+1.	Z. Tian, Y. Jing, and **A. Han***, “[UltraWave: An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)  
 
 1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “Characterization of cervical remodeling during pregnancy and the postpartum: A case series analysis,” _AJCR._ (In press)
 
-1.	S. M. Chan, V. Martins, K. Marsh, K. Wang, J. Weeks, **A. Han**, Y. Meng, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “Imaging evaluation for steatotic liver disease,” _Korean J. Radiol._ (In press) 
+1.	S. M. Chan, V. F. Martins, K. Marsh, K. Wang, J. Weeks, **A. Han**, M. Yin, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “Imaging evaluation for steatotic liver disease,” _Korean J. Radiol._ (In press) 
 
 1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/11134686),” _IEEE Trans. Med. Imaging_, 2025 (In press).
 
@@ -61,7 +61,7 @@ author_profile: true
 
 1.	S. Hosseini Shabanan, V. F. Martins, T. Wolfson, J. Weeks, L. Ceriani, C. Behling, V. Chernyak, A. El Kaffas, A. Borhani, **A. Han**, K. Wang, K. J. Fowler, and C. B. Sirlin*, “[MASLD: What we have learned and where we need to go — A call to action](https://doi.org/10.1148/rg.240048),” _RadioGraphics_. vol. 44, no. 11, 2024, Art. no. e240048. (Featured in an [invited commentary](https://doi.org/10.1148/rg.240209) in _Radiographics_.)
   
-1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Postmortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._, vol. 50, no. 8, pp. 1287–1291, 2024.
+1.	V. Barrere, Y. Wu, **A. Han**, S. Jerban, M. P. Andre, S. B. Shah, and E. Y. Chang*, “[Post-mortem tissue degassing using positive pressure is superior to negative pressure](https://www.sciencedirect.com/science/article/abs/pii/S0301562924001753),” _Ultrasound Med. Biol._, vol. 50, no. 8, pp. 1287–1291, 2024.
 
 1. Z. Tian, M. Olmstead, Y. Jing, and **A. Han***, “[Transcranial phase correction using pulse-echo ultrasound and deep learning: A 2-D numerical study](https://ieeexplore.ieee.org/document/10347244),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control_, vol. 71, no. 1, pp. 117–126, 2024.
 
