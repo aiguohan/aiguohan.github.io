@@ -131,6 +131,13 @@ author_profile: true
 1. M. Teisseire, **A. Han**, R. Abuhabsah, J. P. Blue, Jr., S. Sarwate, and W. D. O’Brien, Jr.*, “[Ultrasonic backscatter coefficient quantitative estimates from Chinese hamster ovary cell pellet biophantoms](https://asa.scitation.org/doi/10.1121/1.3483740),” _J. Acoust. Soc. Am._, vol. 128, no. 5, pp. 3175–3180, 2010. 
 
 ## E. Conference Proceedings
+
+1.	Z. Tian, Y. Jing, and **A. Han**, “[Numerical analysis of transcranial phase aberration correction techniques](https://ieeexplore.ieee.org/document/11201782),” in _2025 IEEE Int. Ultrason. Symp. (IUS)_, 2025, pp. 1–4.
+   
+3.	Z. Tian, Y. Jing, and **A. Han**, “[Accurate and efficient modeling of acoustic and elastic absorption in medical ultrasound simulations](https://ieeexplore.ieee.org/abstract/document/11201807),” in _2025 IEEE Int. Ultrason. Symp. (IUS)_, 2025, pp. 1–4.
+  
+5.	H. Chen, J. Zuo, Y. Zhu, R. Kabir, and **A. Han**, “[GPU-based acceleration for real-time speed-of-sound imaging](https://ieeexplore.ieee.org/document/11201287),” in _2025 IEEE Int. Ultrason. Symp. (IUS)_, 2025, pp. 1–4.
+
 1. Z. Tian, Y. Jing, and **A. Han**, “[An Open-source GPU-based acoustic simulator for fast and accurate modeling of acoustic scattering](https://ieeexplore.ieee.org/document/10793878),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
 
 1.	H. Chen, Y. Zhu, J. Zuo, R. Kabir, and **A. Han**, “[TranSpeed: Transformer-based generative adversarial network for speed-of-sound reconstruction in pulse-echo mode](https://ieeexplore.ieee.org/document/10794018),” in _2024 Ultrasonics, Ferroelectrics, and Frequency Control Joint Symposium_, 2024, pp. 1–4.
