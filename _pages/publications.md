@@ -29,10 +29,12 @@ author_profile: true
 1. **A. Han**, “[Hepatic steatosis assessment: Harnessing the power of integrating multiple quantitative US parameters](https://doi.org/10.1148/radiol.232475),” _Radiology_, vol. 309, no. 1, 2023, Art. no. e232475.
 
 ## D. Journal and Other Peer-Reviewed Publications
-### 2025
-1.	Z. Tian, Y. Jing, and **A. Han***, “[UltraWave: An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)  
 
-1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “Characterization of cervical remodeling during pregnancy and the postpartum: A case series analysis,” _AJCR._ (In press)
+### 2026
+1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “[Characterization of cervical remodeling during pregnancy and the postpartum Period: A case series analysis](https://amjcaserep.com/abstract/index/idArt/949296),” _Am. J. Case Rep._, vol. 27, 2026, Art. no. e949296.
+
+### 2025
+1.	Z. Tian, Y. Jing, and **A. Han***, “[UltraWave: An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)
 
 1.	S. M. Chan, V. F. Martins, K. Marsh, K. Wang, J. Weeks, **A. Han**, M. Yin, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “[Imaging evaluation for steatotic liver disease](https://kjronline.org/DOIx.php?id=10.3348/kjr.2025.0966),” _Korean J. Radiol._ (In press) 
 
