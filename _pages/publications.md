@@ -31,7 +31,7 @@ author_profile: true
 ## D. Journal and Other Peer-Reviewed Publications
 
 ### 2026
-1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “[Characterization of cervical remodeling during pregnancy and the postpartum Period: A case series analysis](https://amjcaserep.com/abstract/index/idArt/949296),” _Am. J. Case Rep._, vol. 27, 2026, Art. no. e949296.
+1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “[Characterization of cervical remodeling during pregnancy and the postpartum period: A case series analysis](https://amjcaserep.com/abstract/index/idArt/949296),” _Am. J. Case Rep._, vol. 27, 2026, Art. no. e949296.
 
 ### 2025
 1.	Z. Tian, Y. Jing, and **A. Han***, “[UltraWave: An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)
