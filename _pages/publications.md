@@ -42,7 +42,7 @@ author_profile: true
 
 1.	M. Villegas-Downs, Z. Gao, H. Jia, **A. Han**, B. L. McFarlin, W. D. O’Brien, Jr., and D. G. Simpson*, “[Repeatability and reproducibility of quantitative ultrasound cervical measurements in women at risk for preterm birth](https://link.springer.com/article/10.1007/s44352-025-00020-3),” _Discover Imaging_, vol. 2, no. 16, pp. 1-17, 2025.
    
-1.	M. Villegas-Downs*, T. A. Peters, J. Matthews, A. M. Fink, A. K. Matthews, J. M. Schlaeger, **A. Han**, W. D. O’Brien, Jr., J. E. Briller, W. Yeo, and B. L. McFarlin, “[Feasibility of remote intensive monitoring: A novel approach to reduce Black postpartum maternal cardiovascular complications](http://dx.doi.org/10.1111/jmwh.13743),” _Journal of Midwifery & Women's Health_, vol. 70, no. 4, pp. 549–559, 2025.
+1.	M. Villegas-Downs*, T. A. Peters, J. Matthews, A. M. Fink, A. K. Matthews, J. M. Schlaeger, **A. Han**, W. D. O’Brien, Jr., J. E. Briller, W. Yeo, and B. L. McFarlin, “[Feasibility of remote intensive monitoring: A novel approach to reduce Black postpartum maternal cardiovascular complications](http://dx.doi.org/10.1111/jmwh.13743),” _J. Midwifery & Women's Health_, vol. 70, no. 4, pp. 549–559, 2025.
 
 1. K. B. Bader*, F. Padilla, K. J. Haworth, N. Ellens, D. Dalecki, D. L. Miller, K. A. Wear, and **Bioeffects Committee of the American Institute of Ultrasound in Medicine**, “[Overview of therapeutic ultrasound applications and safety considerations: 2024 update](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.16611),” _J. Ultrasound Med._, vol. 44, pp. 381–433, 2025.
 
