@@ -40,7 +40,7 @@ author_profile: true
 
 1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/11134686),” _IEEE Trans. Med. Imaging_, 2025 (In press).
 
-1.	M. Villegas-Downs, Z. Gao, H. Jia, **A. Han**, B. L. McFarlin, W. D. O’Brien, Jr., and D. G. Simpson*, “[Repeatability and reproducibility of quantitative ultrasound cervical measurements in women at risk for preterm birth](https://link.springer.com/article/10.1007/s44352-025-00020-3),” _Discover Imaging_, vol. 2, no. 16, pp. 1-17, 2025.
+1.	M. Villegas-Downs, Z. Gao, H. Jia, **A. Han**, B. L. McFarlin, W. D. O’Brien, Jr., and D. G. Simpson*, “[Repeatability and reproducibility of quantitative ultrasound cervical measurements in women at risk for preterm birth](https://link.springer.com/article/10.1007/s44352-025-00020-3),” _Discover Imaging_, vol. 2, no. 1, 2025, Art. no. 16.
    
 1.	M. Villegas-Downs*, T. A. Peters, J. Matthews, A. M. Fink, A. K. Matthews, J. M. Schlaeger, **A. Han**, W. D. O’Brien, Jr., J. E. Briller, W. Yeo, and B. L. McFarlin, “[Feasibility of remote intensive monitoring: A novel approach to reduce Black postpartum maternal cardiovascular complications](http://dx.doi.org/10.1111/jmwh.13743),” _J. Midwifery & Women's Health_, vol. 70, no. 4, pp. 549–559, 2025.
 
