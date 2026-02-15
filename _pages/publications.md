@@ -31,12 +31,12 @@ author_profile: true
 ## D. Journal and Other Peer-Reviewed Publications
 
 ### 2026
+1.	S. M. Chan, V. F. Martins, K. Marsh, K. Wang, J. T. Weeks, **A. Han**, M. Yin, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “[Imaging evaluation for steatotic liver disease](https://kjronline.org/DOIx.php?id=10.3348/kjr.2025.0966),” _Korean J. Radiol._, vol. 27, no. 2, pp. 137–151, 2026.
+   
 1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “[Characterization of cervical remodeling during pregnancy and the postpartum period: A case series analysis](https://amjcaserep.com/abstract/index/idArt/949296),” _Am. J. Case Rep._, vol. 27, 2026, Art. no. e949296.
 
 ### 2025
 1.	Z. Tian, Y. Jing, and **A. Han***, “[UltraWave: An open-source multi-GPU full-wave simulator for acoustic and elastic wave scattering in 3-D heterogeneous media](https://ieeexplore.ieee.org/document/11265733),” _IEEE Trans. Ultrason. Ferroelectr. Freq. Control._ (In press) [[code]](https://github.com/zixuant5/UltraWave)
-
-1.	S. M. Chan, V. F. Martins, K. Marsh, K. Wang, J. Weeks, **A. Han**, M. Yin, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “[Imaging evaluation for steatotic liver disease](https://kjronline.org/DOIx.php?id=10.3348/kjr.2025.0966),” _Korean J. Radiol._ (In press) 
 
 1.	H. Chen and **A. Han***, “[Robust deep learning for pulse-echo speed of sound imaging via time-shift maps](https://ieeexplore.ieee.org/document/11134686),” _IEEE Trans. Med. Imaging_, 2025 (In press).
 
