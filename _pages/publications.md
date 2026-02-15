@@ -44,7 +44,7 @@ author_profile: true
    
 1.	M. Villegas-Downs*, T. A. Peters, J. Matthews, A. M. Fink, A. K. Matthews, J. M. Schlaeger, **A. Han**, W. D. O’Brien, Jr., J. E. Briller, W. Yeo, and B. L. McFarlin, “[Feasibility of remote intensive monitoring: A novel approach to reduce Black postpartum maternal cardiovascular complications](http://dx.doi.org/10.1111/jmwh.13743),” _J. Midwifery & Women's Health_, vol. 70, no. 4, pp. 549–559, 2025.
 
-1. K. B. Bader*, F. Padilla, K. J. Haworth, N. Ellens, D. Dalecki, D. L. Miller, K. A. Wear, and **Bioeffects Committee of the American Institute of Ultrasound in Medicine**, “[Overview of therapeutic ultrasound applications and safety considerations: 2024 update](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.16611),” _J. Ultrasound Med._, vol. 44, pp. 381–433, 2025.
+1. K. B. Bader*, F. Padilla, K. J. Haworth, N. Ellens, D. Dalecki, D. L. Miller, K. A. Wear, and **Bioeffects Committee of the American Institute of Ultrasound in Medicine**, “[Overview of therapeutic ultrasound applications and safety considerations: 2024 update](https://onlinelibrary.wiley.com/doi/full/10.1002/jum.16611),” _J. Ultrasound Med._, vol. 44, no. 3, pp. 381–433, 2025.
 
 1.	D. Tamayo-Murillo*, J. T. Weeks, C. A. Keller, M. P. Andre, C. Gonzalez, A. Li, E. Grunvald, J. Liau, S. H. Shabanan, T. Wolfson, J. Zuo, A. Robinson, C. A. Carrascal, N. Sanchez, S. B. Reeder, **A. Han**, and C. B. Sirlin, “[Quantitative liver fat assessment by handheld point-of-care ultrasound: A technical implementation and pilot study in adults](https://doi.org/10.1016/j.ultrasmedbio.2024.11.005),” _Ultrasound Med. Biol._, vol. 51, no. 3, pp. 475–483, 2025.
 
