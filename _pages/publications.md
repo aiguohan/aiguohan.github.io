@@ -18,7 +18,6 @@ author_profile: true
 †Co-first author   *Corresponding author
 
 ## A. Preprints
-1.	Y. Park* and **A. Han**, “[Robust domain selection for functional data via interval-wise testing and effect size mapping](https://arxiv.org/abs/2506.03462),” arXiv, 2025.
    
 ## B. Invited Book Chapters
 1. **A. Han**, “[Extracting quantitative ultrasonic parameters from the backscatter coefficient](https://link.springer.com/chapter/10.1007/978-3-031-21987-0_4),” in _Quantitative Ultrasound in Soft Tissues (2nd ed.)_, J. Mamou and M. L. Oelze, Eds. Springer Nature Switzerland AG, 2023, pp. 43-63.
@@ -31,6 +30,8 @@ author_profile: true
 ## D. Journal and Other Peer-Reviewed Publications
 
 ### 2026
+1.	Y. Park* and **A. Han**, “Robust domain selection for functional data via interval-wise testing and effect size mapping,” _J. R. Stat. Soc. Ser. C Appl. Stat._ (Accepted 2/19/2026) [[arxiv version]](https://arxiv.org/abs/2506.03462)
+   
 1.	S. M. Chan, V. F. Martins, K. Marsh, K. Wang, J. T. Weeks, **A. Han**, M. Yin, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “[Imaging evaluation for steatotic liver disease](https://kjronline.org/DOIx.php?id=10.3348/kjr.2025.0966),” _Korean J. Radiol._, vol. 27, no. 2, pp. 137–151, 2026.
    
 1.	M. Villegas-Downs*, M. Mohammadi, **A. Han**, W. D. O’Brien, Jr., J. M. Schlaeger, and B. L. McFarlin, “[Characterization of cervical remodeling during pregnancy and the postpartum period: A case series analysis](https://amjcaserep.com/abstract/index/idArt/949296),” _Am. J. Case Rep._, vol. 27, 2026, Art. no. e949296.
