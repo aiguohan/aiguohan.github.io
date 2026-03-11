@@ -20,4 +20,4 @@ Prospective students should apply through the [**Virginia Tech Biomedical Engine
 ## Undergraduate Students
 Limited undergraduate research positions are available. Expected qualifications include either:
 * GPA > 3.8, or
-* Prior coursework in digital signal processing, digital imaging, image processing, machine learning, and/or acoustic or electromagnetic waves,
+* Prior coursework in digital signal processing, digital imaging, image processing, machine learning, and/or acoustic or electromagnetic waves
