@@ -15,5 +15,8 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "About"
+    url: /about/
+    
   - title: "Open positions"
     url: /positions/
