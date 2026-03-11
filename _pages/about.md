@@ -28,7 +28,3 @@ Aiguo Han is an Assistant Professor of the Department of Biomedical Engineering 
 Aiguo is a member of the Acoustical Society of America (ASA), a member of the Institute of Electrical and Electronics Engineers (IEEE), and an elected Fellow of the American Institute of Ultrasound in Medicine (AIUM). <br>
 
 More information about Aiguo can be found [here](cv). <br>
-
-## Hiring
-Aiguo is recruiting graduate and undergraduate students with research assistantships available. Individuals with background and interests in acoustics, ultrasound imaging and/or machine learning are encouraged to contact Aiguo via e-mail. <br>
-
