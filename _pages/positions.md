@@ -5,8 +5,6 @@ permalink: /positions/
 author_profile: true
 ---
 
-The Virginia Tech Biomedical Ultrasound Research Group develops advanced ultrasound imaging technologies for biomedical and clinical applications, including transcranial ultrasound, quantitative ultrasound, ultrafast flow imaging, and AI-enabled ultrasound imaging.
-
 ## Postdoctoral Associate
 We are seeking a **postdoctoral researcher** to work on advanced biomedical ultrasound imaging, with potential projects in transcranial ultrasound brain imaging, quantitative ultrasound imaging, ultrasound flow imaging, or AI-enabled ultrasound imaging.
 
