@@ -11,7 +11,7 @@ redirect_from:
 
 ## Aiguo Han, PhD
 Assistant Professor <br>
-[Department of Biomedical Engineering and Mechanics (BEAM)](https://beam.vt.edu/) <br>
+[Department of Biomedical Engineering](https://bme.vt.edu/) <br>
 [College of Engineering](https://eng.vt.edu/) <br>
 [Virginia Tech](https://www.vt.edu/) <br>
 
@@ -23,7 +23,7 @@ Blacksburg, VA  24061 <br>
 email: aiguohan@vt.edu <br>
 
 ## Biography
-Aiguo Han is an Assistant Professor of the Department of Biomedical Engineering and Mechanics at Virginia Tech. His research is centered around ultrasound imaging and machine learning. He is particularly interested in quantitative ultrasound imaging, transcranial ultrasound brain imaging, machine learning in ultrasound imaging and diagnostics, ultrasonic wave propagation in biological media, and applications of biomedical ultrasound such as noninvasive liver fat quantification, preterm birth prediction, tumor characterization, cancer diagnosis, and neuromodulation. <br>
+Aiguo Han is an Assistant Professor of the Department of Biomedical Engineering at Virginia Tech. His research focuses on biomedical ultrasound imaging, including quantitative ultrasound, transcranial ultrasound, ultrafast ultrasound, and applications of artificial intelligence in ultrasound imaging. <br>
 
 Aiguo is a member of the Acoustical Society of America (ASA), a member of the Institute of Electrical and Electronics Engineers (IEEE), and an elected Fellow of the American Institute of Ultrasound in Medicine (AIUM). <br>
 
