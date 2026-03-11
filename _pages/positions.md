@@ -1,12 +1,8 @@
 ---
-permalink: /
 layout: archive
-excerpt: "Open positions"
 title: "Open positions"
-author_profile: false
-redirect_from: 
-  - /positions/
-  - /positions.html
+permalink: /positions/
+author_profile: true
 ---
 
 ## Postdoctoral Associate
