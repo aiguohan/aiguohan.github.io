@@ -10,7 +10,7 @@ We are seeking a **postdoctoral researcher** to work on advanced biomedical ultr
 
 Individuals with interests in ultrasound imaging, computational imaging, acoustics, signal processing, and machine learning are encouraged to contact Aiguo Han via email. Applicants should include a CV and a brief description of research interests. 
 
-Outstanding candidates may also be eligible for [Virginia Tech Presidential Postdoctoral Fellowships](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html).
+Outstanding candidates may also be eligible for [**Virginia Tech Presidential Postdoctoral Fellowships**](https://www.research.vt.edu/about/postdoctoral-associates/virginia-tech-presidential-postdoctoral-fellowships.html).
 
 ## Graduate Students
 We are always looking for **motivated PhD students** interested in ultrasound imaging, signal processing, and machine learning. Students with backgrounds in **electrical and computer engineering (ECE)** or **biomedical engineering (BME)** are particularly encouraged to apply.
