@@ -3,7 +3,7 @@ permalink: /
 layout: archive
 excerpt: "Open positions"
 title: "Open positions"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /positions/
   - /positions.html
