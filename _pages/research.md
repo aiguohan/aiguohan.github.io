@@ -7,7 +7,7 @@ author_profile: true
 {% include base_path %}
 
 ## Central Theme
-Our research focuses on developing and translating cutting-edge biomedical ultrasound technologies to address unmet medical needs and ultimately benefit human health.
+Our research focuses on the development and translation of cutting-edge biomedical ultrasound technologies, integrating ultrasound physics, signal processing, and artificial intelligence to address unmet medical needs and ultimately improve human health.
 
 ## Example Projects (Sorted by Technical Areas)
 
