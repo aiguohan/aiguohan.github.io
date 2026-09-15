@@ -30,9 +30,11 @@ author_profile: true
 ## D. Journal and Other Peer-Reviewed Publications
 
 ### 2026
+1.	Y. Wu, K. Pan, X. Cheng, E. Orozco, **A. Han**, M. P. Andre, E. Y. Chang, and S. B. Shah*, “Multi-parametric quantitative ultrasound imaging evaluation of rat sciatic nerve regeneration,” _Sci. Rep._ (Accepted 9/15/2026)
+   
 1.	M. A. Wallig, MR. Kabir, **A. Han***, Y. Park, M. P. Andre, and W. D. O’Brien, Jr., “[Ultrasound structure function for quantitative assessment of steatotic liver disease based on total severity score](https://doi.org/10.1121/10.0043904),” _J. Acoust. Soc. Am._, vol. 159, no. 6, pp. 5266–5275, 2026.
    
-1.	Y. Park* and **A. Han**, “[Robust domain selection for functional data via interval-wise testing and effect size mapping](https://doi.org/10.1093/jrsssc/qlag014),” _J. R. Stat. Soc. Ser. C Appl. Stat._ (Accepted 2/19/2026) [[arxiv version]](https://arxiv.org/abs/2506.03462)
+1.	Y. Park* and **A. Han**, “[Robust domain selection for functional data via interval-wise testing and effect size mapping](https://doi.org/10.1093/jrsssc/qlag014),” _J. R. Stat. Soc. Ser. C Appl. Stat._, vol. 75, no. 3, pp. 786–800, 2026.
 
 1. S. M. Chan, V. F. Martins, K. Marsh, K. Wang, J. T. Weeks, **A. Han**, M. Yin, K. J. Fowler, C. B. Sirlin, and C. W. Hong*, “[Response to ‘Considerations in imaging-based assessment of steatotic liver disease to enhance harmonization, longitudinal interpretation, and clinical implementation](https://kjronline.org/pdf/10.3348/kjr.2026.0358),’” _Korean J. Radiol._, vol. 27, e41, 2026. [Letter to the Editor]
    
