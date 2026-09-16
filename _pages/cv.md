@@ -50,7 +50,7 @@ Honors and Awards
 * Plantronics Enterprise Scholarship, 2006
 * People Scholarship, 2005, 2006, 2007
 
-Professional Activities and External Services
+Professional Activities and External Service
 ======
 - **Editorial Board**:
   * European Radiology, Scientific Editorial Board (Ultrasound Section), 2020 – 2026
@@ -92,7 +92,7 @@ Professional Activities and External Services
   * Member, Society for Brain Mapping and Therapeutics (SBMT)
   * Founding Member, International Focused Ultrasound Society (IFUS)
 
-Internal Services and Outreach Activities
+Internal Service and Outreach Activities
 ======
 - **Virginia Tech (Since 2023)**:
  * Member, BME Undergraduate Curriculum Committee, 08/2025–present
